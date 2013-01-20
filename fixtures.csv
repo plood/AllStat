@@ -13275,43 +13275,43 @@ leaguename;matchdate;matchday;hometeam;awayteam;homescore;awayscore;attendance
 "Allsvenskan 2012";2012-10-01;25;"IFK Göteborg";"BK Häcken";1;1;10333
 "Allsvenskan 2012";2012-10-01;25;"Djurgårdens IF";"Mjällby AIF";0;1;5112
 "Allsvenskan 2012";2012-10-01;25;"Syrianska FC";"Malmö FF";0;2;1901
-"Allsvenskan 2012";2012-10-05;26;"Malmö FF";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-06;26;"BK Häcken";"Syrianska FC";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-06;26;"Åtvidabergs FF";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-07;26;GAIS;"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-07;26;"Örebro SK";"GIF Sundsvall";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-07;26;AIK;"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-07;26;"Mjällby AIF";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-07;26;"Kalmar FF";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-20;27;"Gefle IF";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-20;27;"Mjällby AIF";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-21;27;"Helsingborgs IF";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-21;27;"IFK Norrköping";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-21;27;"Kalmar FF";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-22;27;"Djurgårdens IF";GAIS;NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-22;27;"IFK Göteborg";AIK;NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-22;27;"Syrianska FC";"GIF Sundsvall";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-26;28;"Malmö FF";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-27;28;"BK Häcken";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-27;28;AIK;"Syrianska FC";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-28;28;GAIS;"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-28;28;"Örebro SK";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-28;28;"GIF Sundsvall";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-28;28;"Åtvidabergs FF";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-29;28;"IF Elfsborg";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-31;29;"Malmö FF";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-31;29;GAIS;"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-31;29;"BK Häcken";AIK;NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-31;29;"Åtvidabergs FF";"GIF Sundsvall";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-31;29;"Mjällby AIF";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-31;29;"Kalmar FF";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-31;29;"Djurgårdens IF";"Syrianska FC";NULL;NULL;NULL
-"Allsvenskan 2012";2012-10-31;29;"Helsingborgs IF";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2012";2012-11-04;30;"Örebro SK";GAIS;NULL;NULL;NULL
-"Allsvenskan 2012";2012-11-04;30;"GIF Sundsvall";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2012";2012-11-04;30;"Gefle IF";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-11-04;30;"IF Elfsborg";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-11-04;30;"IFK Norrköping";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-11-04;30;"Syrianska FC";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-11-04;30;"IFK Göteborg";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2012";2012-11-04;30;AIK;"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2012";2012-10-05;26;"Malmö FF";"IFK Norrköping";2;0;10088
+"Allsvenskan 2012";2012-10-06;26;"BK Häcken";"Syrianska FC";5;1;3524
+"Allsvenskan 2012";2012-10-06;26;"Åtvidabergs FF";"IFK Göteborg";1;2;5257
+"Allsvenskan 2012";2012-10-07;26;GAIS;"IF Elfsborg";1;2;3304
+"Allsvenskan 2012";2012-10-07;26;"Örebro SK";"GIF Sundsvall";2;2;3071
+"Allsvenskan 2012";2012-10-07;26;AIK;"Gefle IF";0;1;10776
+"Allsvenskan 2012";2012-10-07;26;"Mjällby AIF";"Helsingborgs IF";0;2;4874
+"Allsvenskan 2012";2012-10-07;26;"Kalmar FF";"Djurgårdens IF";2;2;5156
+"Allsvenskan 2012";2012-10-20;27;"Gefle IF";"Åtvidabergs FF";1;2;2337
+"Allsvenskan 2012";2012-10-20;27;"Mjällby AIF";"BK Häcken";1;2;3310
+"Allsvenskan 2012";2012-10-21;27;"Helsingborgs IF";"Örebro SK";1;1;7862
+"Allsvenskan 2012";2012-10-21;27;"IFK Norrköping";"IF Elfsborg";2;1;8204
+"Allsvenskan 2012";2012-10-21;27;"Kalmar FF";"Malmö FF";1;2;6676
+"Allsvenskan 2012";2012-10-21;27;"IFK Göteborg";AIK;0;1;10727
+"Allsvenskan 2012";2012-10-22;27;"Djurgårdens IF";GAIS;3;0;5569
+"Allsvenskan 2012";2012-10-22;27;"Syrianska FC";"GIF Sundsvall";1;1;1973
+"Allsvenskan 2012";2012-10-26;28;"Malmö FF";"Djurgårdens IF";3;1;15107
+"Allsvenskan 2012";2012-10-27;28;"BK Häcken";"Kalmar FF";1;2;5563
+"Allsvenskan 2012";2012-10-28;28;AIK;"Syrianska FC";1;1;13653
+"Allsvenskan 2012";2012-10-28;28;GAIS;"Helsingborgs IF";1;3;1711
+"Allsvenskan 2012";2012-10-28;28;"Örebro SK";"IFK Göteborg";1;0;2811
+"Allsvenskan 2012";2012-10-28;28;"GIF Sundsvall";"IFK Norrköping";0;4;2584
+"Allsvenskan 2012";2012-10-28;28;"Åtvidabergs FF";"Mjällby AIF";0;0;2831
+"Allsvenskan 2012";2012-10-29;28;"IF Elfsborg";"Gefle IF";2;0;8966
+"Allsvenskan 2012";2012-10-31;29;"Åtvidabergs FF";"GIF Sundsvall";2;2;2567
+"Allsvenskan 2012";2012-10-31;29;"Kalmar FF";"IFK Norrköping";0;2;4056
+"Allsvenskan 2012";2012-10-31;29;"Djurgårdens IF";"Syrianska FC";1;1;5637
+"Allsvenskan 2012";2012-10-31;29;"Helsingborgs IF";"IFK Göteborg";2;0;9016
+"Allsvenskan 2012";2012-11-01;29;"Malmö FF";"Örebro SK";1;1;17935
+"Allsvenskan 2012";2012-11-01;29;GAIS;"Gefle IF";2;3;1543
+"Allsvenskan 2012";2012-11-01;29;"BK Häcken";AIK;1;1;5753
+"Allsvenskan 2012";2012-11-01;29;"Mjällby AIF";"IF Elfsborg";2;3;3762
+"Allsvenskan 2012";2012-11-04;30;"Örebro SK";GAIS;4;0;2515
+"Allsvenskan 2012";2012-11-04;30;"GIF Sundsvall";"BK Häcken";1;2;2689
+"Allsvenskan 2012";2012-11-04;30;"Gefle IF";"Helsingborgs IF";2;2;1873
+"Allsvenskan 2012";2012-11-04;30;"IF Elfsborg";"Åtvidabergs FF";1;1;16176
+"Allsvenskan 2012";2012-11-04;30;"IFK Norrköping";"Mjällby AIF";2;1;4899
+"Allsvenskan 2012";2012-11-04;30;"Syrianska FC";"Kalmar FF";3;0;3109
+"Allsvenskan 2012";2012-11-04;30;"IFK Göteborg";"Djurgårdens IF";1;0;6017
+"Allsvenskan 2012";2012-11-04;30;AIK;"Malmö FF";2;0;28057
