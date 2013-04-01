@@ -1,0 +1,183 @@
+leaguename,matchdate,matchday,hometeam,awayteam,homescore,awayscore,attendance
+"Allsvenskan 2001",2001-04-07,1,"Hammarby IF","GIF Sundsvall",1,0,10196
+"Allsvenskan 2001",2001-04-08,1,"BK Häcken","Halmstads BK",2,1,2826
+"Allsvenskan 2001",2001-04-08,1,"IFK Norrköping","IF Elfsborg",0,3,9250
+"Allsvenskan 2001",2001-04-09,1,"IFK Göteborg","Helsingborgs IF",2,1,11599
+"Allsvenskan 2001",2001-04-09,1,"Malmö FF",AIK,2,0,17100
+"Allsvenskan 2001",2001-04-26,1,"Örebro SK","Örgryte IS",1,1,3809
+"Allsvenskan 2001",2001-05-10,1,"Djurgårdens IF","Trelleborgs FF",0,0,6705
+"Allsvenskan 2001",2001-04-13,2,"Trelleborgs FF","IFK Norrköping",0,1,2403
+"Allsvenskan 2001",2001-04-16,2,AIK,"Örebro SK",0,0,15997
+"Allsvenskan 2001",2001-04-16,2,"GIF Sundsvall","BK Häcken",1,0,4021
+"Allsvenskan 2001",2001-04-16,2,"IF Elfsborg","Malmö FF",0,2,11611
+"Allsvenskan 2001",2001-04-17,2,"Helsingborgs IF","Djurgårdens IF",1,0,12869
+"Allsvenskan 2001",2001-04-18,2,"Halmstads BK","IFK Göteborg",0,0,5160
+"Allsvenskan 2001",2001-04-18,2,"Örgryte IS","Hammarby IF",3,3,3228
+"Allsvenskan 2001",2001-04-21,3,"Djurgårdens IF","Malmö FF",0,4,13250
+"Allsvenskan 2001",2001-04-21,3,"Halmstads BK","IF Elfsborg",5,0,7618
+"Allsvenskan 2001",2001-04-21,3,"Helsingborgs IF","GIF Sundsvall",3,0,7477
+"Allsvenskan 2001",2001-04-21,3,"IFK Göteborg","Örebro SK",3,1,7222
+"Allsvenskan 2001",2001-04-22,3,"BK Häcken","Hammarby IF",0,0,3024
+"Allsvenskan 2001",2001-04-22,3,"IFK Norrköping",AIK,1,3,9584
+"Allsvenskan 2001",2001-04-22,3,"Trelleborgs FF","Örgryte IS",1,4,1887
+"Allsvenskan 2001",2001-04-29,4,AIK,"Trelleborgs FF",2,1,11075
+"Allsvenskan 2001",2001-04-29,4,"Örebro SK","Djurgårdens IF",2,2,7466
+"Allsvenskan 2001",2001-04-29,4,"GIF Sundsvall","Halmstads BK",3,1,3702
+"Allsvenskan 2001",2001-04-30,4,"Örgryte IS","Helsingborgs IF",1,0,4423
+"Allsvenskan 2001",2001-05-01,4,"Hammarby IF","IFK Göteborg",1,1,10667
+"Allsvenskan 2001",2001-05-01,4,"Malmö FF","IFK Norrköping",0,0,17377
+"Allsvenskan 2001",2001-05-17,4,"IF Elfsborg","BK Häcken",3,1,4523
+"Allsvenskan 2001",2001-05-06,5,"BK Häcken","Malmö FF",2,1,3327
+"Allsvenskan 2001",2001-05-06,5,"Djurgårdens IF","Örgryte IS",0,0,6211
+"Allsvenskan 2001",2001-05-06,5,"IFK Norrköping","GIF Sundsvall",0,0,4378
+"Allsvenskan 2001",2001-05-07,5,"Hammarby IF","Örebro SK",3,0,9308
+"Allsvenskan 2001",2001-05-07,5,"IFK Göteborg",AIK,1,0,12191
+"Allsvenskan 2001",2001-05-07,5,"Trelleborgs FF","Halmstads BK",0,3,2333
+"Allsvenskan 2001",2001-05-08,5,"Helsingborgs IF","IF Elfsborg",3,0,11383
+"Allsvenskan 2001",2001-05-13,6,"GIF Sundsvall","Trelleborgs FF",0,1,4127
+"Allsvenskan 2001",2001-05-13,6,"Halmstads BK","Helsingborgs IF",2,2,8670
+"Allsvenskan 2001",2001-05-13,6,"Örgryte IS","IFK Norrköping",1,2,2654
+"Allsvenskan 2001",2001-05-14,6,"IF Elfsborg","Hammarby IF",0,3,6868
+"Allsvenskan 2001",2001-05-14,6,"Malmö FF","IFK Göteborg",0,6,12109
+"Allsvenskan 2001",2001-05-14,6,"Örebro SK","BK Häcken",2,2,4051
+"Allsvenskan 2001",2001-05-15,6,AIK,"Djurgårdens IF",1,1,27860
+"Allsvenskan 2001",2001-05-20,7,"IFK Göteborg","GIF Sundsvall",1,1,6770
+"Allsvenskan 2001",2001-05-20,7,"Trelleborgs FF","IF Elfsborg",3,0,2603
+"Allsvenskan 2001",2001-05-20,7,"Örebro SK","Malmö FF",2,0,7667
+"Allsvenskan 2001",2001-05-21,7,"BK Häcken","Örgryte IS",0,3,4349
+"Allsvenskan 2001",2001-05-21,7,"Djurgårdens IF","Halmstads BK",2,1,7625
+"Allsvenskan 2001",2001-05-21,7,"IFK Norrköping","Helsingborgs IF",1,1,8499
+"Allsvenskan 2001",2001-05-22,7,"Hammarby IF",AIK,0,0,29393
+"Allsvenskan 2001",2001-05-27,8,"GIF Sundsvall","Djurgårdens IF",0,0,5348
+"Allsvenskan 2001",2001-05-27,8,"Halmstads BK","IFK Norrköping",4,0,4691
+"Allsvenskan 2001",2001-05-27,8,"Malmö FF","Hammarby IF",1,0,7204
+"Allsvenskan 2001",2001-05-28,8,AIK,"BK Häcken",2,0,8068
+"Allsvenskan 2001",2001-05-28,8,"Helsingborgs IF","Trelleborgs FF",3,0,9670
+"Allsvenskan 2001",2001-05-28,8,"IF Elfsborg","Örebro SK",1,0,5016
+"Allsvenskan 2001",2001-05-28,8,"Örgryte IS","IFK Göteborg",0,2,16978
+"Allsvenskan 2001",2001-06-10,9,"GIF Sundsvall","IF Elfsborg",1,3,4175
+"Allsvenskan 2001",2001-06-10,9,"Halmstads BK","Örgryte IS",0,1,6031
+"Allsvenskan 2001",2001-06-10,9,"Helsingborgs IF",AIK,2,0,13432
+"Allsvenskan 2001",2001-06-11,9,"IFK Göteborg","BK Häcken",1,1,9353
+"Allsvenskan 2001",2001-06-11,9,"IFK Norrköping","Örebro SK",1,5,5524
+"Allsvenskan 2001",2001-06-11,9,"Trelleborgs FF","Malmö FF",0,4,6563
+"Allsvenskan 2001",2001-06-12,9,"Djurgårdens IF","Hammarby IF",2,0,24226
+"Allsvenskan 2001",2001-06-13,10,AIK,"Halmstads BK",2,3,15401
+"Allsvenskan 2001",2001-06-17,10,"Hammarby IF","IFK Norrköping",1,1,8804
+"Allsvenskan 2001",2001-06-17,10,"Örgryte IS","GIF Sundsvall",2,0,2587
+"Allsvenskan 2001",2001-06-18,10,"BK Häcken","Djurgårdens IF",1,2,2584
+"Allsvenskan 2001",2001-06-18,10,"IF Elfsborg","IFK Göteborg",3,2,14662
+"Allsvenskan 2001",2001-06-18,10,"Örebro SK","Trelleborgs FF",3,2,7103
+"Allsvenskan 2001",2001-06-19,10,"Malmö FF","Helsingborgs IF",0,1,26500
+"Allsvenskan 2001",2001-06-20,11,"GIF Sundsvall",AIK,1,2,5343
+"Allsvenskan 2001",2001-06-21,11,"Örgryte IS","IF Elfsborg",1,1,4698
+"Allsvenskan 2001",2001-06-24,11,"IFK Norrköping","BK Häcken",1,1,4546
+"Allsvenskan 2001",2001-06-25,11,"Djurgårdens IF","IFK Göteborg",3,1,13175
+"Allsvenskan 2001",2001-06-25,11,"Helsingborgs IF","Örebro SK",2,2,11728
+"Allsvenskan 2001",2001-06-25,11,"Trelleborgs FF","Hammarby IF",2,3,2498
+"Allsvenskan 2001",2001-06-26,11,"Halmstads BK","Malmö FF",4,2,12087
+"Allsvenskan 2001",2001-06-27,12,AIK,"Örgryte IS",2,2,11566
+"Allsvenskan 2001",2001-07-01,12,"BK Häcken","Trelleborgs FF",2,2,1856
+"Allsvenskan 2001",2001-07-01,12,"IF Elfsborg","Djurgårdens IF",1,2,8088
+"Allsvenskan 2001",2001-07-02,12,"Hammarby IF","Helsingborgs IF",3,1,10683
+"Allsvenskan 2001",2001-07-02,12,"Malmö FF","GIF Sundsvall",2,0,7819
+"Allsvenskan 2001",2001-07-02,12,"Örebro SK","Halmstads BK",1,1,7647
+"Allsvenskan 2001",2001-07-03,12,"IFK Göteborg","IFK Norrköping",2,1,9492
+"Allsvenskan 2001",2001-07-04,13,AIK,"IF Elfsborg",3,1,11535
+"Allsvenskan 2001",2001-07-07,13,"Örebro SK","GIF Sundsvall",1,1,4122
+"Allsvenskan 2001",2001-07-08,13,"IFK Norrköping","Djurgårdens IF",2,0,10234
+"Allsvenskan 2001",2001-07-08,13,"Örgryte IS","Malmö FF",1,4,3643
+"Allsvenskan 2001",2001-07-15,13,"BK Häcken","Helsingborgs IF",2,2,7224
+"Allsvenskan 2001",2001-07-15,13,"Halmstads BK","Hammarby IF",1,2,12181
+"Allsvenskan 2001",2001-07-15,13,"Trelleborgs FF","IFK Göteborg",0,0,3203
+"Allsvenskan 2001",2001-07-11,14,"Örgryte IS",AIK,1,0,4424
+"Allsvenskan 2001",2001-07-21,14,"Halmstads BK","Örebro SK",3,0,5693
+"Allsvenskan 2001",2001-07-22,14,"Djurgårdens IF","IF Elfsborg",3,0,10225
+"Allsvenskan 2001",2001-07-22,14,"Trelleborgs FF","BK Häcken",0,4,2515
+"Allsvenskan 2001",2001-07-23,14,"GIF Sundsvall","Malmö FF",2,1,5000
+"Allsvenskan 2001",2001-07-23,14,"IFK Norrköping","IFK Göteborg",2,3,11809
+"Allsvenskan 2001",2001-07-24,14,"Helsingborgs IF","Hammarby IF",1,3,14171
+"Allsvenskan 2001",2001-07-29,15,AIK,"GIF Sundsvall",2,0,10230
+"Allsvenskan 2001",2001-07-29,15,"BK Häcken","IFK Norrköping",0,2,1903
+"Allsvenskan 2001",2001-07-29,15,"Malmö FF","Halmstads BK",3,3,9450
+"Allsvenskan 2001",2001-07-30,15,"IF Elfsborg","Örgryte IS",0,3,7778
+"Allsvenskan 2001",2001-07-30,15,"Hammarby IF","Trelleborgs FF",4,1,10733
+"Allsvenskan 2001",2001-07-30,15,"Örebro SK","Helsingborgs IF",3,3,6667
+"Allsvenskan 2001",2001-07-31,15,"IFK Göteborg","Djurgårdens IF",0,2,14489
+"Allsvenskan 2001",2001-08-04,16,"Halmstads BK",AIK,2,2,7916
+"Allsvenskan 2001",2001-08-05,16,"Djurgårdens IF","BK Häcken",2,1,9535
+"Allsvenskan 2001",2001-08-05,16,"GIF Sundsvall","Örgryte IS",2,2,4915
+"Allsvenskan 2001",2001-08-05,16,"IFK Göteborg","IF Elfsborg",2,2,9619
+"Allsvenskan 2001",2001-08-06,16,"Helsingborgs IF","Malmö FF",1,1,15527
+"Allsvenskan 2001",2001-08-06,16,"IFK Norrköping","Hammarby IF",1,2,18047
+"Allsvenskan 2001",2001-08-06,16,"Trelleborgs FF","Örebro SK",1,1,2046
+"Allsvenskan 2001",2001-08-09,17,"Hammarby IF","Djurgårdens IF",0,1,34275
+"Allsvenskan 2001",2001-08-09,17,"BK Häcken","IFK Göteborg",3,0,4703
+"Allsvenskan 2001",2001-08-12,17,AIK,"Helsingborgs IF",2,2,12942
+"Allsvenskan 2001",2001-08-12,17,"IF Elfsborg","GIF Sundsvall",3,2,5015
+"Allsvenskan 2001",2001-08-12,17,"Malmö FF","Trelleborgs FF",1,3,9004
+"Allsvenskan 2001",2001-08-12,17,"Örebro SK","IFK Norrköping",5,3,6013
+"Allsvenskan 2001",2001-08-12,17,"Örgryte IS","Halmstads BK",0,2,4030
+"Allsvenskan 2001",2001-08-18,18,"Hammarby IF","Halmstads BK",1,0,10651
+"Allsvenskan 2001",2001-08-19,18,"IF Elfsborg",AIK,1,2,6543
+"Allsvenskan 2001",2001-08-19,18,"Helsingborgs IF","BK Häcken",1,0,8040
+"Allsvenskan 2001",2001-08-20,18,"Djurgårdens IF","IFK Norrköping",0,2,12195
+"Allsvenskan 2001",2001-08-20,18,"GIF Sundsvall","Örebro SK",1,4,4854
+"Allsvenskan 2001",2001-08-20,18,"IFK Göteborg","Trelleborgs FF",3,2,5742
+"Allsvenskan 2001",2001-08-22,18,"Malmö FF","Örgryte IS",2,1,9314
+"Allsvenskan 2001",2001-08-26,19,"BK Häcken","IF Elfsborg",2,3,2737
+"Allsvenskan 2001",2001-08-26,19,"Halmstads BK","GIF Sundsvall",1,1,4121
+"Allsvenskan 2001",2001-08-26,19,"IFK Norrköping","Malmö FF",1,1,9487
+"Allsvenskan 2001",2001-08-27,19,"Helsingborgs IF","Örgryte IS",5,0,7299
+"Allsvenskan 2001",2001-08-27,19,"IFK Göteborg","Hammarby IF",1,0,14841
+"Allsvenskan 2001",2001-08-27,19,"Trelleborgs FF",AIK,1,1,2736
+"Allsvenskan 2001",2001-09-06,19,"Djurgårdens IF","Örebro SK",2,0,9175
+"Allsvenskan 2001",2001-09-08,20,"IF Elfsborg","Halmstads BK",0,2,5868
+"Allsvenskan 2001",2001-09-09,20,AIK,"IFK Norrköping",1,1,14077
+"Allsvenskan 2001",2001-09-09,20,"GIF Sundsvall","Helsingborgs IF",2,2,4152
+"Allsvenskan 2001",2001-09-10,20,"Hammarby IF","BK Häcken",2,2,10733
+"Allsvenskan 2001",2001-09-10,20,"Örebro SK","IFK Göteborg",1,2,7990
+"Allsvenskan 2001",2001-09-10,20,"Örgryte IS","Trelleborgs FF",2,1,2061
+"Allsvenskan 2001",2001-09-11,20,"Malmö FF","Djurgårdens IF",1,3,12056
+"Allsvenskan 2001",2001-09-16,21,"BK Häcken","Örebro SK",2,6,1641
+"Allsvenskan 2001",2001-09-16,21,"Hammarby IF","IF Elfsborg",1,0,10271
+"Allsvenskan 2001",2001-09-16,21,"Trelleborgs FF","GIF Sundsvall",2,3,1881
+"Allsvenskan 2001",2001-09-17,21,"IFK Göteborg","Malmö FF",4,0,9089
+"Allsvenskan 2001",2001-09-17,21,"IFK Norrköping","Örgryte IS",0,0,7073
+"Allsvenskan 2001",2001-09-19,21,"Djurgårdens IF",AIK,1,2,28060
+"Allsvenskan 2001",2001-10-10,21,"Helsingborgs IF","Halmstads BK",1,0,8518
+"Allsvenskan 2001",2001-09-23,22,"GIF Sundsvall","IFK Norrköping",3,0,5000
+"Allsvenskan 2001",2001-09-23,22,"IF Elfsborg","Helsingborgs IF",1,1,5555
+"Allsvenskan 2001",2001-09-24,22,"Halmstads BK","Trelleborgs FF",5,2,3573
+"Allsvenskan 2001",2001-09-24,22,"Malmö FF","BK Häcken",2,2,5201
+"Allsvenskan 2001",2001-09-24,22,"Örebro SK","Hammarby IF",0,3,10607
+"Allsvenskan 2001",2001-09-24,22,"Örgryte IS","Djurgårdens IF",1,1,4337
+"Allsvenskan 2001",2001-09-25,22,AIK,"IFK Göteborg",1,1,15720
+"Allsvenskan 2001",2001-09-30,23,"BK Häcken",AIK,1,6,1883
+"Allsvenskan 2001",2001-09-30,23,"Trelleborgs FF","Helsingborgs IF",0,3,1869
+"Allsvenskan 2001",2001-09-30,23,"Örebro SK","IF Elfsborg",4,1,5299
+"Allsvenskan 2001",2001-10-01,23,"Hammarby IF","Malmö FF",4,1,10496
+"Allsvenskan 2001",2001-10-01,23,"IFK Göteborg","Örgryte IS",1,1,16095
+"Allsvenskan 2001",2001-10-01,23,"IFK Norrköping","Halmstads BK",0,3,6432
+"Allsvenskan 2001",2001-10-02,23,"Djurgårdens IF","GIF Sundsvall",1,1,10395
+"Allsvenskan 2001",2001-10-14,24,"Halmstads BK","Djurgårdens IF",0,0,6415
+"Allsvenskan 2001",2001-10-14,24,"Helsingborgs IF","IFK Norrköping",0,1,8239
+"Allsvenskan 2001",2001-10-14,24,"Örgryte IS","BK Häcken",2,0,3292
+"Allsvenskan 2001",2001-10-15,24,AIK,"Hammarby IF",5,2,34953
+"Allsvenskan 2001",2001-10-15,24,"GIF Sundsvall","IFK Göteborg",1,0,5000
+"Allsvenskan 2001",2001-10-15,24,"IF Elfsborg","Trelleborgs FF",2,0,5432
+"Allsvenskan 2001",2001-10-15,24,"Malmö FF","Örebro SK",1,3,5292
+"Allsvenskan 2001",2001-10-21,25,"BK Häcken","GIF Sundsvall",2,1,1571
+"Allsvenskan 2001",2001-10-21,25,"Hammarby IF","Örgryte IS",3,2,10766
+"Allsvenskan 2001",2001-10-21,25,"IFK Norrköping","Trelleborgs FF",5,0,7392
+"Allsvenskan 2001",2001-10-22,25,"Djurgårdens IF","Helsingborgs IF",3,2,11475
+"Allsvenskan 2001",2001-10-22,25,"Malmö FF","IF Elfsborg",3,1,8671
+"Allsvenskan 2001",2001-10-22,25,"Örebro SK",AIK,1,2,7038
+"Allsvenskan 2001",2001-10-23,25,"IFK Göteborg","Halmstads BK",2,1,6688
+"Allsvenskan 2001",2001-10-27,26,AIK,"Malmö FF",2,0,12390
+"Allsvenskan 2001",2001-10-27,26,"GIF Sundsvall","Hammarby IF",1,0,7000
+"Allsvenskan 2001",2001-10-27,26,"Halmstads BK","BK Häcken",2,2,2575
+"Allsvenskan 2001",2001-10-27,26,"Helsingborgs IF","IFK Göteborg",3,0,11500
+"Allsvenskan 2001",2001-10-27,26,"IF Elfsborg","IFK Norrköping",1,0,8654
+"Allsvenskan 2001",2001-10-27,26,"Trelleborgs FF","Djurgårdens IF",0,3,1957
+"Allsvenskan 2001",2001-10-27,26,"Örgryte IS","Örebro SK",1,0,1792

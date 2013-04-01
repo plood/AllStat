@@ -1,0 +1,241 @@
+leaguename,matchdate,matchday,hometeam,awayteam,homescore,awayscore,attendance
+"Allsvenskan 2011",2011-04-03,1,"IFK Norrköping",GAIS,2,0,10424
+"Allsvenskan 2011",2011-04-03,1,"Trelleborgs FF","Malmö FF",2,4,9572
+"Allsvenskan 2011",2011-04-03,1,"Syrianska FC","Gefle IF",1,1,4644
+"Allsvenskan 2011",2011-04-03,1,"Mjällby AIF","Helsingborgs IF",0,1,5019
+"Allsvenskan 2011",2011-04-04,1,"IFK Göteborg","Örebro SK",0,1,14053
+"Allsvenskan 2011",2011-04-04,1,"IF Elfsborg","BK Häcken",2,1,12359
+"Allsvenskan 2011",2011-04-02,1,"Halmstads BK","Kalmar FF",0,0,6636
+"Allsvenskan 2011",2011-04-04,1,"Djurgårdens IF",AIK,0,0,28931
+"Allsvenskan 2011",2011-04-08,2,"Örebro SK","Syrianska FC",1,0,10654
+"Allsvenskan 2011",2011-04-10,2,"Helsingborgs IF","IF Elfsborg",1,0,12643
+"Allsvenskan 2011",2011-04-11,2,"Malmö FF","Halmstads BK",3,1,18843
+"Allsvenskan 2011",2011-04-11,2,"Kalmar FF","Djurgårdens IF",3,2,11852
+"Allsvenskan 2011",2011-04-10,2,AIK,"Mjällby AIF",3,0,11966
+"Allsvenskan 2011",2011-04-09,2,"Gefle IF","IFK Norrköping",2,0,5139
+"Allsvenskan 2011",2011-04-09,2,GAIS,"Trelleborgs FF",4,0,6109
+"Allsvenskan 2011",2011-04-10,2,"BK Häcken","IFK Göteborg",3,1,7468
+"Allsvenskan 2011",2011-04-15,3,"Djurgårdens IF","Malmö FF",0,1,9055
+"Allsvenskan 2011",2011-04-16,3,"Halmstads BK",GAIS,0,2,4259
+"Allsvenskan 2011",2011-04-17,3,"IF Elfsborg",AIK,2,2,10086
+"Allsvenskan 2011",2011-04-18,3,"IFK Göteborg","Helsingborgs IF",1,2,11555
+"Allsvenskan 2011",2011-04-16,3,"Mjällby AIF","Kalmar FF",1,0,3047
+"Allsvenskan 2011",2011-04-17,3,"Syrianska FC","BK Häcken",1,5,2376
+"Allsvenskan 2011",2011-04-17,3,"Trelleborgs FF","IFK Norrköping",1,2,3060
+"Allsvenskan 2011",2011-04-18,3,"Örebro SK","Gefle IF",2,3,8437
+"Allsvenskan 2011",2011-04-19,4,GAIS,"Djurgårdens IF",2,1,5365
+"Allsvenskan 2011",2011-04-20,4,"IFK Norrköping","Halmstads BK",2,0,7497
+"Allsvenskan 2011",2011-04-20,4,"Malmö FF","Mjällby AIF",1,0,15144
+"Allsvenskan 2011",2011-04-21,4,AIK,"IFK Göteborg",2,0,17375
+"Allsvenskan 2011",2011-04-22,4,"Helsingborgs IF","Syrianska FC",1,0,9708
+"Allsvenskan 2011",2011-04-21,4,"Gefle IF","Trelleborgs FF",1,2,3483
+"Allsvenskan 2011",2011-04-20,4,"Kalmar FF","IF Elfsborg",2,1,9307
+"Allsvenskan 2011",2011-04-21,4,"BK Häcken","Örebro SK",1,2,3217
+"Allsvenskan 2011",2011-04-24,5,"IF Elfsborg","Malmö FF",3,0,10616
+"Allsvenskan 2011",2011-04-25,5,"Syrianska FC",AIK,3,0,NULL
+"Allsvenskan 2011",2011-04-24,5,"Djurgårdens IF","IFK Norrköping",1,3,8117
+"Allsvenskan 2011",2011-04-25,5,"IFK Göteborg","Kalmar FF",2,0,10072
+"Allsvenskan 2011",2011-04-24,5,"Halmstads BK","Trelleborgs FF",1,1,4331
+"Allsvenskan 2011",2011-04-24,5,"BK Häcken","Gefle IF",0,0,2239
+"Allsvenskan 2011",2011-04-24,5,"Mjällby AIF",GAIS,1,1,3588
+"Allsvenskan 2011",2011-04-25,5,"Örebro SK","Helsingborgs IF",1,1,10563
+"Allsvenskan 2011",2011-04-29,6,GAIS,"IF Elfsborg",0,2,7526
+"Allsvenskan 2011",2011-05-01,6,"Helsingborgs IF","BK Häcken",1,1,8753
+"Allsvenskan 2011",2011-05-02,6,"Malmö FF","IFK Göteborg",0,2,17221
+"Allsvenskan 2011",2011-05-02,6,AIK,"Örebro SK",1,0,10319
+"Allsvenskan 2011",2011-05-02,6,"Gefle IF","Halmstads BK",2,1,2593
+"Allsvenskan 2011",2011-04-30,6,"IFK Norrköping","Mjällby AIF",0,3,6806
+"Allsvenskan 2011",2011-05-01,6,"Kalmar FF","Syrianska FC",2,0,6315
+"Allsvenskan 2011",2011-05-01,6,"Trelleborgs FF","Djurgårdens IF",3,2,2395
+"Allsvenskan 2011",2011-05-06,7,"Örebro SK","Kalmar FF",1,2,7311
+"Allsvenskan 2011",2011-05-09,7,"IFK Göteborg",GAIS,2,1,17888
+"Allsvenskan 2011",2011-05-09,7,"IF Elfsborg","IFK Norrköping",2,1,9465
+"Allsvenskan 2011",2011-05-07,7,"Djurgårdens IF","Halmstads BK",2,0,7329
+"Allsvenskan 2011",2011-05-09,7,"Helsingborgs IF","Gefle IF",3,0,8205
+"Allsvenskan 2011",2011-05-07,7,"BK Häcken",AIK,3,1,3317
+"Allsvenskan 2011",2011-05-08,7,"Mjällby AIF","Trelleborgs FF",0,1,2807
+"Allsvenskan 2011",2011-05-08,7,"Syrianska FC","Malmö FF",0,0,3361
+"Allsvenskan 2011",2011-05-15,8,"Gefle IF","Djurgårdens IF",0,0,4508
+"Allsvenskan 2011",2011-05-15,8,"IFK Norrköping","IFK Göteborg",2,2,10023
+"Allsvenskan 2011",2011-05-16,8,AIK,"Helsingborgs IF",2,1,10875
+"Allsvenskan 2011",2011-05-15,8,GAIS,"Syrianska FC",1,0,3770
+"Allsvenskan 2011",2011-05-14,8,"Halmstads BK","Mjällby AIF",1,0,3663
+"Allsvenskan 2011",2011-05-14,8,"Kalmar FF","BK Häcken",2,0,6452
+"Allsvenskan 2011",2011-05-15,8,"Malmö FF","Örebro SK",2,1,12073
+"Allsvenskan 2011",2011-05-16,8,"Trelleborgs FF","IF Elfsborg",3,0,2045
+"Allsvenskan 2011",2011-05-20,9,"BK Häcken","Malmö FF",1,1,3854
+"Allsvenskan 2011",2011-05-22,9,"Syrianska FC","IFK Norrköping",3,0,2658
+"Allsvenskan 2011",2011-05-22,9,"IFK Göteborg","Trelleborgs FF",1,1,8317
+"Allsvenskan 2011",2011-05-23,9,"Mjällby AIF","Djurgårdens IF",3,0,4109
+"Allsvenskan 2011",2011-05-21,9,AIK,"Gefle IF",0,2,11247
+"Allsvenskan 2011",2011-05-23,9,"IF Elfsborg","Halmstads BK",3,2,8209
+"Allsvenskan 2011",2011-05-20,9,"Helsingborgs IF","Kalmar FF",1,0,10312
+"Allsvenskan 2011",2011-05-22,9,"Örebro SK",GAIS,3,1,6772
+"Allsvenskan 2011",2011-05-24,10,"Malmö FF","Helsingborgs IF",0,3,23612
+"Allsvenskan 2011",2011-05-26,10,"Halmstads BK","IFK Göteborg",1,2,5621
+"Allsvenskan 2011",2011-05-25,10,"IFK Norrköping","Örebro SK",0,2,8012
+"Allsvenskan 2011",2011-05-26,10,GAIS,"BK Häcken",1,0,5189
+"Allsvenskan 2011",2011-05-26,10,"Gefle IF","Mjällby AIF",0,0,5156
+"Allsvenskan 2011",2011-05-26,10,"Djurgårdens IF","IF Elfsborg",0,1,6444
+"Allsvenskan 2011",2011-05-25,10,"Kalmar FF",AIK,1,0,10107
+"Allsvenskan 2011",2011-05-26,10,"Trelleborgs FF","Syrianska FC",0,1,2322
+"Allsvenskan 2011",2011-06-12,11,"IF Elfsborg","Mjällby AIF",4,0,9264
+"Allsvenskan 2011",2011-06-12,11,AIK,"Malmö FF",2,0,16739
+"Allsvenskan 2011",2011-06-13,11,"IFK Göteborg","Djurgårdens IF",0,4,10892
+"Allsvenskan 2011",2011-06-13,11,"Helsingborgs IF",GAIS,1,1,9913
+"Allsvenskan 2011",2011-06-11,11,"BK Häcken","IFK Norrköping",2,2,2517
+"Allsvenskan 2011",2011-06-11,11,"Kalmar FF","Gefle IF",0,0,6580
+"Allsvenskan 2011",2011-06-11,11,"Syrianska FC","Halmstads BK",0,0,1928
+"Allsvenskan 2011",2011-06-13,11,"Örebro SK","Trelleborgs FF",4,2,6924
+"Allsvenskan 2011",2011-06-19,12,"IFK Norrköping","Helsingborgs IF",0,0,5310
+"Allsvenskan 2011",2011-06-19,12,GAIS,AIK,2,0,4582
+"Allsvenskan 2011",2011-06-20,12,"Malmö FF","Kalmar FF",2,0,11804
+"Allsvenskan 2011",2011-06-20,12,"Djurgårdens IF","Syrianska FC",3,0,8149
+"Allsvenskan 2011",2011-06-18,12,"Gefle IF","IF Elfsborg",1,0,4331
+"Allsvenskan 2011",2011-06-18,12,"Halmstads BK","Örebro SK",0,0,3089
+"Allsvenskan 2011",2011-06-18,12,"Mjällby AIF","IFK Göteborg",0,2,4871
+"Allsvenskan 2011",2011-06-18,12,"Trelleborgs FF","BK Häcken",1,4,1590
+"Allsvenskan 2011",2011-06-21,13,"BK Häcken","Halmstads BK",3,1,2575
+"Allsvenskan 2011",2011-06-22,13,AIK,"IFK Norrköping",3,0,11078
+"Allsvenskan 2011",2011-06-22,13,"IFK Göteborg","IF Elfsborg",1,1,14885
+"Allsvenskan 2011",2011-06-23,13,"Helsingborgs IF","Trelleborgs FF",7,3,7929
+"Allsvenskan 2011",2011-06-23,13,"Kalmar FF",GAIS,2,1,7093
+"Allsvenskan 2011",2011-06-23,13,"Malmö FF","Gefle IF",0,0,10655
+"Allsvenskan 2011",2011-06-23,13,"Syrianska FC","Mjällby AIF",3,1,1585
+"Allsvenskan 2011",2011-06-23,13,"Örebro SK","Djurgårdens IF",1,2,8912
+"Allsvenskan 2011",2011-06-26,14,GAIS,"Malmö FF",2,0,5104
+"Allsvenskan 2011",2011-06-27,14,"IF Elfsborg","Syrianska FC",2,1,7786
+"Allsvenskan 2011",2011-06-26,14,"Mjällby AIF","Örebro SK",2,1,2819
+"Allsvenskan 2011",2011-06-26,14,"Gefle IF","IFK Göteborg",1,0,6512
+"Allsvenskan 2011",2011-06-26,14,"Djurgårdens IF","BK Häcken",1,0,7008
+"Allsvenskan 2011",2011-06-27,14,"Halmstads BK","Helsingborgs IF",1,2,6834
+"Allsvenskan 2011",2011-06-27,14,"IFK Norrköping","Kalmar FF",1,2,7545
+"Allsvenskan 2011",2011-06-26,14,"Trelleborgs FF",AIK,1,2,2395
+"Allsvenskan 2011",2011-07-03,15,"Halmstads BK",AIK,1,3,6119
+"Allsvenskan 2011",2011-07-03,15,"Malmö FF","IFK Norrköping",2,1,9778
+"Allsvenskan 2011",2011-07-03,15,"BK Häcken","Mjällby AIF",6,0,1927
+"Allsvenskan 2011",2011-07-03,15,"Örebro SK","IF Elfsborg",0,3,6957
+"Allsvenskan 2011",2011-07-04,15,"Djurgårdens IF","Helsingborgs IF",1,1,9385
+"Allsvenskan 2011",2011-07-02,15,GAIS,"Gefle IF",2,3,4471
+"Allsvenskan 2011",2011-07-02,15,"Kalmar FF","Trelleborgs FF",3,2,6512
+"Allsvenskan 2011",2011-07-02,15,"Syrianska FC","IFK Göteborg",1,2,2539
+"Allsvenskan 2011",2011-07-10,16,"IFK Göteborg","Syrianska FC",3,0,9832
+"Allsvenskan 2011",2011-07-11,16,AIK,"Halmstads BK",4,0,13668
+"Allsvenskan 2011",2011-07-10,16,"IF Elfsborg","Örebro SK",3,0,8507
+"Allsvenskan 2011",2011-07-11,16,"Helsingborgs IF","Djurgårdens IF",3,0,13245
+"Allsvenskan 2011",2011-07-09,16,"Gefle IF",GAIS,1,3,5257
+"Allsvenskan 2011",2011-07-10,16,"Mjällby AIF","BK Häcken",1,2,3007
+"Allsvenskan 2011",2011-07-09,16,"IFK Norrköping","Malmö FF",0,0,6282
+"Allsvenskan 2011",2011-07-09,16,"Trelleborgs FF","Kalmar FF",3,2,1570
+"Allsvenskan 2011",2011-07-17,17,"Gefle IF",AIK,0,3,7098
+"Allsvenskan 2011",2011-07-17,17,GAIS,"Örebro SK",4,1,4069
+"Allsvenskan 2011",2011-07-17,17,"Halmstads BK","IF Elfsborg",1,2,5865
+"Allsvenskan 2011",2011-07-18,17,"Kalmar FF","Helsingborgs IF",1,2,11787
+"Allsvenskan 2011",2011-07-18,17,"Trelleborgs FF","IFK Göteborg",2,0,3820
+"Allsvenskan 2011",2011-07-16,17,"Djurgårdens IF","Mjällby AIF",1,0,5713
+"Allsvenskan 2011",2011-07-16,17,"IFK Norrköping","Syrianska FC",2,1,6227
+"Allsvenskan 2011",2011-10-13,17,"Malmö FF","BK Häcken",1,0,6784
+"Allsvenskan 2011",2011-07-23,18,"Helsingborgs IF","Malmö FF",2,2,16500
+"Allsvenskan 2011",2011-07-24,18,AIK,"Kalmar FF",2,1,14818
+"Allsvenskan 2011",2011-07-25,18,"IF Elfsborg","Djurgårdens IF",2,1,9617
+"Allsvenskan 2011",2011-07-24,18,"Örebro SK","IFK Norrköping",2,0,7512
+"Allsvenskan 2011",2011-07-25,18,"IFK Göteborg","Halmstads BK",3,1,10023
+"Allsvenskan 2011",2011-07-23,18,"Syrianska FC","Trelleborgs FF",4,1,1778
+"Allsvenskan 2011",2011-07-23,18,"Mjällby AIF","Gefle IF",5,1,2310
+"Allsvenskan 2011",2011-07-24,18,"BK Häcken",GAIS,2,0,6454
+"Allsvenskan 2011",2011-10-15,19,"Malmö FF","Djurgårdens IF",1,0,8388
+"Allsvenskan 2011",2011-07-31,19,"Helsingborgs IF","IFK Göteborg",2,1,12783
+"Allsvenskan 2011",2011-07-31,19,AIK,"IF Elfsborg",0,1,18815
+"Allsvenskan 2011",2011-08-01,19,"Kalmar FF","Mjällby AIF",0,3,10999
+"Allsvenskan 2011",2011-08-01,19,GAIS,"Halmstads BK",2,1,4430
+"Allsvenskan 2011",2011-07-31,19,"BK Häcken","Syrianska FC",4,0,2239
+"Allsvenskan 2011",2011-07-30,19,"IFK Norrköping","Trelleborgs FF",2,1,9136
+"Allsvenskan 2011",2011-07-31,19,"Gefle IF","Örebro SK",0,1,3696
+"Allsvenskan 2011",2011-08-07,20,"Syrianska FC","Helsingborgs IF",1,2,1763
+"Allsvenskan 2011",2011-08-04,20,"IFK Göteborg",AIK,3,1,13918
+"Allsvenskan 2011",2011-08-07,20,"IF Elfsborg","Kalmar FF",0,0,8638
+"Allsvenskan 2011",2011-08-07,20,"Djurgårdens IF",GAIS,2,2,5527
+"Allsvenskan 2011",2011-08-07,20,"Halmstads BK","IFK Norrköping",5,4,3784
+"Allsvenskan 2011",2011-08-06,20,"Trelleborgs FF","Gefle IF",2,0,1640
+"Allsvenskan 2011",2011-08-07,20,"Örebro SK","BK Häcken",4,0,4870
+"Allsvenskan 2011",2011-08-06,20,"Mjällby AIF","Malmö FF",1,1,7000
+"Allsvenskan 2011",2011-08-15,21,"IF Elfsborg","IFK Göteborg",3,2,15722
+"Allsvenskan 2011",2011-08-14,21,"Djurgårdens IF","Örebro SK",0,2,6298
+"Allsvenskan 2011",2011-09-08,21,"Gefle IF","Malmö FF",2,0,3305
+"Allsvenskan 2011",2011-08-13,21,"Halmstads BK","BK Häcken",0,1,4058
+"Allsvenskan 2011",2011-08-14,21,"Trelleborgs FF","Helsingborgs IF",1,3,3795
+"Allsvenskan 2011",2011-08-15,21,"IFK Norrköping",AIK,0,1,10808
+"Allsvenskan 2011",2011-08-14,21,GAIS,"Kalmar FF",1,0,5234
+"Allsvenskan 2011",2011-08-13,21,"Mjällby AIF","Syrianska FC",3,0,3507
+"Allsvenskan 2011",2011-08-21,22,"Syrianska FC","IF Elfsborg",0,2,1962
+"Allsvenskan 2011",2011-08-22,22,"IFK Göteborg","Gefle IF",3,0,7152
+"Allsvenskan 2011",2011-08-22,22,"Örebro SK","Mjällby AIF",0,2,6032
+"Allsvenskan 2011",2011-08-21,22,"BK Häcken","Djurgårdens IF",2,0,2397
+"Allsvenskan 2011",2011-08-21,22,"Helsingborgs IF","Halmstads BK",2,1,10212
+"Allsvenskan 2011",2011-08-21,22,AIK,"Trelleborgs FF",3,0,10410
+"Allsvenskan 2011",2011-08-19,22,"Kalmar FF","IFK Norrköping",5,0,6010
+"Allsvenskan 2011",2011-08-20,22,"Malmö FF",GAIS,2,1,8386
+"Allsvenskan 2011",2011-10-17,29,"Malmö FF","Syrianska FC",1,0,6715
+"Allsvenskan 2011",2011-10-17,29,GAIS,"IFK Göteborg",1,0,15530
+"Allsvenskan 2011",2011-10-16,29,"IFK Norrköping","IF Elfsborg",2,1,8145
+"Allsvenskan 2011",2011-10-16,29,"Trelleborgs FF","Mjällby AIF",1,2,2295
+"Allsvenskan 2011",2011-10-17,29,"Halmstads BK","Djurgårdens IF",1,3,1874
+"Allsvenskan 2011",2011-10-17,29,"Gefle IF","Helsingborgs IF",2,0,3305
+"Allsvenskan 2011",2011-10-15,29,"Kalmar FF","Örebro SK",4,1,5857
+"Allsvenskan 2011",2011-10-16,29,AIK,"BK Häcken",2,1,14517
+"Allsvenskan 2011",2011-10-23,30,"Syrianska FC",GAIS,0,2,1578
+"Allsvenskan 2011",2011-10-23,30,"IFK Göteborg","IFK Norrköping",3,0,6149
+"Allsvenskan 2011",2011-10-23,30,"IF Elfsborg","Trelleborgs FF",3,0,7414
+"Allsvenskan 2011",2011-10-23,30,"Djurgårdens IF","Gefle IF",1,1,10224
+"Allsvenskan 2011",2011-10-23,30,"Örebro SK","Malmö FF",1,2,5112
+"Allsvenskan 2011",2011-10-23,30,"BK Häcken","Kalmar FF",1,2,2137
+"Allsvenskan 2011",2011-10-23,30,"Helsingborgs IF",AIK,1,1,16530
+"Allsvenskan 2011",2011-10-23,30,"Mjällby AIF","Halmstads BK",2,0,3010
+"Allsvenskan 2011",2011-09-18,25,"Gefle IF","Syrianska FC",2,1,3314
+"Allsvenskan 2011",2011-09-18,25,"Örebro SK","IFK Göteborg",0,2,7109
+"Allsvenskan 2011",2011-09-18,25,"BK Häcken","IF Elfsborg",2,0,3049
+"Allsvenskan 2011",2011-09-18,25,"Helsingborgs IF","Mjällby AIF",3,0,10630
+"Allsvenskan 2011",2011-09-19,25,AIK,"Djurgårdens IF",0,1,24639
+"Allsvenskan 2011",2011-09-17,25,"Kalmar FF","Halmstads BK",1,0,5237
+"Allsvenskan 2011",2011-09-18,25,"Malmö FF","Trelleborgs FF",1,1,9213
+"Allsvenskan 2011",2011-09-16,25,GAIS,"IFK Norrköping",1,2,7126
+"Allsvenskan 2011",2011-09-21,26,"Syrianska FC","Örebro SK",3,1,4896
+"Allsvenskan 2011",2011-09-22,26,"IFK Göteborg","BK Häcken",2,2,8947
+"Allsvenskan 2011",2011-09-21,26,"IF Elfsborg","Helsingborgs IF",3,2,14197
+"Allsvenskan 2011",2011-09-23,26,"Djurgårdens IF","Kalmar FF",2,1,5152
+"Allsvenskan 2011",2011-09-21,26,"Halmstads BK","Malmö FF",1,5,3065
+"Allsvenskan 2011",2011-09-21,26,"Trelleborgs FF",GAIS,0,1,1645
+"Allsvenskan 2011",2011-09-21,26,"IFK Norrköping","Gefle IF",1,1,6022
+"Allsvenskan 2011",2011-09-15,26,"Mjällby AIF",AIK,0,2,3239
+"Allsvenskan 2011",2011-09-24,27,"Halmstads BK","Syrianska FC",0,1,2092
+"Allsvenskan 2011",2011-09-26,27,"Gefle IF","Kalmar FF",1,1,3754
+"Allsvenskan 2011",2011-09-26,27,"Djurgårdens IF","IFK Göteborg",1,2,6426
+"Allsvenskan 2011",2011-09-25,27,"Trelleborgs FF","Örebro SK",1,1,1695
+"Allsvenskan 2011",2011-09-25,27,"IFK Norrköping","BK Häcken",0,1,6541
+"Allsvenskan 2011",2011-09-25,27,GAIS,"Helsingborgs IF",1,3,6632
+"Allsvenskan 2011",2011-09-25,27,"Malmö FF",AIK,1,1,10887
+"Allsvenskan 2011",2011-09-24,27,"Mjällby AIF","IF Elfsborg",2,1,2753
+"Allsvenskan 2011",2011-10-01,28,"IFK Göteborg","Mjällby AIF",0,1,7407
+"Allsvenskan 2011",2011-10-02,28,"IF Elfsborg","Gefle IF",3,0,8825
+"Allsvenskan 2011",2011-10-02,28,"Örebro SK","Halmstads BK",1,0,4321
+"Allsvenskan 2011",2011-10-02,28,"BK Häcken","Trelleborgs FF",1,0,2302
+"Allsvenskan 2011",2011-10-02,28,"Helsingborgs IF","IFK Norrköping",1,1,12820
+"Allsvenskan 2011",2011-10-01,28,AIK,GAIS,2,1,9492
+"Allsvenskan 2011",2011-10-02,28,"Kalmar FF","Malmö FF",1,2,8388
+"Allsvenskan 2011",2011-09-30,28,"Syrianska FC","Djurgårdens IF",0,0,4261
+"Allsvenskan 2011",2011-08-28,23,AIK,"Syrianska FC",1,0,12023
+"Allsvenskan 2011",2011-08-27,23,"Kalmar FF","IFK Göteborg",0,0,8912
+"Allsvenskan 2011",2011-08-28,23,"Malmö FF","IF Elfsborg",2,1,11333
+"Allsvenskan 2011",2011-08-28,23,GAIS,"Mjällby AIF",3,0,3858
+"Allsvenskan 2011",2011-08-25,23,"IFK Norrköping","Djurgårdens IF",2,1,8135
+"Allsvenskan 2011",2011-08-27,23,"Trelleborgs FF","Halmstads BK",0,1,1510
+"Allsvenskan 2011",2011-08-28,23,"Gefle IF","BK Häcken",2,2,2837
+"Allsvenskan 2011",2011-08-28,23,"Helsingborgs IF","Örebro SK",2,0,7862
+"Allsvenskan 2011",2011-09-11,24,"Syrianska FC","Kalmar FF",2,1,1831
+"Allsvenskan 2011",2011-09-11,24,"IFK Göteborg","Malmö FF",0,0,11640
+"Allsvenskan 2011",2011-09-12,24,"IF Elfsborg",GAIS,1,3,9728
+"Allsvenskan 2011",2011-09-11,24,"Djurgårdens IF","Trelleborgs FF",4,3,6307
+"Allsvenskan 2011",2011-09-12,24,"Halmstads BK","Gefle IF",2,2,2305
+"Allsvenskan 2011",2011-09-12,24,"Örebro SK",AIK,1,2,9517
+"Allsvenskan 2011",2011-09-09,24,"BK Häcken","Helsingborgs IF",1,1,3038
+"Allsvenskan 2011",2011-09-10,24,"Mjällby AIF","IFK Norrköping",0,0,3116
