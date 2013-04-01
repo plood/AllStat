@@ -13315,3 +13315,243 @@ leaguename;matchdate;matchday;hometeam;awayteam;homescore;awayscore;attendance
 "Allsvenskan 2012";2012-11-04;30;"Syrianska FC";"Kalmar FF";3;0;3109
 "Allsvenskan 2012";2012-11-04;30;"IFK Göteborg";"Djurgårdens IF";1;0;6017
 "Allsvenskan 2012";2012-11-04;30;AIK;"Malmö FF";2;0;28057
+"Allsvenskan 2013";2013-03-31;1;"Helsingborgs IF";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-03-31;1;"Syrianska FC";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-01;1;"Mjällby AIF";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-01;1;"Malmö FF";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-01;1;"Gefle IF";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-01;1;"IF Brommapojkarna";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-01;1;"IF Elfsborg";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-03-31;1;"BK Häcken";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-05;2;"Åtvidabergs FF";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-07;2;AIK;"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-07;2;"IFK Göteborg";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-07;2;"Kalmar FF";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-07;2;"Halmstads BK";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-08;2;"IFK Norrköping";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-08;2;"Djurgårdens IF";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-08;2;"Östers IF";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-12;3;"IF Brommapojkarna";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-13;3;"Syrianska FC";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-14;3;"Malmö FF";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-14;3;"Åtvidabergs FF";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-14;3;"BK Häcken";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-14;3;"Gefle IF";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-15;3;"Helsingborgs IF";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-15;3;"IF Elfsborg";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-17;4;"Östers IF";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-17;4;"Halmstads BK";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-17;4;AIK;"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-18;4;"Djurgårdens IF";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-18;4;"Kalmar FF";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-18;4;"Mjällby AIF";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-18;4;"IFK Göteborg";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-18;4;"IFK Norrköping";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-21;5;"Åtvidabergs FF";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-21;5;"Halmstads BK";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-21;5;"BK Häcken";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-21;5;"IF Brommapojkarna";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-22;5;"Syrianska FC";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-22;5;"Malmö FF";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-22;5;"Gefle IF";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-22;5;"IF Elfsborg";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-25;6;"IFK Göteborg";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-26;6;"IFK Norrköping";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-27;6;"Djurgårdens IF";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-27;6;"Kalmar FF";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-27;6;"Helsingborgs IF";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-28;6;AIK;"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-28;6;"Mjällby AIF";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-04-28;6;"Östers IF";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-03;7;"Malmö FF";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-04;7;"Åtvidabergs FF";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-05;7;"Halmstads BK";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-05;7;"IF Elfsborg";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-05;7;"Syrianska FC";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-06;7;"Gefle IF";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-06;7;"BK Häcken";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-06;7;AIK;"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-10;8;"IFK Norrköping";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-11;8;"IFK Göteborg";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-12;8;"Kalmar FF";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-12;8;"Mjällby AIF";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-12;8;"Djurgårdens IF";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-13;8;"Östers IF";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-13;8;"IF Brommapojkarna";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-13;8;"Helsingborgs IF";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-17;9;"Mjällby AIF";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-18;9;"IF Brommapojkarna";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-19;9;"Östers IF";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-19;9;"BK Häcken";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-19;9;"Djurgårdens IF";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-19;9;"IFK Göteborg";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-20;9;"IFK Norrköping";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-20;9;"Helsingborgs IF";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-29;10;"Malmö FF";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-22;10;"Gefle IF";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-22;10;"IF Elfsborg";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-22;10;AIK;"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-23;10;"Halmstads BK";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-23;10;"Åtvidabergs FF";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-23;10;"Syrianska FC";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-23;10;"Kalmar FF";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-29;11;"Syrianska FC";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-30;11;"Djurgårdens IF";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-30;11;"IFK Norrköping";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-05-31;11;"Östers IF";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-01;11;"Mjällby AIF";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-01;11;"Helsingborgs IF";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-01;11;"IF Brommapojkarna";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-01;11;"BK Häcken";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-16;12;"Kalmar FF";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-16;12;"IFK Göteborg";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-16;12;"Gefle IF";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-16;12;AIK;"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-16;12;"Halmstads BK";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-16;12;"Åtvidabergs FF";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-16;12;"Malmö FF";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-16;12;"IF Elfsborg";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-19;13;"IFK Norrköping";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-19;13;"Djurgårdens IF";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-19;13;"IF Elfsborg";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-19;13;"Mjällby AIF";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-19;13;"Helsingborgs IF";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-19;13;"IF Brommapojkarna";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-19;13;"BK Häcken";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-19;13;"Syrianska FC";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-23;14;"Östers IF";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-23;14;"Gefle IF";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-23;14;"Kalmar FF";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-23;14;AIK;"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-23;14;"Halmstads BK";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-23;14;"Åtvidabergs FF";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-23;14;"Malmö FF";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-06-23;14;"IFK Göteborg";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-07;15;"IFK Norrköping";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-07;15;"Malmö FF";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-07;15;"Mjällby AIF";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-07;15;"Helsingborgs IF";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-07;15;"IF Brommapojkarna";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-07;15;AIK;"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-07;15;"Syrianska FC";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-07;15;"IF Elfsborg";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-14;16;"Gefle IF";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-14;16;"Mjällby AIF";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-14;16;"Helsingborgs IF";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-14;16;"IF Brommapojkarna";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-14;16;"BK Häcken";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-14;16;"Syrianska FC";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-14;16;"IF Elfsborg";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-14;16;"Malmö FF";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-28;17;"Gefle IF";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-28;17;"Östers IF";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-28;17;"Kalmar FF";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-28;17;"BK Häcken";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-28;17;"Halmstads BK";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-28;17;"Åtvidabergs FF";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-28;17;"IFK Göteborg";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-07-29;17;"Djurgårdens IF";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-04;18;"IFK Norrköping";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-04;18;"Djurgårdens IF";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-04;18;"Östers IF";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-04;18;"Kalmar FF";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-04;18;AIK;"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-04;18;"Halmstads BK";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-04;18;"Åtvidabergs FF";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-04;18;"IFK Göteborg";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-11;19;"Helsingborgs IF";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-11;19;"IF Brommapojkarna";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-11;19;"BK Häcken";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-11;19;"Syrianska FC";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-11;19;"IF Elfsborg";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-11;19;"Malmö FF";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-11;19;"Åtvidabergs FF";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-11;19;"Gefle IF";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-18;20;"IFK Norrköping";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-18;20;"Djurgårdens IF";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-18;20;"Östers IF";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-18;20;"Kalmar FF";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-18;20;AIK;"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-18;20;"Halmstads BK";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-18;20;"Mjällby AIF";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-18;20;"IFK Göteborg";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-25;21;"BK Häcken";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-25;21;"Syrianska FC";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-25;21;"IF Elfsborg";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-25;21;"Malmö FF";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-25;21;"Åtvidabergs FF";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-25;21;"Halmstads BK";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-25;21;"Gefle IF";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-08-25;21;"IF Brommapojkarna";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-01;22;"IFK Norrköping";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-01;22;"Djurgårdens IF";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-01;22;"Östers IF";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-01;22;"Kalmar FF";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-01;22;AIK;"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-01;22;"Mjällby AIF";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-01;22;"Helsingborgs IF";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-01;22;"IFK Göteborg";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-15;23;"IF Elfsborg";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-15;23;"Malmö FF";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-15;23;"Åtvidabergs FF";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-15;23;"Halmstads BK";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-15;23;AIK;"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-15;23;"Gefle IF";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-15;23;"Syrianska FC";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-15;23;"BK Häcken";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-22;24;"IFK Norrköping";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-22;24;"Djurgårdens IF";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-22;24;"Östers IF";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-22;24;"Kalmar FF";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-22;24;"Mjällby AIF";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-22;24;"Helsingborgs IF";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-22;24;"IF Brommapojkarna";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-22;24;"IFK Göteborg";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-25;25;"IFK Norrköping";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-25;25;"Djurgårdens IF";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-25;25;"Östers IF";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-25;25;"IFK Göteborg";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-25;25;"Mjällby AIF";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-25;25;"Helsingborgs IF";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-25;25;"IF Brommapojkarna";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-25;25;"BK Häcken";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-29;26;"Åtvidabergs FF";"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-29;26;"Halmstads BK";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-29;26;AIK;"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-29;26;"Gefle IF";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-29;26;"Malmö FF";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-29;26;"IF Elfsborg";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-29;26;"Syrianska FC";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-09-29;26;"Kalmar FF";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-06;27;"Djurgårdens IF";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-06;27;"Östers IF";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-06;27;"Mjällby AIF";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-06;27;"Helsingborgs IF";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-06;27;"IF Brommapojkarna";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-06;27;"BK Häcken";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-06;27;"Syrianska FC";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-06;27;"IFK Norrköping";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-20;28;AIK;"IFK Norrköping";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-20;28;"Gefle IF";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-20;28;"Kalmar FF";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-20;28;"Halmstads BK";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-20;28;"Åtvidabergs FF";"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-20;28;"Malmö FF";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-20;28;"IF Elfsborg";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-20;28;"IFK Göteborg";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-27;29;"IFK Norrköping";"Östers IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-27;29;"Djurgårdens IF";"Gefle IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-27;29;"Mjällby AIF";"IFK Göteborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-27;29;"Helsingborgs IF";"Kalmar FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-27;29;"IF Brommapojkarna";AIK;NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-27;29;"BK Häcken";"Halmstads BK";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-27;29;"Syrianska FC";"Åtvidabergs FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-10-27;29;"IF Elfsborg";"Malmö FF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-11-03;30;"Östers IF";"Djurgårdens IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-11-03;30;"Kalmar FF";"Mjällby AIF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-11-03;30;"Gefle IF";"IF Elfsborg";NULL;NULL;NULL
+"Allsvenskan 2013";2013-11-03;30;AIK;"Helsingborgs IF";NULL;NULL;NULL
+"Allsvenskan 2013";2013-11-03;30;"Halmstads BK";"IF Brommapojkarna";NULL;NULL;NULL
+"Allsvenskan 2013";2013-11-03;30;"Åtvidabergs FF";"BK Häcken";NULL;NULL;NULL
+"Allsvenskan 2013";2013-11-03;30;"Malmö FF";"Syrianska FC";NULL;NULL;NULL
+"Allsvenskan 2013";2013-11-03;30;"IFK Göteborg";"IFK Norrköping";NULL;NULL;NULL
