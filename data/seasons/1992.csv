@@ -1,0 +1,91 @@
+leaguename;matchdate;matchday;hometeam;awayteam;homescore;awayscore;attendance
+"Allsvenskan 1992";1992-04-05;1;AIK;"Västra Frölunda IF";2;0;4382
+"Allsvenskan 1992";1992-04-05;1;"IFK Göteborg";"Malmö FF";3;0;9023
+"Allsvenskan 1992";1992-04-05;1;"Trelleborgs FF";GAIS;1;0;3144
+"Allsvenskan 1992";1992-04-05;1;"Östers IF";"IFK Norrköping";1;0;3059
+"Allsvenskan 1992";1992-04-07;1;"Örebro SK";"Djurgårdens IF";3;1;4064
+"Allsvenskan 1992";1992-04-11;2;GAIS;"Örebro SK";0;0;4525
+"Allsvenskan 1992";1992-04-12;2;"Djurgårdens IF";"Trelleborgs FF";1;2;2612
+"Allsvenskan 1992";1992-04-12;2;"Malmö FF";"Östers IF";2;2;4886
+"Allsvenskan 1992";1992-04-12;2;"IFK Norrköping";AIK;3;1;5376
+"Allsvenskan 1992";1992-04-12;2;"Västra Frölunda IF";"IFK Göteborg";1;0;4665
+"Allsvenskan 1992";1992-04-15;3;"Malmö FF";"Örebro SK";4;0;1258
+"Allsvenskan 1992";1992-04-15;3;"IFK Norrköping";"Trelleborgs FF";2;2;2881
+"Allsvenskan 1992";1992-04-20;4;"Djurgårdens IF";GAIS;4;0;2136
+"Allsvenskan 1992";1992-04-20;4;"IFK Göteborg";"IFK Norrköping";1;2;6195
+"Allsvenskan 1992";1992-04-20;4;"Trelleborgs FF";"Malmö FF";1;0;7815
+"Allsvenskan 1992";1992-04-20;4;"Örebro SK";"Västra Frölunda IF";0;0;4086
+"Allsvenskan 1992";1992-04-20;4;"Östers IF";AIK;1;1;2879
+"Allsvenskan 1992";1992-04-26;5;AIK;"Malmö FF";3;1;5525
+"Allsvenskan 1992";1992-04-26;5;"IFK Göteborg";"Djurgårdens IF";6;1;4502
+"Allsvenskan 1992";1992-04-26;5;"IFK Norrköping";GAIS;1;2;5049
+"Allsvenskan 1992";1992-04-26;5;"Trelleborgs FF";"Örebro SK";1;3;2693
+"Allsvenskan 1992";1992-04-26;5;"Östers IF";"Västra Frölunda IF";2;1;2777
+"Allsvenskan 1992";1992-05-03;6;"Djurgårdens IF";"Östers IF";2;1;3011
+"Allsvenskan 1992";1992-05-03;6;"Malmö FF";"IFK Norrköping";4;0;3855
+"Allsvenskan 1992";1992-05-03;6;"Västra Frölunda IF";"Trelleborgs FF";1;1;1352
+"Allsvenskan 1992";1992-05-03;6;"Örebro SK";"IFK Göteborg";0;2;6256
+"Allsvenskan 1992";1992-05-04;6;GAIS;AIK;0;1;3065
+"Allsvenskan 1992";1992-05-10;7;"IFK Göteborg";"Trelleborgs FF";1;0;2282
+"Allsvenskan 1992";1992-05-10;7;"Malmö FF";GAIS;0;1;1643
+"Allsvenskan 1992";1992-05-10;7;"IFK Norrköping";"Västra Frölunda IF";4;0;1902
+"Allsvenskan 1992";1992-05-10;7;"Östers IF";"Örebro SK";1;1;1362
+"Allsvenskan 1992";1992-05-11;7;AIK;"Djurgårdens IF";4;4;13188
+"Allsvenskan 1992";1992-05-13;8;"Västra Frölunda IF";"Malmö FF";0;0;1128
+"Allsvenskan 1992";1992-05-14;8;"Djurgårdens IF";"IFK Norrköping";2;2;3601
+"Allsvenskan 1992";1992-05-14;8;"IFK Göteborg";GAIS;2;1;12602
+"Allsvenskan 1992";1992-05-14;8;"Trelleborgs FF";"Östers IF";3;2;2679
+"Allsvenskan 1992";1992-05-14;8;"Örebro SK";AIK;0;0;5433
+"Allsvenskan 1992";1992-05-17;9;AIK;"Trelleborgs FF";0;1;4138
+"Allsvenskan 1992";1992-05-17;9;GAIS;"Västra Frölunda IF";1;1;3047
+"Allsvenskan 1992";1992-05-17;9;"Malmö FF";"Djurgårdens IF";1;1;4008
+"Allsvenskan 1992";1992-05-17;9;"IFK Norrköping";"Örebro SK";3;0;6959
+"Allsvenskan 1992";1992-05-17;9;"Östers IF";"IFK Göteborg";2;2;4349
+"Allsvenskan 1992";1992-05-21;10;"Djurgårdens IF";AIK;1;1;15012
+"Allsvenskan 1992";1992-05-21;10;GAIS;"Malmö FF";0;1;2512
+"Allsvenskan 1992";1992-05-21;10;"Trelleborgs FF";"IFK Göteborg";2;2;4828
+"Allsvenskan 1992";1992-05-21;10;"Västra Frölunda IF";"IFK Norrköping";2;1;642
+"Allsvenskan 1992";1992-05-21;10;"Örebro SK";"Östers IF";2;3;3120
+"Allsvenskan 1992";1992-05-24;3;AIK;"IFK Göteborg";3;0;5937
+"Allsvenskan 1992";1992-05-24;3;GAIS;"Östers IF";2;2;1853
+"Allsvenskan 1992";1992-05-24;3;"Västra Frölunda IF";"Djurgårdens IF";3;1;961
+"Allsvenskan 1992";1992-05-31;11;AIK;"IFK Norrköping";0;1;3984
+"Allsvenskan 1992";1992-05-31;11;"IFK Göteborg";"Västra Frölunda IF";2;0;3815
+"Allsvenskan 1992";1992-05-31;11;"Trelleborgs FF";"Djurgårdens IF";0;0;3186
+"Allsvenskan 1992";1992-05-31;11;"Örebro SK";GAIS;2;0;3587
+"Allsvenskan 1992";1992-05-31;11;"Östers IF";"Malmö FF";0;2;2898
+"Allsvenskan 1992";1992-06-28;12;GAIS;"Trelleborgs FF";0;1;2002
+"Allsvenskan 1992";1992-06-29;12;"Djurgårdens IF";"Örebro SK";1;0;2876
+"Allsvenskan 1992";1992-06-29;12;"Malmö FF";"IFK Göteborg";1;0;6223
+"Allsvenskan 1992";1992-06-29;12;"IFK Norrköping";"Östers IF";6;2;3750
+"Allsvenskan 1992";1992-06-29;12;"Västra Frölunda IF";AIK;1;2;1032
+"Allsvenskan 1992";1992-07-02;13;AIK;"Örebro SK";0;1;2801
+"Allsvenskan 1992";1992-07-02;13;GAIS;"IFK Göteborg";3;0;6538
+"Allsvenskan 1992";1992-07-02;13;"Malmö FF";"Västra Frölunda IF";1;0;1761
+"Allsvenskan 1992";1992-07-02;13;"IFK Norrköping";"Djurgårdens IF";3;1;4316
+"Allsvenskan 1992";1992-07-02;13;"Östers IF";"Trelleborgs FF";2;0;1978
+"Allsvenskan 1992";1992-07-05;14;"Djurgårdens IF";"Malmö FF";1;0;2913
+"Allsvenskan 1992";1992-07-05;14;"IFK Göteborg";"Östers IF";0;1;3023
+"Allsvenskan 1992";1992-07-05;14;"Trelleborgs FF";AIK;2;2;2759
+"Allsvenskan 1992";1992-07-05;14;"Västra Frölunda IF";GAIS;3;2;2250
+"Allsvenskan 1992";1992-07-05;14;"Örebro SK";"IFK Norrköping";0;0;5151
+"Allsvenskan 1992";1992-07-08;15;"Malmö FF";"Trelleborgs FF";1;1;12132
+"Allsvenskan 1992";1992-07-08;15;"Västra Frölunda IF";"Örebro SK";1;1;793
+"Allsvenskan 1992";1992-07-09;15;AIK;"Östers IF";3;0;3363
+"Allsvenskan 1992";1992-07-09;15;GAIS;"Djurgårdens IF";2;1;1661
+"Allsvenskan 1992";1992-07-09;15;"IFK Norrköping";"IFK Göteborg";4;1;6691
+"Allsvenskan 1992";1992-07-12;16;"Djurgårdens IF";"Västra Frölunda IF";3;2;2406
+"Allsvenskan 1992";1992-07-12;16;"IFK Göteborg";AIK;0;1;6600
+"Allsvenskan 1992";1992-07-12;16;"Trelleborgs FF";"IFK Norrköping";0;2;4047
+"Allsvenskan 1992";1992-07-12;16;"Örebro SK";"Malmö FF";2;2;3506
+"Allsvenskan 1992";1992-07-12;16;"Östers IF";GAIS;9;0;2552
+"Allsvenskan 1992";1992-07-16;17;AIK;GAIS;0;0;3629
+"Allsvenskan 1992";1992-07-16;17;"IFK Göteborg";"Örebro SK";3;1;7730
+"Allsvenskan 1992";1992-07-16;17;"IFK Norrköping";"Malmö FF";1;0;6670
+"Allsvenskan 1992";1992-07-16;17;"Trelleborgs FF";"Västra Frölunda IF";1;0;2508
+"Allsvenskan 1992";1992-07-16;17;"Östers IF";"Djurgårdens IF";2;0;3925
+"Allsvenskan 1992";1992-07-19;18;"Djurgårdens IF";"IFK Göteborg";1;0;2956
+"Allsvenskan 1992";1992-07-19;18;GAIS;"IFK Norrköping";0;3;1447
+"Allsvenskan 1992";1992-07-19;18;"Malmö FF";AIK;2;0;2953
+"Allsvenskan 1992";1992-07-19;18;"Västra Frölunda IF";"Östers IF";2;3;438
+"Allsvenskan 1992";1992-07-19;18;"Örebro SK";"Trelleborgs FF";1;1;1948
