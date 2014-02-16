@@ -1,0 +1,133 @@
+leaguename,matchdate,matchday,hometeam,awayteam,homescore,awayscore,attendance
+"Allsvenskan 1968",1968-04-15,1,AIK,"Malmö FF",0,1,11185
+"Allsvenskan 1968",1968-04-15,1,"IF Elfsborg","IFK Göteborg",2,1,9860
+"Allsvenskan 1968",1968-04-15,1,"Helsingborgs IF","Djurgårdens IF",0,2,9024
+"Allsvenskan 1968",1968-04-15,1,"IFK Norrköping",GAIS,1,0,7126
+"Allsvenskan 1968",1968-04-15,1,"Örgryte IS","Örebro SK",1,4,7111
+"Allsvenskan 1968",1968-04-15,1,"Östers IF","Åtvidabergs FF",3,1,14378
+"Allsvenskan 1968",1968-04-18,2,"IFK Göteborg","IFK Norrköping",1,1,12996
+"Allsvenskan 1968",1968-04-21,2,"Djurgårdens IF","IF Elfsborg",1,1,8371
+"Allsvenskan 1968",1968-04-21,2,GAIS,"Östers IF",1,3,16361
+"Allsvenskan 1968",1968-04-21,2,"Malmö FF","Örgryte IS",5,1,12240
+"Allsvenskan 1968",1968-04-21,2,"Åtvidabergs FF",AIK,2,1,5249
+"Allsvenskan 1968",1968-04-21,2,"Örebro SK","Helsingborgs IF",2,1,5936
+"Allsvenskan 1968",1968-04-25,3,"Örgryte IS",AIK,1,1,9006
+"Allsvenskan 1968",1968-04-28,3,"Djurgårdens IF",GAIS,4,1,7046
+"Allsvenskan 1968",1968-04-28,3,"IF Elfsborg","Åtvidabergs FF",1,3,8321
+"Allsvenskan 1968",1968-04-28,3,"IFK Göteborg","Örebro SK",1,3,9896
+"Allsvenskan 1968",1968-04-28,3,"Helsingborgs IF","Östers IF",1,3,16145
+"Allsvenskan 1968",1968-04-28,3,"IFK Norrköping","Malmö FF",4,1,10195
+"Allsvenskan 1968",1968-05-05,4,AIK,"Helsingborgs IF",0,4,5197
+"Allsvenskan 1968",1968-05-05,4,GAIS,"Örgryte IS",1,1,14565
+"Allsvenskan 1968",1968-05-05,4,"Malmö FF","IFK Göteborg",1,1,12261
+"Allsvenskan 1968",1968-05-05,4,"Åtvidabergs FF","IFK Norrköping",3,1,11049
+"Allsvenskan 1968",1968-05-05,4,"Örebro SK","Djurgårdens IF",1,0,6144
+"Allsvenskan 1968",1968-05-05,4,"Östers IF","IF Elfsborg",1,2,17609
+"Allsvenskan 1968",1968-05-09,5,"Djurgårdens IF","Malmö FF",2,2,10192
+"Allsvenskan 1968",1968-05-09,5,"IF Elfsborg",AIK,1,1,9045
+"Allsvenskan 1968",1968-05-09,5,"IFK Göteborg","Åtvidabergs FF",1,0,9071
+"Allsvenskan 1968",1968-05-09,5,"Helsingborgs IF","Örgryte IS",1,0,9071
+"Allsvenskan 1968",1968-05-09,5,"IFK Norrköping","Östers IF",2,0,22128
+"Allsvenskan 1968",1968-05-09,5,"Örebro SK",GAIS,2,1,7248
+"Allsvenskan 1968",1968-05-16,6,AIK,"IFK Norrköping",1,1,8300
+"Allsvenskan 1968",1968-05-16,6,"Malmö FF","Örebro SK",1,1,18647
+"Allsvenskan 1968",1968-05-16,6,"Åtvidabergs FF","Djurgårdens IF",0,2,5901
+"Allsvenskan 1968",1968-05-16,6,"Örgryte IS","IF Elfsborg",0,0,8258
+"Allsvenskan 1968",1968-05-16,6,"Östers IF","IFK Göteborg",4,1,13027
+"Allsvenskan 1968",1968-05-19,6,GAIS,"Helsingborgs IF",1,3,6776
+"Allsvenskan 1968",1968-05-26,7,AIK,GAIS,2,0,5851
+"Allsvenskan 1968",1968-05-26,7,"IF Elfsborg","Malmö FF",1,2,9998
+"Allsvenskan 1968",1968-05-26,7,"IFK Göteborg","Djurgårdens IF",1,1,9167
+"Allsvenskan 1968",1968-05-26,7,"Helsingborgs IF","Åtvidabergs FF",1,3,9197
+"Allsvenskan 1968",1968-05-26,7,"IFK Norrköping","Örebro SK",0,2,14591
+"Allsvenskan 1968",1968-05-27,7,"Örgryte IS","Östers IF",1,1,11000
+"Allsvenskan 1968",1968-05-30,8,GAIS,"IFK Göteborg",3,0,17104
+"Allsvenskan 1968",1968-06-03,8,"Åtvidabergs FF","Örgryte IS",0,2,5008
+"Allsvenskan 1968",1968-06-03,8,"Östers IF",AIK,0,0,15230
+"Allsvenskan 1968",1968-06-05,8,"Djurgårdens IF","IFK Norrköping",2,1,11513
+"Allsvenskan 1968",1968-06-05,8,"Malmö FF","Helsingborgs IF",2,0,16119
+"Allsvenskan 1968",1968-06-05,8,"Örebro SK","IF Elfsborg",0,3,9476
+"Allsvenskan 1968",1968-06-06,9,GAIS,"Åtvidabergs FF",1,0,5490
+"Allsvenskan 1968",1968-06-09,9,"Djurgårdens IF","Örgryte IS",0,3,6128
+"Allsvenskan 1968",1968-06-09,9,"IFK Göteborg","Helsingborgs IF",1,2,7734
+"Allsvenskan 1968",1968-06-09,9,"Malmö FF","Östers IF",4,0,7416
+"Allsvenskan 1968",1968-06-09,9,"IFK Norrköping","IF Elfsborg",1,1,7416
+"Allsvenskan 1968",1968-06-09,9,"Örebro SK",AIK,1,2,6115
+"Allsvenskan 1968",1968-06-12,10,AIK,"Djurgårdens IF",0,4,28051
+"Allsvenskan 1968",1968-06-12,10,"IF Elfsborg",GAIS,3,1,8282
+"Allsvenskan 1968",1968-06-12,10,"Helsingborgs IF","IFK Norrköping",1,3,7683
+"Allsvenskan 1968",1968-06-12,10,"Åtvidabergs FF","Malmö FF",2,1,5174
+"Allsvenskan 1968",1968-06-12,10,"Örgryte IS","IFK Göteborg",2,2,21482
+"Allsvenskan 1968",1968-06-12,10,"Östers IF","Örebro SK",3,3,15761
+"Allsvenskan 1968",1968-06-19,11,"Djurgårdens IF","Östers IF",2,1,13413
+"Allsvenskan 1968",1968-06-19,11,"IF Elfsborg","Helsingborgs IF",1,1,7950
+"Allsvenskan 1968",1968-06-19,11,"IFK Göteborg",AIK,2,1,7506
+"Allsvenskan 1968",1968-06-19,11,"Malmö FF",GAIS,1,2,9208
+"Allsvenskan 1968",1968-06-19,11,"IFK Norrköping","Örgryte IS",1,0,7247
+"Allsvenskan 1968",1968-06-19,11,"Örebro SK","Åtvidabergs FF",0,1,8910
+"Allsvenskan 1968",1968-08-08,12,AIK,"IFK Göteborg",9,3,7635
+"Allsvenskan 1968",1968-08-08,12,"Helsingborgs IF","IF Elfsborg",0,2,7580
+"Allsvenskan 1968",1968-08-08,12,"Örgryte IS","IFK Norrköping",0,4,7717
+"Allsvenskan 1968",1968-08-08,12,"Östers IF","Djurgårdens IF",1,2,16525
+"Allsvenskan 1968",1968-08-11,12,GAIS,"Malmö FF",0,2,8352
+"Allsvenskan 1968",1968-08-11,12,"Åtvidabergs FF","Örebro SK",4,0,5991
+"Allsvenskan 1968",1968-08-15,13,"Djurgårdens IF","Åtvidabergs FF",2,1,8642
+"Allsvenskan 1968",1968-08-15,13,"IF Elfsborg","Örgryte IS",4,2,8892
+"Allsvenskan 1968",1968-08-15,13,"IFK Göteborg","Östers IF",2,3,12206
+"Allsvenskan 1968",1968-08-15,13,"Helsingborgs IF",GAIS,2,2,5841
+"Allsvenskan 1968",1968-08-15,13,"IFK Norrköping",AIK,2,2,12685
+"Allsvenskan 1968",1968-08-15,13,"Örebro SK","Malmö FF",2,1,4334
+"Allsvenskan 1968",1968-08-18,14,AIK,"IF Elfsborg",0,0,13057
+"Allsvenskan 1968",1968-08-18,14,"Malmö FF","Djurgårdens IF",1,1,16046
+"Allsvenskan 1968",1968-08-18,14,"Åtvidabergs FF","IFK Göteborg",2,1,4968
+"Allsvenskan 1968",1968-08-18,14,"Örgryte IS","Helsingborgs IF",0,2,5796
+"Allsvenskan 1968",1968-08-18,14,"Östers IF","IFK Norrköping",2,1,16775
+"Allsvenskan 1968",1968-08-22,14,GAIS,"Örebro SK",4,1,10088
+"Allsvenskan 1968",1968-08-25,15,AIK,"Örebro SK",1,3,12844
+"Allsvenskan 1968",1968-08-25,15,"IF Elfsborg","IFK Norrköping",1,2,12016
+"Allsvenskan 1968",1968-08-25,15,"Helsingborgs IF","IFK Göteborg",0,3,7060
+"Allsvenskan 1968",1968-08-25,15,"Åtvidabergs FF",GAIS,3,0,5148
+"Allsvenskan 1968",1968-08-25,15,"Örgryte IS","Djurgårdens IF",2,4,7629
+"Allsvenskan 1968",1968-08-25,15,"Östers IF","Malmö FF",4,1,22113
+"Allsvenskan 1968",1968-08-29,16,GAIS,"IF Elfsborg",3,0,11538
+"Allsvenskan 1968",1968-09-02,16,"IFK Göteborg","Örgryte IS",1,1,21530
+"Allsvenskan 1968",1968-09-04,16,"Djurgårdens IF",AIK,2,0,35921
+"Allsvenskan 1968",1968-09-04,16,"Malmö FF","Åtvidabergs FF",1,0,14600
+"Allsvenskan 1968",1968-09-04,16,"IFK Norrköping","Helsingborgs IF",3,0,9085
+"Allsvenskan 1968",1968-09-04,16,"Örebro SK","Östers IF",2,1,11389
+"Allsvenskan 1968",1968-09-08,17,AIK,"Åtvidabergs FF",2,0,9531
+"Allsvenskan 1968",1968-09-08,17,"IF Elfsborg","Djurgårdens IF",4,0,12289
+"Allsvenskan 1968",1968-09-08,17,"Helsingborgs IF","Örebro SK",0,1,6236
+"Allsvenskan 1968",1968-09-08,17,"IFK Norrköping","IFK Göteborg",0,1,8544
+"Allsvenskan 1968",1968-09-08,17,"Örgryte IS","Malmö FF",0,5,6052
+"Allsvenskan 1968",1968-09-08,17,"Östers IF",GAIS,3,1,13706
+"Allsvenskan 1968",1968-08-19,18,"IFK Göteborg","IF Elfsborg",3,2,13336
+"Allsvenskan 1968",1968-09-22,18,"Djurgårdens IF","Helsingborgs IF",0,0,4686
+"Allsvenskan 1968",1968-09-22,18,GAIS,"IFK Norrköping",0,2,10841
+"Allsvenskan 1968",1968-09-22,18,"Malmö FF",AIK,3,1,9764
+"Allsvenskan 1968",1968-09-22,18,"Åtvidabergs FF","Östers IF",0,3,9512
+"Allsvenskan 1968",1968-09-22,18,"Örebro SK","Örgryte IS",1,3,5567
+"Allsvenskan 1968",1968-09-26,19,"Örgryte IS",GAIS,2,2,17630
+"Allsvenskan 1968",1968-09-29,19,"Djurgårdens IF","Örebro SK",1,3,9441
+"Allsvenskan 1968",1968-09-29,19,"IF Elfsborg","Östers IF",0,3,16616
+"Allsvenskan 1968",1968-09-29,19,"IFK Göteborg","Malmö FF",2,3,11599
+"Allsvenskan 1968",1968-09-29,19,"Helsingborgs IF",AIK,1,0,8069
+"Allsvenskan 1968",1968-09-29,19,"IFK Norrköping","Åtvidabergs FF",1,0,13230
+"Allsvenskan 1968",1968-10-12,20,AIK,"Örgryte IS",3,3,4756
+"Allsvenskan 1968",1968-10-12,20,GAIS,"Djurgårdens IF",3,1,9080
+"Allsvenskan 1968",1968-10-12,20,"Malmö FF","IFK Norrköping",4,1,18151
+"Allsvenskan 1968",1968-10-12,20,"Åtvidabergs FF","IF Elfsborg",2,1,2261
+"Allsvenskan 1968",1968-10-12,20,"Örebro SK","IFK Göteborg",1,1,4767
+"Allsvenskan 1968",1968-10-12,20,"Östers IF","Helsingborgs IF",3,0,12864
+"Allsvenskan 1968",1968-10-19,21,AIK,"Östers IF",1,0,12080
+"Allsvenskan 1968",1968-10-19,21,"IF Elfsborg","Örebro SK",3,1,5321
+"Allsvenskan 1968",1968-10-19,21,"Helsingborgs IF","Malmö FF",2,0,13761
+"Allsvenskan 1968",1968-10-19,21,"IFK Norrköping","Djurgårdens IF",2,2,13137
+"Allsvenskan 1968",1968-10-19,21,"Örgryte IS","Åtvidabergs FF",3,1,6197
+"Allsvenskan 1968",1968-10-20,21,"IFK Göteborg",GAIS,0,0,19395
+"Allsvenskan 1968",1968-10-27,22,"Djurgårdens IF","IFK Göteborg",1,1,8298
+"Allsvenskan 1968",1968-10-27,22,GAIS,AIK,2,0,13740
+"Allsvenskan 1968",1968-10-27,22,"Malmö FF","IF Elfsborg",0,0,18578
+"Allsvenskan 1968",1968-10-27,22,"Åtvidabergs FF","Helsingborgs IF",6,1,2369
+"Allsvenskan 1968",1968-10-27,22,"Örebro SK","IFK Norrköping",0,2,7873
+"Allsvenskan 1968",1968-10-27,22,"Östers IF","Örgryte IS",2,0,12425
