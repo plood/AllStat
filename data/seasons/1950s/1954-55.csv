@@ -1,0 +1,133 @@
+leaguename,matchdate,matchday,hometeam,awayteam,homescore,awayscore,attendance
+"Allsvenskan 1954/55",1954-08-01,1,"Djurgårdens IF","Halmstads BK",5,1,17769
+"Allsvenskan 1954/55",1954-08-01,1,"IFK Göteborg","Malmö FF",0,1,16604
+"Allsvenskan 1954/55",1954-08-01,1,"Helsingborgs IF","Kalmar FF",0,2,10488
+"Allsvenskan 1954/55",1954-08-01,1,"IFK Norrköping",GAIS,1,1,9303
+"Allsvenskan 1954/55",1954-08-01,1,"Sandvikens AIK","Degerfors IF ",1,1,8402
+"Allsvenskan 1954/55",1954-08-04,1,"Hammarby IF",AIK,1,3,30095
+"Allsvenskan 1954/55",1954-08-08,2,AIK,"IFK Göteborg",5,1,13601
+"Allsvenskan 1954/55",1954-08-08,2,"Degerfors IF","Hammarby IF",1,2,4097
+"Allsvenskan 1954/55",1954-08-08,2,GAIS,"Djurgårdens IF",1,5,20143
+"Allsvenskan 1954/55",1954-08-08,2,"Halmstads BK","Helsingborgs IF",2,0,16097
+"Allsvenskan 1954/55",1954-08-08,2,"Kalmar FF","Sandvikens AIK",5,3,8963
+"Allsvenskan 1954/55",1954-08-08,2,"Malmö FF","IFK Norrköping",0,2,16542
+"Allsvenskan 1954/55",1954-08-11,3,"IFK Göteborg","Hammarby IF",0,0,11752
+"Allsvenskan 1954/55",1954-08-11,3,"Kalmar FF",GAIS,3,2,9798
+"Allsvenskan 1954/55",1954-08-11,3,"Malmö FF","Helsingborgs IF",2,4,18047
+"Allsvenskan 1954/55",1954-08-11,3,"IFK Norrköping","Sandvikens AIK",4,0,5389
+"Allsvenskan 1954/55",1954-08-12,3,AIK,"Djurgårdens IF",0,1,40458
+"Allsvenskan 1954/55",1954-08-18,3,"Degerfors IF","Halmstads BK",2,4,4221
+"Allsvenskan 1954/55",1954-08-20,4,GAIS,"IFK Göteborg",1,0,21462
+"Allsvenskan 1954/55",1954-08-20,4,"Hammarby IF","IFK Norrköping",3,1,16546
+"Allsvenskan 1954/55",1954-08-22,4,"Djurgårdens IF","Degerfors IF",6,2,12639
+"Allsvenskan 1954/55",1954-08-22,4,"Halmstads BK","Kalmar FF",3,0,13102
+"Allsvenskan 1954/55",1954-08-22,4,"Helsingborgs IF",AIK,1,1,15075
+"Allsvenskan 1954/55",1954-08-22,4,"Sandvikens AIK","Malmö FF",1,2,8809
+"Allsvenskan 1954/55",1954-08-28,5,"Hammarby IF","Sandvikens AIK",2,0,13152
+"Allsvenskan 1954/55",1954-08-29,5,AIK,"Kalmar FF",4,1,16561
+"Allsvenskan 1954/55",1954-08-29,5,"Degerfors IF",GAIS,2,0,3805
+"Allsvenskan 1954/55",1954-08-29,5,"IFK Göteborg","Helsingborgs IF",1,3,12917
+"Allsvenskan 1954/55",1954-08-29,5,"Malmö FF","Halmstads BK",4,2,17855
+"Allsvenskan 1954/55",1954-08-29,5,"IFK Norrköping","Djurgårdens IF",1,1,12025
+"Allsvenskan 1954/55",1954-09-05,6,"Djurgårdens IF","Malmö FF",2,0,17021
+"Allsvenskan 1954/55",1954-09-05,6,GAIS,"Hammarby IF",1,1,13163
+"Allsvenskan 1954/55",1954-09-05,6,"Halmstads BK",AIK,0,1,14011
+"Allsvenskan 1954/55",1954-09-05,6,"Helsingborgs IF","IFK Norrköping",1,3,17466
+"Allsvenskan 1954/55",1954-09-05,6,"Kalmar FF","Degerfors IF",3,2,7626
+"Allsvenskan 1954/55",1954-09-05,6,"Sandvikens AIK","IFK Göteborg",1,2,3848
+"Allsvenskan 1954/55",1954-09-11,7,AIK,"Degerfors IF",1,1,9543
+"Allsvenskan 1954/55",1954-09-12,7,"IFK Göteborg","Djurgårdens IF",0,2,17406
+"Allsvenskan 1954/55",1954-09-12,7,"Hammarby IF","Helsingborgs IF",4,2,15702
+"Allsvenskan 1954/55",1954-09-12,7,"Malmö FF","Kalmar FF",5,0,14118
+"Allsvenskan 1954/55",1954-09-12,7,"IFK Norrköping","Halmstads BK",0,3,6877
+"Allsvenskan 1954/55",1954-09-12,7,"Sandvikens AIK",GAIS,3,1,3929
+"Allsvenskan 1954/55",1954-09-25,8,"Djurgårdens IF","Sandvikens AIK",4,0,5754
+"Allsvenskan 1954/55",1954-09-26,8,AIK,"Malmö FF",1,4,19256
+"Allsvenskan 1954/55",1954-09-26,8,"Degerfors IF","IFK Norrköping",1,1,5007
+"Allsvenskan 1954/55",1954-09-26,8,GAIS,"Helsingborgs IF",2,1,12890
+"Allsvenskan 1954/55",1954-09-26,8,"Halmstads BK","Hammarby IF",2,0,7889
+"Allsvenskan 1954/55",1954-09-26,8,"Kalmar FF","IFK Göteborg",1,6,6521
+"Allsvenskan 1954/55",1954-10-03,9,"IFK Göteborg","Degerfors IF",2,1,16952
+"Allsvenskan 1954/55",1954-10-03,9,"Hammarby IF","Kalmar FF",1,3,12744
+"Allsvenskan 1954/55",1954-10-03,9,"Helsingborgs IF","Djurgårdens IF",2,2,13685
+"Allsvenskan 1954/55",1954-10-03,9,"Malmö FF",GAIS,2,2,13908
+"Allsvenskan 1954/55",1954-10-03,9,"IFK Norrköping",AIK,0,2,10240
+"Allsvenskan 1954/55",1954-10-03,9,"Sandvikens AIK","Halmstads BK",3,5,5245
+"Allsvenskan 1954/55",1954-10-17,10,"Degerfors IF","Malmö FF",2,0,5003
+"Allsvenskan 1954/55",1954-10-17,10,"Djurgårdens IF","Hammarby IF",2,1,28100
+"Allsvenskan 1954/55",1954-10-17,10,GAIS,AIK,0,3,15916
+"Allsvenskan 1954/55",1954-10-17,10,"Halmstads BK","IFK Göteborg",4,0,9447
+"Allsvenskan 1954/55",1954-10-17,10,"Helsingborgs IF","Sandvikens AIK",2,0,6228
+"Allsvenskan 1954/55",1954-10-17,10,"Kalmar FF","IFK Norrköping",2,1,7232
+"Allsvenskan 1954/55",1954-10-24,11,AIK,"Sandvikens AIK",6,1,7091
+"Allsvenskan 1954/55",1954-10-24,11,"Degerfors IF","Helsingborgs IF",3,1,3892
+"Allsvenskan 1954/55",1954-10-24,11,"IFK Göteborg","IFK Norrköping",0,0,11480
+"Allsvenskan 1954/55",1954-10-24,11,"Halmstads BK",GAIS,3,0,7682
+"Allsvenskan 1954/55",1954-10-24,11,"Kalmar FF","Djurgårdens IF",2,3,12252
+"Allsvenskan 1954/55",1954-10-24,11,"Malmö FF","Hammarby IF",2,2,13951
+"Allsvenskan 1954/55",1954-11-06,12,"Djurgårdens IF","Kalmar FF",2,1,11450
+"Allsvenskan 1954/55",1954-11-06,12,GAIS,"Halmstads BK",3,1,17984
+"Allsvenskan 1954/55",1954-11-06,12,"Helsingborgs IF","Degerfors IF",5,1,6856
+"Allsvenskan 1954/55",1954-11-06,12,"IFK Norrköping","IFK Göteborg",0,1,6472
+"Allsvenskan 1954/55",1954-11-06,12,"Sandvikens AIK",AIK,4,9,5440
+"Allsvenskan 1954/55",1954-11-07,12,"Hammarby IF","Malmö FF",2,1,10649
+"Allsvenskan 1954/55",1955-04-17,13,AIK,GAIS,3,1,16114
+"Allsvenskan 1954/55",1955-04-17,13,"IFK Göteborg","Halmstads BK",1,1,18587
+"Allsvenskan 1954/55",1955-04-17,13,"Malmö FF","Degerfors IF",0,1,12608
+"Allsvenskan 1954/55",1955-04-27,13,"IFK Norrköping","Kalmar FF",3,1,7950
+"Allsvenskan 1954/55",1955-04-28,13,"Hammarby IF","Djurgårdens IF",2,3,14978
+"Allsvenskan 1954/55",1955-05-06,13,"Sandvikens AIK","Helsingborgs IF",0,1,4134
+"Allsvenskan 1954/55",1955-04-24,14,"Degerfors IF",AIK,2,0,7499
+"Allsvenskan 1954/55",1955-04-24,14,"Djurgårdens IF","IFK Göteborg",2,2,15751
+"Allsvenskan 1954/55",1955-04-24,14,GAIS,"Sandvikens AIK",3,0,9865
+"Allsvenskan 1954/55",1955-04-24,14,"Halmstads BK","IFK Norrköping",0,4,8745
+"Allsvenskan 1954/55",1955-04-24,14,"Helsingborgs IF","Hammarby IF",3,0,6396
+"Allsvenskan 1954/55",1955-04-24,14,"Kalmar FF","Malmö FF",0,1,7201
+"Allsvenskan 1954/55",1955-05-01,15,"IFK Göteborg","Kalmar FF",2,3,16033
+"Allsvenskan 1954/55",1955-05-01,15,"Hammarby IF","Halmstads BK",0,0,13642
+"Allsvenskan 1954/55",1955-05-01,15,"Helsingborgs IF",GAIS,5,2,7505
+"Allsvenskan 1954/55",1955-05-01,15,"Malmö FF",AIK,0,1,17224
+"Allsvenskan 1954/55",1955-05-01,15,"IFK Norrköping","Degerfors IF",2,2,11423
+"Allsvenskan 1954/55",1955-05-01,15,"Sandvikens AIK","Djurgårdens IF",0,6,5136
+"Allsvenskan 1954/55",1955-05-06,16,AIK,"IFK Norrköping",2,2,15802
+"Allsvenskan 1954/55",1955-05-08,16,"Degerfors IF","IFK Göteborg",1,1,6559
+"Allsvenskan 1954/55",1955-05-08,16,"Djurgårdens IF","Helsingborgs IF",0,6,18259
+"Allsvenskan 1954/55",1955-05-08,16,GAIS,"Malmö FF",3,3,14106
+"Allsvenskan 1954/55",1955-05-08,16,"Halmstads BK ","Sandvikens AIK",5,1,6249
+"Allsvenskan 1954/55",1955-05-08,16,"Kalmar FF","Hammarby IF",1,1,7311
+"Allsvenskan 1954/55",1955-05-14,17,"Hammarby IF",GAIS,2,5,12457
+"Allsvenskan 1954/55",1955-05-15,17,AIK,"Halmstads BK",0,0,15196
+"Allsvenskan 1954/55",1955-05-15,17,"Degerfors IF","Kalmar FF",5,1,4040
+"Allsvenskan 1954/55",1955-05-15,17,"IFK Göteborg","Sandvikens AIK",5,2,13634
+"Allsvenskan 1954/55",1955-05-15,17,"Malmö FF","Djurgårdens IF",1,1,18655
+"Allsvenskan 1954/55",1955-05-15,17,"IFK Norrköping","Helsingborgs IF",0,0,12016
+"Allsvenskan 1954/55",1955-05-19,18,"Djurgårdens IF","IFK Norrköping",4,2,22524
+"Allsvenskan 1954/55",1955-05-19,18,GAIS,"Degerfors IF",3,0,10899
+"Allsvenskan 1954/55",1955-05-19,18,"Halmstads BK","Malmö FF",1,1,7592
+"Allsvenskan 1954/55",1955-05-19,18,"Helsingborgs IF","IFK Göteborg",2,0,7450
+"Allsvenskan 1954/55",1955-05-19,18,"Kalmar FF",AIK,1,1,6877
+"Allsvenskan 1954/55",1955-05-19,18,"Sandvikens AIK","Hammarby IF",0,2,3278
+"Allsvenskan 1954/55",1955-05-22,19,AIK,"Helsingborgs IF",2,2,20388
+"Allsvenskan 1954/55",1955-05-22,19,"Degerfors IF","Djurgårdens IF",1,0,10453
+"Allsvenskan 1954/55",1955-05-22,19,"Kalmar FF","Halmstads BK",0,4,7125
+"Allsvenskan 1954/55",1955-05-22,19,"Malmö FF","Sandvikens AIK",1,0,9308
+"Allsvenskan 1954/55",1955-05-27,19,"IFK Göteborg",GAIS,1,1,31897
+"Allsvenskan 1954/55",1955-05-27,19,"IFK Norrköping","Hammarby IF",2,1,8628
+"Allsvenskan 1954/55",1955-05-26,20,"Djurgårdens IF",AIK,0,2,39696
+"Allsvenskan 1954/55",1955-05-27,20,"Helsingborgs IF","Malmö FF",0,1,23991
+"Allsvenskan 1954/55",1955-05-30,20,GAIS,"Kalmar FF",2,0,11076
+"Allsvenskan 1954/55",1955-05-30,20,"Halmstads BK","Degerfors IF",5,1,10870
+"Allsvenskan 1954/55",1955-05-30,20,"Hammarby IF","IFK Göteborg",1,0,13207
+"Allsvenskan 1954/55",1955-05-30,20,"Sandvikens AIK","IFK Norrköping",1,3,3756
+"Allsvenskan 1954/55",1955-06-04,21,"Hammarby IF","Degerfors IF",0,0,9850
+"Allsvenskan 1954/55",1955-06-05,21,"Djurgårdens IF",GAIS,2,0,20145
+"Allsvenskan 1954/55",1955-06-05,21,"IFK Göteborg",AIK,5,3,8951
+"Allsvenskan 1954/55",1955-06-05,21,"Helsingborgs IF","Halmstads BK",1,3,14850
+"Allsvenskan 1954/55",1955-06-05,21,"IFK Norrköping","Malmö FF",4,2,8161
+"Allsvenskan 1954/55",1955-06-05,21,"Sandvikens AIK","Kalmar FF",2,1,2347
+"Allsvenskan 1954/55",1955-06-10,22,AIK,"Hammarby IF",1,2,22866
+"Allsvenskan 1954/55",1955-06-10,22,"Degerfors IF","Sandvikens AIK",2,1,3834
+"Allsvenskan 1954/55",1955-06-10,22,GAIS,"IFK Norrköping",1,1,21182
+"Allsvenskan 1954/55",1955-06-10,22,"Halmstads BK","Djurgårdens IF",0,0,19380
+"Allsvenskan 1954/55",1955-06-10,22,"Kalmar FF","Helsingborgs IF",0,0,5242
+"Allsvenskan 1954/55",1955-06-10,22,"Malmö FF","IFK Göteborg",0,2,13001
