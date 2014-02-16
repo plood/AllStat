@@ -1,0 +1,133 @@
+leaguename,matchdate,matchday,hometeam,awayteam,homescore,awayscore,attendance
+"Allsvenskan 1970",1970-04-12,1,AIK,"Hammarby IF",1,1,12182
+"Allsvenskan 1970",1970-04-12,1,"Örgryte IS","Djurgårdens IF",1,1,9750
+"Allsvenskan 1970",1970-04-12,1,"Östers IF","Örebro SK",0,2,7178
+"Allsvenskan 1970",1970-04-14,1,GAIS,"IFK Norrköping",3,2,9314
+"Allsvenskan 1970",1970-07-02,1,"IF Elfsborg","Malmö FF",4,0,6323
+"Allsvenskan 1970",1970-08-02,1,"Åtvidabergs FF","IFK Göteborg",5,2,3924
+"Allsvenskan 1970",1970-04-16,2,"Hammarby IF","Örgryte IS",1,1,5040
+"Allsvenskan 1970",1970-04-19,2,"Djurgårdens IF","IF Elfsborg",2,1,5033
+"Allsvenskan 1970",1970-04-19,2,"IFK Göteborg",AIK,0,2,13774
+"Allsvenskan 1970",1970-04-19,2,"Malmö FF",GAIS,1,1,10625
+"Allsvenskan 1970",1970-04-19,2,"IFK Norrköping","Östers IF",0,1,7278
+"Allsvenskan 1970",1970-04-19,2,"Örebro SK","Åtvidabergs FF",0,1,5631
+"Allsvenskan 1970",1970-04-23,3,"Hammarby IF","Djurgårdens IF",0,2,11194
+"Allsvenskan 1970",1970-04-23,3,"Örgryte IS","IFK Göteborg",2,1,15205
+"Allsvenskan 1970",1970-04-24,3,"Östers IF","Malmö FF",0,0,9808
+"Allsvenskan 1970",1970-04-25,3,AIK,"Örebro SK",0,2,9027
+"Allsvenskan 1970",1970-04-25,3,GAIS,"IF Elfsborg",1,1,10831
+"Allsvenskan 1970",1970-04-25,3,"Åtvidabergs FF","IFK Norrköping",0,2,6802
+"Allsvenskan 1970",1970-04-28,4,"Djurgårdens IF",GAIS,2,3,5724
+"Allsvenskan 1970",1970-04-28,4,"IF Elfsborg","Östers IF",2,2,7078
+"Allsvenskan 1970",1970-04-28,4,"IFK Göteborg","Hammarby IF",5,1,7853
+"Allsvenskan 1970",1970-04-28,4,"Malmö FF","Åtvidabergs FF",3,1,9973
+"Allsvenskan 1970",1970-04-28,4,"IFK Norrköping",AIK,1,2,7315
+"Allsvenskan 1970",1970-04-28,4,"Örebro SK","Örgryte IS",3,1,5713
+"Allsvenskan 1970",1970-05-03,5,"IFK Göteborg","Malmö FF",1,2,17875
+"Allsvenskan 1970",1970-05-03,5,"Hammarby IF","IF Elfsborg",0,2,6330
+"Allsvenskan 1970",1970-05-03,5,"Åtvidabergs FF","Djurgårdens IF",3,1,4689
+"Allsvenskan 1970",1970-05-03,5,"Örebro SK","IFK Norrköping",0,1,8479
+"Allsvenskan 1970",1970-05-04,5,AIK,"Östers IF",0,0,8478
+"Allsvenskan 1970",1970-05-04,5,"Örgryte IS",GAIS,0,0,16301
+"Allsvenskan 1970",1970-05-07,6,"Djurgårdens IF","Örebro SK",2,1,5802
+"Allsvenskan 1970",1970-05-07,6,"IF Elfsborg","Örgryte IS",0,0,10072
+"Allsvenskan 1970",1970-05-07,6,GAIS,AIK,0,0,7543
+"Allsvenskan 1970",1970-05-07,6,"Malmö FF","Hammarby IF",2,0,11523
+"Allsvenskan 1970",1970-05-07,6,"IFK Norrköping","IFK Göteborg",1,1,6560
+"Allsvenskan 1970",1970-05-07,6,"Östers IF","Åtvidabergs FF",2,3,13244
+"Allsvenskan 1970",1970-05-09,7,"IFK Göteborg","IF Elfsborg",1,3,8330
+"Allsvenskan 1970",1970-05-10,7,AIK,"Åtvidabergs FF",0,0,8271
+"Allsvenskan 1970",1970-05-10,7,"Hammarby IF",GAIS,2,0,4356
+"Allsvenskan 1970",1970-05-10,7,"IFK Norrköping","Djurgårdens IF",0,0,7901
+"Allsvenskan 1970",1970-05-10,7,"Örebro SK","Malmö FF",1,1,6034
+"Allsvenskan 1970",1970-05-10,7,"Örgryte IS","Östers IF",2,3,7426
+"Allsvenskan 1970",1970-05-13,8,"Djurgårdens IF",AIK,4,1,25032
+"Allsvenskan 1970",1970-05-13,8,"IF Elfsborg","Örebro SK",1,0,6106
+"Allsvenskan 1970",1970-05-13,8,GAIS,"IFK Göteborg",4,1,16934
+"Allsvenskan 1970",1970-05-13,8,"Malmö FF","IFK Norrköping",1,0,12596
+"Allsvenskan 1970",1970-05-13,8,"Åtvidabergs FF","Örgryte IS",5,1,4314
+"Allsvenskan 1970",1970-05-13,8,"Östers IF","Hammarby IF",1,0,5263
+"Allsvenskan 1970",1970-08-04,9,AIK,"IF Elfsborg",3,0,6524
+"Allsvenskan 1970",1970-08-05,9,"Örgryte IS","Malmö FF",2,0,6435
+"Allsvenskan 1970",1970-08-06,9,"IFK Göteborg","Örebro SK",2,0,6500
+"Allsvenskan 1970",1970-08-06,9,"Hammarby IF","IFK Norrköping",2,1,7312
+"Allsvenskan 1970",1970-08-06,9,"Åtvidabergs FF",GAIS,4,1,5122
+"Allsvenskan 1970",1970-08-06,9,"Östers IF","Djurgårdens IF",1,2,9604
+"Allsvenskan 1970",1970-08-12,10,"Djurgårdens IF","IFK Göteborg",3,3,7830
+"Allsvenskan 1970",1970-08-12,10,"IF Elfsborg","Åtvidabergs FF",1,2,10681
+"Allsvenskan 1970",1970-08-12,10,GAIS,"Östers IF",1,1,6375
+"Allsvenskan 1970",1970-08-12,10,"Malmö FF",AIK,5,1,9417
+"Allsvenskan 1970",1970-08-12,10,"Örebro SK","Hammarby IF",5,2,4352
+"Allsvenskan 1970",1970-08-13,10,"IFK Norrköping","Örgryte IS",5,0,5627
+"Allsvenskan 1970",1970-08-18,11,AIK,"Örgryte IS",0,1,6145
+"Allsvenskan 1970",1970-08-18,11,"IF Elfsborg","IFK Norrköping",0,0,7997
+"Allsvenskan 1970",1970-08-18,11,GAIS,"Örebro SK",2,0,4020
+"Allsvenskan 1970",1970-08-18,11,"Malmö FF","Djurgårdens IF",0,0,15389
+"Allsvenskan 1970",1970-08-18,11,"Östers IF","IFK Göteborg",1,2,7109
+"Allsvenskan 1970",1970-08-19,11,"Åtvidabergs FF","Hammarby IF",1,0,4337
+"Allsvenskan 1970",1970-08-23,12,"Djurgårdens IF","Malmö FF",3,0,16237
+"Allsvenskan 1970",1970-08-23,12,"IFK Göteborg","Östers IF",0,2,13117
+"Allsvenskan 1970",1970-08-23,12,"IFK Norrköping","IF Elfsborg",6,0,6803
+"Allsvenskan 1970",1970-08-23,12,"Örebro SK",GAIS,5,0,4771
+"Allsvenskan 1970",1970-08-24,12,"Örgryte IS",AIK,0,1,7295
+"Allsvenskan 1970",1970-08-27,12,"Hammarby IF","Åtvidabergs FF",3,1,9045
+"Allsvenskan 1970",1970-08-30,13,GAIS,"Djurgårdens IF",1,3,7356
+"Allsvenskan 1970",1970-08-30,13,"Hammarby IF","IFK Göteborg",3,1,9523
+"Allsvenskan 1970",1970-08-30,13,"Åtvidabergs FF","Malmö FF",0,2,7988
+"Allsvenskan 1970",1970-08-30,13,"Östers IF","IF Elfsborg",2,2,7522
+"Allsvenskan 1970",1970-08-31,13,AIK,"IFK Norrköping",2,1,9486
+"Allsvenskan 1970",1970-08-31,13,"Örgryte IS","Örebro SK",0,3,5227
+"Allsvenskan 1970",1970-09-02,14,"Malmö FF","Östers IF",2,4,16173
+"Allsvenskan 1970",1970-09-03,14,"Djurgårdens IF","Hammarby IF",1,1,25665
+"Allsvenskan 1970",1970-09-03,14,"IF Elfsborg",GAIS,4,2,5721
+"Allsvenskan 1970",1970-09-03,14,"IFK Göteborg","Örgryte IS",1,1,13645
+"Allsvenskan 1970",1970-09-03,14,"Örebro SK",AIK,1,0,5963
+"Allsvenskan 1970",1970-09-24,14,"IFK Norrköping","Åtvidabergs FF",1,1,14584
+"Allsvenskan 1970",1970-09-06,15,"Djurgårdens IF","IFK Norrköping",1,3,6490
+"Allsvenskan 1970",1970-09-06,15,"IF Elfsborg","IFK Göteborg",1,0,10504
+"Allsvenskan 1970",1970-09-06,15,GAIS,"Hammarby IF",2,2,6701
+"Allsvenskan 1970",1970-09-06,15,"Malmö FF","Örebro SK",1,0,8856
+"Allsvenskan 1970",1970-09-06,15,"Åtvidabergs FF",AIK,0,2,3851
+"Allsvenskan 1970",1970-09-06,15,"Östers IF","Örgryte IS",0,2,7622
+"Allsvenskan 1970",1970-09-09,16,AIK,"Djurgårdens IF",1,0,20388
+"Allsvenskan 1970",1970-09-09,16,"IFK Göteborg",GAIS,4,1,12095
+"Allsvenskan 1970",1970-09-09,16,"Örebro SK","IF Elfsborg",0,1,5439
+"Allsvenskan 1970",1970-09-10,16,"IFK Norrköping","Malmö FF",1,1,11243
+"Allsvenskan 1970",1970-09-16,16,"Hammarby IF","Östers IF",3,1,11281
+"Allsvenskan 1970",1970-09-17,16,"Örgryte IS","Åtvidabergs FF",1,1,6273
+"Allsvenskan 1970",1970-09-20,17,AIK,"IFK Göteborg",0,0,6869
+"Allsvenskan 1970",1970-09-20,17,"IF Elfsborg","Djurgårdens IF",1,1,15158
+"Allsvenskan 1970",1970-09-20,17,"Åtvidabergs FF ","Örebro SK",1,0,3903
+"Allsvenskan 1970",1970-09-20,17,"Örgryte IS","Hammarby IF",1,4,10045
+"Allsvenskan 1970",1970-09-20,17,"Östers IF","IFK Norrköping",0,0,8249
+"Allsvenskan 1970",1970-09-24,17,GAIS,"Malmö FF",0,1,6684
+"Allsvenskan 1970",1970-09-24,18,"Hammarby IF",AIK,2,0,32229
+"Allsvenskan 1970",1970-09-27,18,"Djurgårdens IF","Örgryte IS",2,2,4251
+"Allsvenskan 1970",1970-09-27,18,"IFK Göteborg","Åtvidabergs FF",1,0,10135
+"Allsvenskan 1970",1970-09-27,18,"Malmö FF","IF Elfsborg",3,0,14512
+"Allsvenskan 1970",1970-09-27,18,"IFK Norrköping",GAIS,3,1,5541
+"Allsvenskan 1970",1970-09-27,18,"Örebro SK","Östers IF",2,0,5357
+"Allsvenskan 1970",1970-10-03,19,AIK,GAIS,1,2,3013
+"Allsvenskan 1970",1970-10-03,19,"IFK Göteborg","IFK Norrköping",1,1,11605
+"Allsvenskan 1970",1970-10-04,19,"Hammarby IF","Malmö FF",1,1,29842
+"Allsvenskan 1970",1970-10-04,19,"Åtvidabergs FF","Östers IF",3,3,4213
+"Allsvenskan 1970",1970-10-04,19,"Örebro SK","Djurgårdens IF ",2,2,5876
+"Allsvenskan 1970",1970-10-04,19,"Örgryte IS","IF Elfsborg",2,2,8469
+"Allsvenskan 1970",1970-10-11,20,"Djurgårdens IF","Åtvidabergs FF",1,2,6760
+"Allsvenskan 1970",1970-10-11,20,"IF Elfsborg","Hammarby IF",1,1,14540
+"Allsvenskan 1970",1970-10-11,20,GAIS,"Örgryte IS",0,3,17651
+"Allsvenskan 1970",1970-10-11,20,"Malmö FF","IFK Göteborg",2,0,12643
+"Allsvenskan 1970",1970-10-11,20,"IFK Norrköping","Örebro SK",3,2,7479
+"Allsvenskan 1970",1970-10-11,20,"Östers IF",AIK,1,0,7447
+"Allsvenskan 1970",1970-10-17,21,"IFK Göteborg","Djurgårdens IF",1,0,10066
+"Allsvenskan 1970",1970-10-17,21,"Hammarby IF","Örebro SK",3,1,10876
+"Allsvenskan 1970",1970-10-18,21,AIK,"Malmö FF",0,0,4690
+"Allsvenskan 1970",1970-10-18,21,"Åtvidabergs FF","IF Elfsborg",3,0,4376
+"Allsvenskan 1970",1970-10-18,21,"Örgryte IS","IFK Norrköping",2,0,6645
+"Allsvenskan 1970",1970-10-18,21,"Östers IF",GAIS,3,0,4007
+"Allsvenskan 1970",1970-10-25,22,"Djurgårdens IF","Östers IF",2,1,2192
+"Allsvenskan 1970",1970-10-25,22,"IF Elfsborg",AIK,3,0,5900
+"Allsvenskan 1970",1970-10-25,22,GAIS,"Åtvidabergs FF",2,3,2384
+"Allsvenskan 1970",1970-10-25,22,"Malmö FF","Örgryte IS",2,0,21688
+"Allsvenskan 1970",1970-10-25,22,"IFK Norrköping","Hammarby IF",1,1,17632
+"Allsvenskan 1970",1970-10-25,22,"Örebro SK","IFK Göteborg",1,0,13886

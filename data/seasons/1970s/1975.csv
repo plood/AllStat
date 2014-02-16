@@ -1,0 +1,183 @@
+leaguename,matchdate,matchday,hometeam,awayteam,homescore,awayscore,attendance
+"Allsvenskan 1975",1975-04-12,1,"Hammarby IF","Östers IF",1,2,6984
+"Allsvenskan 1975",1975-04-13,1,"Djurgårdens IF","Malmö FF",0,0,3339
+"Allsvenskan 1975",1975-04-13,1,GAIS,"Halmstads BK",0,1,5726
+"Allsvenskan 1975",1975-04-13,1,"Landskrona BoIS","Åtvidabergs FF",1,1,3947
+"Allsvenskan 1975",1975-04-13,1,"GIF Sundsvall","Örgryte IS",2,1,6752
+"Allsvenskan 1975",1975-05-01,1,"IFK Norrköping","IF Elfsborg",3,0,4998
+"Allsvenskan 1975",1975-05-01,1,"Örebro SK",AIK,1,2,8233
+"Allsvenskan 1975",1975-04-20,2,AIK,"GIF Sundsvall",3,0,8451
+"Allsvenskan 1975",1975-04-20,2,"IF Elfsborg","Örebro SK",1,1,5947
+"Allsvenskan 1975",1975-04-20,2,"Halmstads BK","IFK Norrköping",3,3,6479
+"Allsvenskan 1975",1975-04-20,2,"Malmö FF",GAIS,2,0,7098
+"Allsvenskan 1975",1975-04-20,2,"Åtvidabergs FF","Djurgårdens IF",0,1,2692
+"Allsvenskan 1975",1975-04-20,2,"Örgryte IS","Hammarby IF",1,2,4249
+"Allsvenskan 1975",1975-04-20,2,"Östers IF","Landskrona BoIS",0,0,5976
+"Allsvenskan 1975",1975-04-26,3,"Djurgårdens IF","IF Elfsborg",2,0,3725
+"Allsvenskan 1975",1975-04-27,3,GAIS,AIK,2,1,4025
+"Allsvenskan 1975",1975-04-27,3,"Hammarby IF","Åtvidabergs FF",2,2,7059
+"Allsvenskan 1975",1975-04-27,3,"Malmö FF","Halmstads BK",0,0,7594
+"Allsvenskan 1975",1975-04-27,3,"IFK Norrköping","Örgryte IS",1,2,4099
+"Allsvenskan 1975",1975-04-27,3,"GIF Sundsvall","Landskrona BoIS",2,2,5684
+"Allsvenskan 1975",1975-04-27,3,"Örebro SK","Östers IF",2,0,4732
+"Allsvenskan 1975",1975-05-04,4,AIK,"IFK Norrköping",3,1,8415
+"Allsvenskan 1975",1975-05-04,4,"IF Elfsborg",GAIS,2,1,6333
+"Allsvenskan 1975",1975-05-04,4,"Halmstads BK","Djurgårdens IF",0,1,6059
+"Allsvenskan 1975",1975-05-04,4,"Landskrona BoIS","Hammarby IF",1,0,3934
+"Allsvenskan 1975",1975-05-04,4,"Åtvidabergs FF","Malmö FF",1,1,2616
+"Allsvenskan 1975",1975-05-04,4,"Örgryte IS","Örebro SK",3,1,3645
+"Allsvenskan 1975",1975-05-04,4,"Östers IF","GIF Sundsvall",5,0,4105
+"Allsvenskan 1975",1975-05-11,5,GAIS,"Åtvidabergs FF",0,1,6667
+"Allsvenskan 1975",1975-05-11,5,"Hammarby IF","IF Elfsborg",2,1,5545
+"Allsvenskan 1975",1975-05-11,5,"Landskrona BoIS",AIK,1,2,6254
+"Allsvenskan 1975",1975-05-11,5,"IFK Norrköping","Djurgårdens IF",1,0,5626
+"Allsvenskan 1975",1975-05-11,5,"GIF Sundsvall","Halmstads BK",1,1,5438
+"Allsvenskan 1975",1975-05-11,5,"Örebro SK","Malmö FF",0,0,6636
+"Allsvenskan 1975",1975-05-11,5,"Östers IF","Örgryte IS",4,0,5535
+"Allsvenskan 1975",1975-05-14,6,"Djurgårdens IF",GAIS,4,0,4560
+"Allsvenskan 1975",1975-05-15,6,AIK,"Hammarby IF",4,1,28835
+"Allsvenskan 1975",1975-05-15,6,"IF Elfsborg","GIF Sundsvall",2,0,6631
+"Allsvenskan 1975",1975-05-15,6,"Halmstads BK","Örebro SK",0,1,4302
+"Allsvenskan 1975",1975-05-15,6,"Malmö FF","IFK Norrköping",2,0,10370
+"Allsvenskan 1975",1975-05-15,6,"Åtvidabergs FF","Östers IF",0,1,3879
+"Allsvenskan 1975",1975-05-15,6,"Örgryte IS","Landskrona BoIS",0,1,3691
+"Allsvenskan 1975",1975-05-20,7,AIK,"Halmstads BK",1,0,6850
+"Allsvenskan 1975",1975-05-22,7,"Hammarby IF","IFK Norrköping",2,0,4836
+"Allsvenskan 1975",1975-05-22,7,"Landskrona BoIS",GAIS,0,0,2647
+"Allsvenskan 1975",1975-05-22,7,"GIF Sundsvall","Örebro SK",0,1,4304
+"Allsvenskan 1975",1975-05-22,7,"Åtvidabergs FF","IF Elfsborg",2,0,1624
+"Allsvenskan 1975",1975-05-22,7,"Örgryte IS","Malmö FF",0,1,4693
+"Allsvenskan 1975",1975-05-22,7,"Östers IF","Djurgårdens IF",2,2,6175
+"Allsvenskan 1975",1975-05-25,8,"Djurgårdens IF","Landskrona BoIS",0,2,5417
+"Allsvenskan 1975",1975-05-25,8,"IF Elfsborg",AIK,2,1,9243
+"Allsvenskan 1975",1975-05-25,8,GAIS,"Hammarby IF",3,1,5593
+"Allsvenskan 1975",1975-05-25,8,"Halmstads BK","Örgryte IS",0,0,4610
+"Allsvenskan 1975",1975-05-25,8,"Malmö FF","Östers IF",2,0,17600
+"Allsvenskan 1975",1975-05-25,8,"IFK Norrköping","GIF Sundsvall",4,1,4448
+"Allsvenskan 1975",1975-05-25,8,"Örebro SK","Åtvidabergs FF",3,0,6640
+"Allsvenskan 1975",1975-05-28,9,"Hammarby IF","GIF Sundsvall",0,0,4451
+"Allsvenskan 1975",1975-05-29,9,AIK,"Djurgårdens IF",1,2,40669
+"Allsvenskan 1975",1975-05-29,9,"IF Elfsborg","Malmö FF",1,2,9813
+"Allsvenskan 1975",1975-05-29,9,"Landskrona BoIS","Örebro SK",2,1,4341
+"Allsvenskan 1975",1975-05-29,9,"Åtvidabergs FF","Halmstads BK",1,0,1647
+"Allsvenskan 1975",1975-05-29,9,"Örgryte IS",GAIS,1,2,16719
+"Allsvenskan 1975",1975-05-29,9,"Östers IF","IFK Norrköping",3,0,4869
+"Allsvenskan 1975",1975-06-08,10,"Djurgårdens IF","Örgryte IS",3,1,4163
+"Allsvenskan 1975",1975-06-08,10,GAIS,"Östers IF",0,2,6195
+"Allsvenskan 1975",1975-06-08,10,"Halmstads BK","IF Elfsborg",0,2,5778
+"Allsvenskan 1975",1975-06-08,10,"Malmö FF",AIK,1,0,19842
+"Allsvenskan 1975",1975-06-08,10,"IFK Norrköping","Landskrona BoIS",2,4,4536
+"Allsvenskan 1975",1975-06-08,10,"GIF Sundsvall","Åtvidabergs FF",0,2,5495
+"Allsvenskan 1975",1975-06-08,10,"Örebro SK","Hammarby IF",2,1,5654
+"Allsvenskan 1975",1975-06-12,11,"Hammarby IF","Djurgårdens IF",1,2,20327
+"Allsvenskan 1975",1975-06-12,11,"Landskrona BoIS","Malmö FF",0,5,17696
+"Allsvenskan 1975",1975-06-12,11,"GIF Sundsvall",GAIS,0,0,4006
+"Allsvenskan 1975",1975-06-12,11,"Åtvidabergs FF",AIK,0,2,3451
+"Allsvenskan 1975",1975-06-12,11,"Örebro SK","IFK Norrköping",1,1,5787
+"Allsvenskan 1975",1975-06-12,11,"Örgryte IS","IF Elfsborg",2,0,4262
+"Allsvenskan 1975",1975-06-12,11,"Östers IF","Halmstads BK",3,0,4895
+"Allsvenskan 1975",1975-06-16,12,"Djurgårdens IF","GIF Sundsvall",2,1,3849
+"Allsvenskan 1975",1975-06-17,12,AIK,"Örgryte IS",1,1,5754
+"Allsvenskan 1975",1975-06-17,12,"IF Elfsborg","Östers IF",1,6,8768
+"Allsvenskan 1975",1975-06-17,12,GAIS,"Örebro SK",0,4,4606
+"Allsvenskan 1975",1975-06-17,12,"Halmstads BK","Landskrona BoIS",1,2,4246
+"Allsvenskan 1975",1975-06-17,12,"Malmö FF","Hammarby IF",2,2,11044
+"Allsvenskan 1975",1975-06-17,12,"IFK Norrköping","Åtvidabergs FF",1,1,9335
+"Allsvenskan 1975",1975-06-24,13,"Hammarby IF","Halmstads BK",1,1,6541
+"Allsvenskan 1975",1975-06-24,13,"Landskrona BoIS","IF Elfsborg",1,1,4568
+"Allsvenskan 1975",1975-06-24,13,"IFK Norrköping",GAIS,4,0,4431
+"Allsvenskan 1975",1975-06-24,13,"GIF Sundsvall","Malmö FF",0,2,6239
+"Allsvenskan 1975",1975-06-24,13,"Örebro SK","Djurgårdens IF",0,0,7459
+"Allsvenskan 1975",1975-06-24,13,"Örgryte IS","Åtvidabergs FF",1,1,4696
+"Allsvenskan 1975",1975-06-24,13,"Östers IF",AIK,0,1,12063
+"Allsvenskan 1975",1975-07-02,14,"Djurgårdens IF","Örebro SK",1,0,5174
+"Allsvenskan 1975",1975-07-02,14,"IF Elfsborg","Landskrona BoIS",1,1,6417
+"Allsvenskan 1975",1975-07-02,14,GAIS,"IFK Norrköping",1,1,5112
+"Allsvenskan 1975",1975-07-02,14,"Halmstads BK","Hammarby IF",2,0,6568
+"Allsvenskan 1975",1975-07-02,14,"Malmö FF","GIF Sundsvall",4,1,9645
+"Allsvenskan 1975",1975-07-02,14,"Åtvidabergs FF","Örgryte IS",0,2,2610
+"Allsvenskan 1975",1975-07-03,14,AIK,"Östers IF",2,4,8332
+"Allsvenskan 1975",1975-07-30,15,"Malmö FF","Örgryte IS",5,2,8019
+"Allsvenskan 1975",1975-07-31,15,"Djurgårdens IF","Östers IF",3,2,8383
+"Allsvenskan 1975",1975-07-31,15,"IF Elfsborg","Åtvidabergs FF",1,2,6694
+"Allsvenskan 1975",1975-07-31,15,GAIS,"Landskrona BoIS",3,1,4305
+"Allsvenskan 1975",1975-07-31,15,"Halmstads BK",AIK,2,1,7205
+"Allsvenskan 1975",1975-07-31,15,"IFK Norrköping","Hammarby IF",4,2,5297
+"Allsvenskan 1975",1975-07-31,15,"Örebro SK","GIF Sundsvall",3,1,4680
+"Allsvenskan 1975",1975-08-05,16,"Hammarby IF",GAIS,3,1,5540
+"Allsvenskan 1975",1975-08-07,16,AIK,"IF Elfsborg",3,0,3809
+"Allsvenskan 1975",1975-08-07,16,"Landskrona BoIS","Djurgårdens IF",1,1,4256
+"Allsvenskan 1975",1975-08-07,16,"GIF Sundsvall","IFK Norrköping",3,2,4136
+"Allsvenskan 1975",1975-08-07,16,"Åtvidabergs FF","Örebro SK",2,0,2100
+"Allsvenskan 1975",1975-08-07,16,"Örgryte IS","Halmstads BK",2,1,4970
+"Allsvenskan 1975",1975-08-08,16,"Östers IF","Malmö FF",0,2,14272
+"Allsvenskan 1975",1975-08-17,17,AIK,"Landskrona BoIS",2,2,4533
+"Allsvenskan 1975",1975-08-17,17,"IF Elfsborg","Hammarby IF",2,2,5713
+"Allsvenskan 1975",1975-08-17,17,"Halmstads BK","GIF Sundsvall",5,0,4130
+"Allsvenskan 1975",1975-08-17,17,"Malmö FF","Örebro SK",1,1,7261
+"Allsvenskan 1975",1975-08-17,17,"Åtvidabergs FF",GAIS,2,2,2939
+"Allsvenskan 1975",1975-08-17,17,"Örgryte IS","Östers IF",1,3,5282
+"Allsvenskan 1975",1975-08-18,17,"Djurgårdens IF","IFK Norrköping",1,2,7873
+"Allsvenskan 1975",1975-08-21,18,GAIS,"Djurgårdens IF",1,2,6031
+"Allsvenskan 1975",1975-08-21,18,"Hammarby IF",AIK,1,0,18339
+"Allsvenskan 1975",1975-08-21,18,"Landskrona BoIS","Örgryte IS",0,0,3950
+"Allsvenskan 1975",1975-08-21,18,"IFK Norrköping","Malmö FF",3,2,13382
+"Allsvenskan 1975",1975-08-21,18,"GIF Sundsvall","IF Elfsborg",2,0,6369
+"Allsvenskan 1975",1975-08-21,18,"Örebro SK","Halmstads BK",1,1,6661
+"Allsvenskan 1975",1975-08-21,18,"Östers IF","Åtvidabergs FF",5,1,4281
+"Allsvenskan 1975",1975-08-26,19,AIK,"Åtvidabergs FF",1,2,5463
+"Allsvenskan 1975",1975-08-27,19,"Malmö FF","Landskrona BoIS",3,0,25077
+"Allsvenskan 1975",1975-08-28,19,"Djurgårdens IF","Hammarby IF",3,2,24145
+"Allsvenskan 1975",1975-08-28,19,"IF Elfsborg","Örgryte IS",2,1,8484
+"Allsvenskan 1975",1975-08-28,19,GAIS,"GIF Sundsvall",1,0,5773
+"Allsvenskan 1975",1975-08-28,19,"Halmstads BK","Östers IF",2,4,9703
+"Allsvenskan 1975",1975-08-28,19,"IFK Norrköping","Örebro SK",1,3,9414
+"Allsvenskan 1975",1975-09-07,20,"Hammarby IF","Malmö FF",0,2,12306
+"Allsvenskan 1975",1975-09-07,20,"Landskrona BoIS","Halmstads BK",1,1,5076
+"Allsvenskan 1975",1975-09-07,20,"GIF Sundsvall","Djurgårdens IF",2,1,3381
+"Allsvenskan 1975",1975-09-07,20,"Åtvidabergs FF","IFK Norrköping",2,4,8853
+"Allsvenskan 1975",1975-09-07,20,"Örebro SK",GAIS,1,1,6081
+"Allsvenskan 1975",1975-09-07,20,"Örgryte IS",AIK,1,4,5074
+"Allsvenskan 1975",1975-09-07,20,"Östers IF","IF Elfsborg",2,2,5201
+"Allsvenskan 1975",1975-09-11,21,"Djurgårdens IF",AIK,0,0,28693
+"Allsvenskan 1975",1975-09-11,21,GAIS,"Örgryte IS",1,1,11754
+"Allsvenskan 1975",1975-09-14,21,"Halmstads BK","Åtvidabergs FF",1,2,3723
+"Allsvenskan 1975",1975-09-14,21,"Malmö FF","IF Elfsborg",2,0,6582
+"Allsvenskan 1975",1975-09-14,21,"IFK Norrköping","Östers IF",0,3,7530
+"Allsvenskan 1975",1975-09-14,21,"GIF Sundsvall","Hammarby IF",2,2,5019
+"Allsvenskan 1975",1975-09-14,21,"Örebro SK","Landskrona BoIS",1,2,5212
+"Allsvenskan 1975",1975-09-20,22,"Hammarby IF","Örebro SK",4,1,4428
+"Allsvenskan 1975",1975-09-21,22,AIK,"Malmö FF",1,2,6652
+"Allsvenskan 1975",1975-09-21,22,"IF Elfsborg","Halmstads BK",4,1,6380
+"Allsvenskan 1975",1975-09-21,22,"Landskrona BoIS","IFK Norrköping",0,0,3653
+"Allsvenskan 1975",1975-09-21,22,"Åtvidabergs FF","GIF Sundsvall",4,1,1948
+"Allsvenskan 1975",1975-09-21,22,"Örgryte IS","Djurgårdens IF",0,0,2908
+"Allsvenskan 1975",1975-09-21,22,"Östers IF",GAIS,1,1,4032
+"Allsvenskan 1975",1975-09-27,23,"Hammarby IF","Örgryte IS",3,0,5133
+"Allsvenskan 1975",1975-09-27,23,"GIF Sundsvall",AIK,0,1,3342
+"Allsvenskan 1975",1975-09-28,23,"Djurgårdens IF","Åtvidabergs FF",2,0,2339
+"Allsvenskan 1975",1975-09-28,23,GAIS,"Malmö FF",2,0,6079
+"Allsvenskan 1975",1975-09-28,23,"Landskrona BoIS","Östers IF",2,2,3069
+"Allsvenskan 1975",1975-09-28,23,"IFK Norrköping","Halmstads BK",2,2,2925
+"Allsvenskan 1975",1975-09-28,23,"Örebro SK","IF Elfsborg",2,2,3822
+"Allsvenskan 1975",1975-10-05,24,AIK,"Örebro SK",1,1,2535
+"Allsvenskan 1975",1975-10-05,24,"IF Elfsborg","IFK Norrköping",4,1,5881
+"Allsvenskan 1975",1975-10-05,24,"Halmstads BK",GAIS,1,0,4431
+"Allsvenskan 1975",1975-10-05,24,"Malmö FF","Djurgårdens IF",4,1,14283
+"Allsvenskan 1975",1975-10-05,24,"Åtvidabergs FF","Landskrona BoIS",0,3,1933
+"Allsvenskan 1975",1975-10-05,24,"Örgryte IS","GIF Sundsvall",2,2,2889
+"Allsvenskan 1975",1975-10-05,24,"Östers IF","Hammarby IF",4,0,4485
+"Allsvenskan 1975",1975-10-18,25,"Djurgårdens IF","Halmstads BK",0,0,1565
+"Allsvenskan 1975",1975-10-18,25,"Malmö FF","Åtvidabergs FF",3,0,4742
+"Allsvenskan 1975",1975-10-18,25,"GIF Sundsvall","Östers IF",0,4,1389
+"Allsvenskan 1975",1975-10-19,25,GAIS,"IF Elfsborg",1,2,7562
+"Allsvenskan 1975",1975-10-19,25,"Hammarby IF","Landskrona BoIS",3,0,2918
+"Allsvenskan 1975",1975-10-19,25,"IFK Norrköping",AIK,2,2,3684
+"Allsvenskan 1975",1975-10-19,25,"Örebro SK","Örgryte IS",1,4,3127
+"Allsvenskan 1975",1975-10-26,26,AIK,GAIS,3,1,2193
+"Allsvenskan 1975",1975-10-26,26,"IF Elfsborg","Djurgårdens IF",2,2,4573
+"Allsvenskan 1975",1975-10-26,26,"Halmstads BK","Malmö FF",2,3,7371
+"Allsvenskan 1975",1975-10-26,26,"Landskrona BoIS","GIF Sundsvall",2,0,2119
+"Allsvenskan 1975",1975-10-26,26,"Åtvidabergs FF","Hammarby IF",2,1,1878
+"Allsvenskan 1975",1975-10-26,26,"Örgryte IS","IFK Norrköping",2,1,5552
+"Allsvenskan 1975",1975-10-26,26,"Östers IF","Örebro SK",4,1,2265
