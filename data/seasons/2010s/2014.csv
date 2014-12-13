@@ -1,241 +1,241 @@
-leaguename;matchdate;matchday;hometeam;awayteam;homescore;awayscore;attendance
-"Allsvenskan 2014";2014-03-30;1;"IF Brommapojkarna";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-03-30;1;"Mjällby AIF";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-03-30;1;"Helsingborgs IF";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-03-30;1;"Malmö FF";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-03-30;1;"Halmstads BK";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-03-31;1;"Åtvidabergs FF";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-03-31;1;AIK;"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-03-31;1;"BK Häcken";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-04;2;"IF Elfsborg";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-05;2;"Falkenbergs FF";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-06;2;"Djurgårdens IF";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-06;2;"Gefle IF";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-06;2;"IFK Norrköping";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-07;2;"Kalmar FF";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-07;2;"IFK Göteborg";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-07;2;"Örebro SK";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-11;3;"Mjällby AIF";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-12;3;"Åtvidabergs FF";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-12;3;"Malmö FF";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-13;3;AIK;"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-13;3;"Halmstads BK";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-13;3;"Helsingborgs IF";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-14;3;"IF Brommapojkarna";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-14;3;"Kalmar FF";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-16;4;"Örebro SK";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-16;4;"Djurgårdens IF";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-16;4;"IFK Norrköping";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-16;4;"BK Häcken";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-17;4;"IFK Göteborg";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-17;4;"Gefle IF";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-17;4;"IF Elfsborg";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-17;4;"Falkenbergs FF";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-20;5;"Halmstads BK";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-20;5;"Kalmar FF";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-20;5;AIK;"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-20;5;"Mjällby AIF";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-21;5;"Åtvidabergs FF";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-21;5;"Falkenbergs FF";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-21;5;"IF Brommapojkarna";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-21;5;"Malmö FF";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-25;6;"Örebro SK";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-25;6;"IFK Göteborg";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-27;6;"Djurgårdens IF";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-27;6;"Helsingborgs IF";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-27;6;"BK Häcken";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-28;6;"IFK Norrköping";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-28;6;"IF Elfsborg";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-04-28;6;"Gefle IF";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-02;7;"Malmö FF";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-03;7;"IF Brommapojkarna";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-03;7;"Mjällby AIF";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-04;7;"Åtvidabergs FF";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-04;7;"IFK Göteborg";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-04;7;"Kalmar FF";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-05;7;"Falkenbergs FF";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-05;7;AIK;"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-07;8;"IFK Norrköping";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-07;8;"BK Häcken";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-07;8;"IF Elfsborg";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-07;8;"Djurgårdens IF";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-08;8;"Halmstads BK";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-08;8;"Örebro SK";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-08;8;"Gefle IF";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-08;8;"Helsingborgs IF";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-10;9;"Kalmar FF";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-11;9;AIK;"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-11;9;"Gefle IF";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-11;9;"IFK Göteborg";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-12;9;"IF Brommapojkarna";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-12;9;"Malmö FF";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-12;9;"Falkenbergs FF";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-12;9;"Åtvidabergs FF";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-15;10;AIK;"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-15;10;"IFK Norrköping";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-19;10;"Halmstads BK";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-19;10;"Örebro SK";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-20;10;"BK Häcken";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-21;10;"Helsingborgs IF";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-21;10;"Djurgårdens IF";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-22;10;"Mjällby AIF";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-15;11;"IF Brommapojkarna";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-24;11;"Åtvidabergs FF";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-24;11;"IF Elfsborg";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-24;11;"Falkenbergs FF";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-25;11;"Kalmar FF";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-25;11;"IFK Göteborg";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-26;11;"Malmö FF";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-26;11;"Gefle IF";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-30;12;"Örebro SK";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-31;12;"Mjällby AIF";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-05-31;12;"Halmstads BK";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-06-01;12;"Helsingborgs IF";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-06-01;12;"IF Elfsborg";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-06-02;12;AIK;"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-06-02;12;"BK Häcken";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-06-02;12;"IFK Norrköping";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-06;13;"Åtvidabergs FF";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-06;13;"IF Brommapojkarna";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-06;13;"Djurgårdens IF";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-06;13;"Kalmar FF";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-06;13;"Falkenbergs FF";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-06;13;"IFK Göteborg";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-06;13;"Gefle IF";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-06;13;"Örebro SK";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-13;14;"Malmö FF";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-13;14;"IF Elfsborg";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-13;14;"Mjällby AIF";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-13;14;"Halmstads BK";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-13;14;"Helsingborgs IF";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-13;14;"IFK Norrköping";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-13;14;AIK;"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-13;14;"BK Häcken";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-15;15;"Åtvidabergs FF";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-15;15;"IFK Norrköping";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-15;15;"Kalmar FF";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-15;15;"Falkenbergs FF";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-15;15;"IFK Göteborg";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-15;15;"Gefle IF";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-15;15;"Örebro SK";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-15;15;"Djurgårdens IF";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-27;16;"IF Brommapojkarna";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-27;16;"IF Elfsborg";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-27;16;"Malmö FF";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-27;16;"Mjällby AIF";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-27;16;"Halmstads BK";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-27;16;"Helsingborgs IF";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-27;16;"BK Häcken";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-07-27;16;AIK;"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-03;17;"IF Elfsborg";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-03;17;"Kalmar FF";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-03;17;"Falkenbergs FF";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-03;17;"IFK Göteborg";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-03;17;"Gefle IF";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-03;17;"Örebro SK";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-03;17;"Djurgårdens IF";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-03;17;"IFK Norrköping";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-10;18;"Åtvidabergs FF";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-10;18;"IF Brommapojkarna";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-10;18;"Malmö FF";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-10;18;"Mjällby AIF";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-10;18;"Halmstads BK";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-10;18;"Helsingborgs IF";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-10;18;"BK Häcken";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-10;18;AIK;"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-13;19;"Åtvidabergs FF";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-13;19;"IF Brommapojkarna";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-13;19;"Malmö FF";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-13;19;"Mjällby AIF";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-13;19;"Halmstads BK";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-13;19;"Helsingborgs IF";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-13;19;"Kalmar FF";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-13;19;AIK;"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-17;20;"Falkenbergs FF";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-17;20;"IFK Göteborg";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-17;20;"Gefle IF";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-17;20;"Örebro SK";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-17;20;"Djurgårdens IF";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-17;20;"IFK Norrköping";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-17;20;"BK Häcken";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-17;20;"IF Elfsborg";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-24;21;"Åtvidabergs FF";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-24;21;"IF Brommapojkarna";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-24;21;"Malmö FF";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-24;21;"Mjällby AIF";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-24;21;"Halmstads BK";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-24;21;"Kalmar FF";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-24;21;"Falkenbergs FF";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-24;21;AIK;"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-31;22;"Gefle IF";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-31;22;"Örebro SK";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-31;22;"Djurgårdens IF";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-31;22;"IFK Norrköping";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-31;22;"BK Häcken";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-31;22;"Helsingborgs IF";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-31;22;"IF Elfsborg";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-08-31;22;"IFK Göteborg";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-14;23;"Djurgårdens IF";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-14;23;"IFK Norrköping";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-14;23;"BK Häcken";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-14;23;"Helsingborgs IF";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-14;23;"Halmstads BK";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-14;23;"IF Elfsborg";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-14;23;"Örebro SK";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-14;23;"Gefle IF";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-21;24;"Åtvidabergs FF";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-21;24;"IF Brommapojkarna";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-21;24;"Malmö FF";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-21;24;"Mjällby AIF";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-21;24;"Kalmar FF";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-21;24;"Falkenbergs FF";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-21;24;"IFK Göteborg";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-21;24;AIK;"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-24;25;"BK Häcken";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-24;25;"Helsingborgs IF";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-24;25;"Halmstads BK";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-24;25;"IF Elfsborg";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-24;25;"IFK Norrköping";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-24;25;"Djurgårdens IF";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-24;25;"Örebro SK";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-24;25;"Mjällby AIF";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-28;26;"Åtvidabergs FF";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-28;26;"IF Brommapojkarna";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-28;26;"Malmö FF";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-28;26;"IF Elfsborg";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-28;26;"Kalmar FF";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-28;26;"Falkenbergs FF";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-28;26;"IFK Göteborg";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-09-28;26;"Gefle IF";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-05;27;"Halmstads BK";"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-05;27;"Örebro SK";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-05;27;"Mjällby AIF";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-05;27;"Helsingborgs IF";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-05;27;"BK Häcken";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-05;27;"IFK Norrköping";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-05;27;"Djurgårdens IF";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-05;27;AIK;"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-19;28;"IF Brommapojkarna";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-19;28;"Malmö FF";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-19;28;"Kalmar FF";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-19;28;"Falkenbergs FF";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-19;28;"IFK Göteborg";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-19;28;"Gefle IF";"IFK Norrköping";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-19;28;"Djurgårdens IF";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-19;28;"Åtvidabergs FF";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-26;29;"Malmö FF";"IF Brommapojkarna";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-26;29;"Mjällby AIF";"Kalmar FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-26;29;"IF Elfsborg";"Djurgårdens IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-26;29;"Halmstads BK";"Falkenbergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-26;29;"Helsingborgs IF";"IFK Göteborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-26;29;"BK Häcken";"Gefle IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-26;29;"IFK Norrköping";"Örebro SK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-10-26;29;AIK;"Åtvidabergs FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-11-02;30;"Åtvidabergs FF";"Malmö FF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-11-02;30;"IF Brommapojkarna";"IF Elfsborg";NULL;NULL;NULL
-"Allsvenskan 2014";2014-11-02;30;"Kalmar FF";AIK;NULL;NULL;NULL
-"Allsvenskan 2014";2014-11-02;30;"Falkenbergs FF";"Mjällby AIF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-11-02;30;"IFK Göteborg";"Halmstads BK";NULL;NULL;NULL
-"Allsvenskan 2014";2014-11-02;30;"Gefle IF";"Helsingborgs IF";NULL;NULL;NULL
-"Allsvenskan 2014";2014-11-02;30;"Örebro SK";"BK Häcken";NULL;NULL;NULL
-"Allsvenskan 2014";2014-11-02;30;"Djurgårdens IF";"IFK Norrköping";NULL;NULL;NULL
+leaguename,matchdate,matchday,hometeam,awayteam,homescore,awayscore,attendance
+"Allsvenskan 2014",2014-03-30,1,"Halmstads BK","Örebro SK",1,2,5080
+"Allsvenskan 2014",2014-03-30,1,"Helsingborgs IF","Djurgårdens IF",1,1,13632
+"Allsvenskan 2014",2014-03-30,1,"IF Brommapojkarna","Kalmar FF",1,2,2028
+"Allsvenskan 2014",2014-03-30,1,"Malmö FF","Falkenbergs FF",3,0,19383
+"Allsvenskan 2014",2014-03-30,1,"Mjällby AIF","Gefle IF",2,2,3532
+"Allsvenskan 2014",2014-03-31,1,AIK,"IFK Göteborg",0,2,30650
+"Allsvenskan 2014",2014-03-31,1,"BK Häcken","IFK Norrköping",2,0,2437
+"Allsvenskan 2014",2014-03-31,1,"Åtvidabergs FF","IF Elfsborg",2,1,3227
+"Allsvenskan 2014",2014-04-04,2,"IF Elfsborg","BK Häcken",3,1,9138
+"Allsvenskan 2014",2014-04-05,2,"Falkenbergs FF","IF Brommapojkarna",1,0,3076
+"Allsvenskan 2014",2014-04-06,2,"Djurgårdens IF","Halmstads BK",3,0,12155
+"Allsvenskan 2014",2014-04-06,2,"Gefle IF",AIK,1,2,6711
+"Allsvenskan 2014",2014-04-06,2,"IFK Norrköping","Helsingborgs IF",2,0,7614
+"Allsvenskan 2014",2014-04-07,2,"IFK Göteborg","Malmö FF",0,3,17073
+"Allsvenskan 2014",2014-04-07,2,"Kalmar FF","Åtvidabergs FF",2,2,7037
+"Allsvenskan 2014",2014-04-08,2,"Örebro SK","Mjällby AIF",1,0,5781
+"Allsvenskan 2014",2014-04-11,3,"Mjällby AIF","Djurgårdens IF",0,2,2721
+"Allsvenskan 2014",2014-04-12,3,"Malmö FF","Gefle IF",1,0,11338
+"Allsvenskan 2014",2014-04-12,3,"Åtvidabergs FF","Falkenbergs FF",2,0,2918
+"Allsvenskan 2014",2014-04-13,3,AIK,"Örebro SK",1,1,15873
+"Allsvenskan 2014",2014-04-13,3,"Halmstads BK","IFK Norrköping",0,0,3640
+"Allsvenskan 2014",2014-04-13,3,"Helsingborgs IF","BK Häcken",4,2,6132
+"Allsvenskan 2014",2014-04-14,3,"IF Brommapojkarna","IFK Göteborg",1,1,2065
+"Allsvenskan 2014",2014-04-14,3,"Kalmar FF","IF Elfsborg",0,0,5739
+"Allsvenskan 2014",2014-04-16,4,"BK Häcken","Halmstads BK",3,0,1943
+"Allsvenskan 2014",2014-04-16,4,"Djurgårdens IF",AIK,2,3,25175
+"Allsvenskan 2014",2014-04-16,4,"IFK Norrköping","Mjällby AIF",1,1,4201
+"Allsvenskan 2014",2014-04-16,4,"Örebro SK","Malmö FF",1,2,8125
+"Allsvenskan 2014",2014-04-17,4,"Falkenbergs FF","Kalmar FF",1,3,2494
+"Allsvenskan 2014",2014-04-17,4,"Gefle IF","IF Brommapojkarna",3,0,3173
+"Allsvenskan 2014",2014-04-17,4,"IF Elfsborg","Helsingborgs IF",1,0,7237
+"Allsvenskan 2014",2014-04-17,4,"IFK Göteborg","Åtvidabergs FF",5,0,8282
+"Allsvenskan 2014",2014-04-20,5,AIK,"IFK Norrköping",1,2,14418
+"Allsvenskan 2014",2014-04-20,5,"Halmstads BK","Helsingborgs IF",2,1,5752
+"Allsvenskan 2014",2014-04-20,5,"Kalmar FF","IFK Göteborg",1,1,9485
+"Allsvenskan 2014",2014-04-20,5,"Mjällby AIF","BK Häcken",1,4,2618
+"Allsvenskan 2014",2014-04-21,5,"Falkenbergs FF","IF Elfsborg",2,3,5406
+"Allsvenskan 2014",2014-04-21,5,"IF Brommapojkarna","Örebro SK",2,2,1420
+"Allsvenskan 2014",2014-04-21,5,"Malmö FF","Djurgårdens IF",2,2,14315
+"Allsvenskan 2014",2014-04-21,5,"Åtvidabergs FF","Gefle IF",2,2,2813
+"Allsvenskan 2014",2014-04-25,6,"IFK Göteborg","Falkenbergs FF",1,0,11400
+"Allsvenskan 2014",2014-04-25,6,"Örebro SK","Åtvidabergs FF",3,2,6849
+"Allsvenskan 2014",2014-04-27,6,"BK Häcken",AIK,2,2,2813
+"Allsvenskan 2014",2014-04-27,6,"Djurgårdens IF","IF Brommapojkarna",3,2,11698
+"Allsvenskan 2014",2014-04-27,6,"Helsingborgs IF","Mjällby AIF",3,1,7145
+"Allsvenskan 2014",2014-04-28,6,"Gefle IF","Kalmar FF",0,2,2837
+"Allsvenskan 2014",2014-04-28,6,"IF Elfsborg","Halmstads BK",4,1,7668
+"Allsvenskan 2014",2014-04-28,6,"IFK Norrköping","Malmö FF",1,2,7234
+"Allsvenskan 2014",2014-05-03,7,"IF Brommapojkarna","IFK Norrköping",3,0,1583
+"Allsvenskan 2014",2014-05-03,7,"Mjällby AIF","Halmstads BK",2,1,2638
+"Allsvenskan 2014",2014-05-04,7,"IFK Göteborg","IF Elfsborg",0,0,14833
+"Allsvenskan 2014",2014-05-04,7,"Kalmar FF","Örebro SK",2,0,5275
+"Allsvenskan 2014",2014-05-04,7,"Malmö FF","BK Häcken",1,2,10626
+"Allsvenskan 2014",2014-05-04,7,"Åtvidabergs FF","Djurgårdens IF",1,1,4953
+"Allsvenskan 2014",2014-05-05,7,AIK,"Helsingborgs IF",2,1,13870
+"Allsvenskan 2014",2014-05-05,7,"Falkenbergs FF","Gefle IF",1,1,2329
+"Allsvenskan 2014",2014-05-07,8,"BK Häcken","IF Brommapojkarna",3,1,1572
+"Allsvenskan 2014",2014-05-07,8,"Djurgårdens IF","Kalmar FF",0,0,10641
+"Allsvenskan 2014",2014-05-07,8,"IF Elfsborg","Mjällby AIF",3,1,6208
+"Allsvenskan 2014",2014-05-07,8,"IFK Norrköping","Åtvidabergs FF",2,1,8007
+"Allsvenskan 2014",2014-05-08,8,"Gefle IF","IFK Göteborg",1,1,3091
+"Allsvenskan 2014",2014-05-08,8,"Halmstads BK",AIK,2,2,4287
+"Allsvenskan 2014",2014-05-08,8,"Helsingborgs IF","Malmö FF",0,1,10950
+"Allsvenskan 2014",2014-05-08,8,"Örebro SK","Falkenbergs FF",0,0,5312
+"Allsvenskan 2014",2014-05-10,9,"Kalmar FF","IFK Norrköping",2,0,5873
+"Allsvenskan 2014",2014-05-11,9,AIK,"Mjällby AIF",2,1,11778
+"Allsvenskan 2014",2014-05-11,9,"Gefle IF","IF Elfsborg",0,1,3060
+"Allsvenskan 2014",2014-05-11,9,"IFK Göteborg","Örebro SK",2,1,7537
+"Allsvenskan 2014",2014-05-12,9,"Falkenbergs FF","Djurgårdens IF",1,0,3376
+"Allsvenskan 2014",2014-05-12,9,"IF Brommapojkarna","Helsingborgs IF",0,1,1401
+"Allsvenskan 2014",2014-05-12,9,"Malmö FF","Halmstads BK",3,1,11219
+"Allsvenskan 2014",2014-05-12,9,"Åtvidabergs FF","BK Häcken",1,0,2421
+"Allsvenskan 2014",2014-05-15,10,AIK,"IF Elfsborg",2,1,13140
+"Allsvenskan 2014",2014-05-15,11,"IF Brommapojkarna","Mjällby AIF",0,1,1180
+"Allsvenskan 2014",2014-05-15,10,"IFK Norrköping","Falkenbergs FF",0,3,3668
+"Allsvenskan 2014",2014-05-19,10,"Halmstads BK","IF Brommapojkarna",3,0,2796
+"Allsvenskan 2014",2014-05-19,10,"Örebro SK","Gefle IF",2,2,6128
+"Allsvenskan 2014",2014-05-20,10,"BK Häcken","Kalmar FF",4,1,2863
+"Allsvenskan 2014",2014-05-21,10,"Djurgårdens IF","IFK Göteborg",0,0,18044
+"Allsvenskan 2014",2014-05-21,10,"Helsingborgs IF","Åtvidabergs FF",0,0,7130
+"Allsvenskan 2014",2014-05-22,10,"Mjällby AIF","Malmö FF",0,1,5511
+"Allsvenskan 2014",2014-05-24,11,"Falkenbergs FF","BK Häcken",1,1,3059
+"Allsvenskan 2014",2014-05-24,11,"IF Elfsborg","Örebro SK",1,0,7103
+"Allsvenskan 2014",2014-05-24,11,"Åtvidabergs FF","Halmstads BK",1,0,3121
+"Allsvenskan 2014",2014-05-25,11,"IFK Göteborg","IFK Norrköping",2,2,9119
+"Allsvenskan 2014",2014-05-25,11,"Kalmar FF","Helsingborgs IF",2,0,6164
+"Allsvenskan 2014",2014-05-26,11,"Gefle IF","Djurgårdens IF",1,1,4199
+"Allsvenskan 2014",2014-05-26,11,"Malmö FF",AIK,2,2,17382
+"Allsvenskan 2014",2014-05-30,12,"Örebro SK","Djurgårdens IF",0,1,9512
+"Allsvenskan 2014",2014-05-31,12,"Halmstads BK","Kalmar FF",1,1,3895
+"Allsvenskan 2014",2014-05-31,12,"Mjällby AIF","Åtvidabergs FF",1,0,3164
+"Allsvenskan 2014",2014-06-01,12,"Helsingborgs IF","Falkenbergs FF",1,0,10093
+"Allsvenskan 2014",2014-06-01,12,"IF Elfsborg","Malmö FF",0,1,11641
+"Allsvenskan 2014",2014-06-02,12,AIK,"IF Brommapojkarna",4,2,15637
+"Allsvenskan 2014",2014-06-02,12,"BK Häcken","IFK Göteborg",1,1,10579
+"Allsvenskan 2014",2014-06-02,12,"IFK Norrköping","Gefle IF",1,0,5718
+"Allsvenskan 2014",2014-07-05,13,"Falkenbergs FF","Halmstads BK",1,1,5457
+"Allsvenskan 2014",2014-07-05,13,"Gefle IF","BK Häcken",1,0,2918
+"Allsvenskan 2014",2014-07-05,13,"Kalmar FF","Mjällby AIF",2,1,6147
+"Allsvenskan 2014",2014-07-06,13,"IF Brommapojkarna","Malmö FF",1,1,2037
+"Allsvenskan 2014",2014-07-06,13,"IFK Göteborg","Helsingborgs IF",6,2,10202
+"Allsvenskan 2014",2014-07-06,13,"Örebro SK","IFK Norrköping",2,2,7532
+"Allsvenskan 2014",2014-07-07,13,"Djurgårdens IF","IF Elfsborg",1,1,11471
+"Allsvenskan 2014",2014-07-07,13,"Åtvidabergs FF",AIK,0,3,6028
+"Allsvenskan 2014",2014-07-12,14,AIK,"Kalmar FF",3,0,13470
+"Allsvenskan 2014",2014-07-12,14,"Malmö FF","Åtvidabergs FF",3,0,9336
+"Allsvenskan 2014",2014-07-12,14,"Mjällby AIF","Falkenbergs FF",1,1,3132
+"Allsvenskan 2014",2014-07-13,14,"BK Häcken","Örebro SK",4,1,2876
+"Allsvenskan 2014",2014-07-13,14,"Halmstads BK","IFK Göteborg",2,2,4723
+"Allsvenskan 2014",2014-07-13,14,"Helsingborgs IF","Gefle IF",1,1,6173
+"Allsvenskan 2014",2014-07-13,14,"IF Elfsborg","IF Brommapojkarna",2,2,6958
+"Allsvenskan 2014",2014-07-14,14,"IFK Norrköping","Djurgårdens IF",3,5,7022
+"Allsvenskan 2014",2014-07-19,15,"Gefle IF","Halmstads BK",2,0,4013
+"Allsvenskan 2014",2014-07-19,15,"Kalmar FF","Malmö FF",1,1,11911
+"Allsvenskan 2014",2014-07-20,15,"Falkenbergs FF",AIK,4,1,5457
+"Allsvenskan 2014",2014-07-20,15,"IFK Göteborg","Mjällby AIF",3,1,7298
+"Allsvenskan 2014",2014-07-20,15,"IFK Norrköping","IF Elfsborg",4,2,5148
+"Allsvenskan 2014",2014-07-20,15,"Åtvidabergs FF","IF Brommapojkarna",3,2,2918
+"Allsvenskan 2014",2014-07-20,15,"Örebro SK","Helsingborgs IF",1,1,5981
+"Allsvenskan 2014",2014-07-21,15,"Djurgårdens IF","BK Häcken",1,2,11361
+"Allsvenskan 2014",2014-07-26,16,"Halmstads BK","Gefle IF",3,2,4211
+"Allsvenskan 2014",2014-07-26,16,"Malmö FF","Kalmar FF",3,1,13511
+"Allsvenskan 2014",2014-07-27,16,"Helsingborgs IF","Örebro SK",1,1,8356
+"Allsvenskan 2014",2014-07-27,16,"IF Brommapojkarna","Åtvidabergs FF",2,2,933
+"Allsvenskan 2014",2014-07-27,16,"IF Elfsborg","IFK Norrköping",3,0,6321
+"Allsvenskan 2014",2014-07-27,16,"Mjällby AIF","IFK Göteborg",3,0,5906
+"Allsvenskan 2014",2014-07-28,16,AIK,"Falkenbergs FF",3,0,11408
+"Allsvenskan 2014",2014-07-28,16,"BK Häcken","Djurgårdens IF",2,1,3027
+"Allsvenskan 2014",2014-08-02,17,"Falkenbergs FF","Malmö FF",2,5,5221
+"Allsvenskan 2014",2014-08-02,17,"IFK Norrköping","BK Häcken",0,0,4036
+"Allsvenskan 2014",2014-08-02,17,"Örebro SK","Halmstads BK",1,2,5292
+"Allsvenskan 2014",2014-08-03,17,"IF Elfsborg","Åtvidabergs FF",1,0,6218
+"Allsvenskan 2014",2014-08-03,17,"Kalmar FF","IF Brommapojkarna",1,1,5968
+"Allsvenskan 2014",2014-08-04,17,"Djurgårdens IF","Helsingborgs IF",2,2,12988
+"Allsvenskan 2014",2014-08-04,17,"Gefle IF","Mjällby AIF",1,0,4179
+"Allsvenskan 2014",2014-08-04,17,"IFK Göteborg",AIK,0,2,14547
+"Allsvenskan 2014",2014-08-09,18,"Mjällby AIF","Örebro SK",0,1,5624
+"Allsvenskan 2014",2014-08-09,18,"Åtvidabergs FF","Kalmar FF",3,1,4033
+"Allsvenskan 2014",2014-08-10,18,AIK,"Gefle IF",3,1,12097
+"Allsvenskan 2014",2014-08-10,18,"Halmstads BK","Djurgårdens IF",2,1,5794
+"Allsvenskan 2014",2014-08-10,18,"Helsingborgs IF","IFK Norrköping",0,0,8078
+"Allsvenskan 2014",2014-08-10,18,"IF Brommapojkarna","Falkenbergs FF",2,3,1202
+"Allsvenskan 2014",2014-08-10,18,"Malmö FF","IFK Göteborg",2,2,18838
+"Allsvenskan 2014",2014-08-11,18,"BK Häcken","IF Elfsborg",0,2,4063
+"Allsvenskan 2014",2014-08-13,19,AIK,"Djurgårdens IF",1,1,28240
+"Allsvenskan 2014",2014-08-13,19,"IF Brommapojkarna","Gefle IF",1,2,1133
+"Allsvenskan 2014",2014-08-13,19,"Malmö FF","Örebro SK",3,2,12264
+"Allsvenskan 2014",2014-08-13,19,"Åtvidabergs FF","IFK Göteborg",1,1,4497
+"Allsvenskan 2014",2014-08-14,19,"Halmstads BK","BK Häcken",1,4,3707
+"Allsvenskan 2014",2014-08-14,19,"Helsingborgs IF","IF Elfsborg",4,1,7275
+"Allsvenskan 2014",2014-08-14,19,"Kalmar FF","Falkenbergs FF",3,1,4973
+"Allsvenskan 2014",2014-08-14,19,"Mjällby AIF","IFK Norrköping",3,1,3704
+"Allsvenskan 2014",2014-08-16,20,"Gefle IF","Malmö FF",0,0,4211
+"Allsvenskan 2014",2014-08-17,20,"Falkenbergs FF","Åtvidabergs FF",3,0,2581
+"Allsvenskan 2014",2014-08-17,20,"IF Elfsborg","Kalmar FF",2,0,5926
+"Allsvenskan 2014",2014-08-17,20,"IFK Göteborg","IF Brommapojkarna",3,0,6382
+"Allsvenskan 2014",2014-08-17,20,"Örebro SK",AIK,4,2,8393
+"Allsvenskan 2014",2014-08-18,20,"BK Häcken","Helsingborgs IF",1,1,1723
+"Allsvenskan 2014",2014-08-18,20,"Djurgårdens IF","Mjällby AIF",4,0,9120
+"Allsvenskan 2014",2014-08-18,20,"IFK Norrköping","Halmstads BK",1,2,5569
+"Allsvenskan 2014",2014-08-22,21,"Mjällby AIF","Helsingborgs IF",1,2,4604
+"Allsvenskan 2014",2014-08-23,21,"Malmö FF","IFK Norrköping",3,0,11205
+"Allsvenskan 2014",2014-08-24,21,AIK,"BK Häcken",1,0,14420
+"Allsvenskan 2014",2014-08-24,21,"Falkenbergs FF","IFK Göteborg",1,2,4218
+"Allsvenskan 2014",2014-08-24,21,"Halmstads BK","IF Elfsborg",1,1,3892
+"Allsvenskan 2014",2014-08-25,21,"IF Brommapojkarna","Djurgårdens IF",0,4,3857
+"Allsvenskan 2014",2014-08-25,21,"Kalmar FF","Gefle IF",2,1,4253
+"Allsvenskan 2014",2014-08-25,21,"Åtvidabergs FF","Örebro SK",1,2,3495
+"Allsvenskan 2014",2014-08-29,22,"Helsingborgs IF","Halmstads BK",1,4,7534
+"Allsvenskan 2014",2014-08-29,22,"Örebro SK","IF Brommapojkarna",3,1,6664
+"Allsvenskan 2014",2014-08-30,22,"BK Häcken","Mjällby AIF",1,1,1276
+"Allsvenskan 2014",2014-08-30,22,"Gefle IF","Åtvidabergs FF",0,1,3270
+"Allsvenskan 2014",2014-08-31,22,"Djurgårdens IF","Malmö FF",2,0,24529
+"Allsvenskan 2014",2014-08-31,22,"IF Elfsborg","Falkenbergs FF",1,0,7654
+"Allsvenskan 2014",2014-08-31,22,"IFK Göteborg","Kalmar FF",2,0,9102
+"Allsvenskan 2014",2014-08-31,22,"IFK Norrköping",AIK,2,4,8109
+"Allsvenskan 2014",2014-09-13,23,"BK Häcken","Malmö FF",3,3,2862
+"Allsvenskan 2014",2014-09-14,23,"Djurgårdens IF","Åtvidabergs FF",0,1,13402
+"Allsvenskan 2014",2014-09-14,23,"Gefle IF","Falkenbergs FF",3,1,3122
+"Allsvenskan 2014",2014-09-14,23,"Halmstads BK","Mjällby AIF",1,2,4599
+"Allsvenskan 2014",2014-09-14,23,"IF Elfsborg","IFK Göteborg",0,0,12657
+"Allsvenskan 2014",2014-09-15,23,"Helsingborgs IF",AIK,3,1,6847
+"Allsvenskan 2014",2014-09-15,23,"IFK Norrköping","IF Brommapojkarna",3,1,3715
+"Allsvenskan 2014",2014-09-15,23,"Örebro SK","Kalmar FF",2,0,6618
+"Allsvenskan 2014",2014-09-19,24,"IFK Göteborg","Gefle IF",4,0,9382
+"Allsvenskan 2014",2014-09-20,24,"Falkenbergs FF","Örebro SK",1,3,2556
+"Allsvenskan 2014",2014-09-20,24,"IF Brommapojkarna","BK Häcken",1,5,614
+"Allsvenskan 2014",2014-09-21,24,AIK,"Halmstads BK",0,1,16103
+"Allsvenskan 2014",2014-09-21,24,"Kalmar FF","Djurgårdens IF",0,4,5369
+"Allsvenskan 2014",2014-09-21,24,"Malmö FF","Helsingborgs IF",1,1,20310
+"Allsvenskan 2014",2014-09-21,24,"Mjällby AIF","IF Elfsborg",1,0,3172
+"Allsvenskan 2014",2014-09-21,24,"Åtvidabergs FF","IFK Norrköping",2,2,6799
+"Allsvenskan 2014",2014-09-24,25,"Djurgårdens IF","Falkenbergs FF",1,0,7865
+"Allsvenskan 2014",2014-09-24,25,"Halmstads BK","Malmö FF",0,1,5046
+"Allsvenskan 2014",2014-09-24,25,"Helsingborgs IF","IF Brommapojkarna",3,1,11017
+"Allsvenskan 2014",2014-09-24,25,"IF Elfsborg","Gefle IF",1,0,6016
+"Allsvenskan 2014",2014-09-24,25,"Mjällby AIF",AIK,1,0,4022
+"Allsvenskan 2014",2014-09-24,25,"Örebro SK","IFK Göteborg",3,4,7682
+"Allsvenskan 2014",2014-09-25,25,"BK Häcken","Åtvidabergs FF",0,2,1213
+"Allsvenskan 2014",2014-09-25,25,"IFK Norrköping","Kalmar FF",0,0,5107
+"Allsvenskan 2014",2014-09-27,26,"Malmö FF","Mjällby AIF",4,1,12126
+"Allsvenskan 2014",2014-09-28,26,"Falkenbergs FF","IFK Norrköping",4,2,2411
+"Allsvenskan 2014",2014-09-28,26,"IF Elfsborg",AIK,1,1,8277
+"Allsvenskan 2014",2014-09-28,26,"Kalmar FF","BK Häcken",2,3,3807
+"Allsvenskan 2014",2014-09-29,26,"Gefle IF","Örebro SK",1,2,3084
+"Allsvenskan 2014",2014-09-29,26,"IF Brommapojkarna","Halmstads BK",0,3,837
+"Allsvenskan 2014",2014-09-29,26,"IFK Göteborg","Djurgårdens IF",2,1,11159
+"Allsvenskan 2014",2014-09-29,26,"Åtvidabergs FF","Helsingborgs IF",1,2,4017
+"Allsvenskan 2014",2014-10-03,27,"Helsingborgs IF","Kalmar FF",4,1,6668
+"Allsvenskan 2014",2014-10-04,27,"Djurgårdens IF","Gefle IF",1,2,11166
+"Allsvenskan 2014",2014-10-04,27,"Mjällby AIF","IF Brommapojkarna",0,1,3505
+"Allsvenskan 2014",2014-10-05,27,AIK,"Malmö FF",2,3,23247
+"Allsvenskan 2014",2014-10-05,27,"BK Häcken","Falkenbergs FF",1,2,2232
+"Allsvenskan 2014",2014-10-05,27,"Halmstads BK","Åtvidabergs FF",1,3,4302
+"Allsvenskan 2014",2014-10-05,27,"IFK Norrköping","IFK Göteborg",3,0,6410
+"Allsvenskan 2014",2014-10-05,27,"Örebro SK","IF Elfsborg",5,1,6095
+"Allsvenskan 2014",2014-10-18,28,"Kalmar FF","Halmstads BK",1,3,3602
+"Allsvenskan 2014",2014-10-18,28,"Malmö FF","IF Elfsborg",1,2,16122
+"Allsvenskan 2014",2014-10-18,28,"Åtvidabergs FF","Mjällby AIF",2,1,5178
+"Allsvenskan 2014",2014-10-19,28,"Gefle IF","IFK Norrköping",1,2,4227
+"Allsvenskan 2014",2014-10-19,28,"IF Brommapojkarna",AIK,0,4,5136
+"Allsvenskan 2014",2014-10-19,28,"IFK Göteborg","BK Häcken",3,2,13089
+"Allsvenskan 2014",2014-10-20,28,"Djurgårdens IF","Örebro SK",0,3,7454
+"Allsvenskan 2014",2014-10-20,28,"Falkenbergs FF","Helsingborgs IF",2,0,3014
+"Allsvenskan 2014",2014-10-25,29,"BK Häcken","Gefle IF",3,1,819
+"Allsvenskan 2014",2014-10-26,29,AIK,"Åtvidabergs FF",4,1,12342
+"Allsvenskan 2014",2014-10-26,29,"Halmstads BK","Falkenbergs FF",4,0,8062
+"Allsvenskan 2014",2014-10-26,29,"IF Elfsborg","Djurgårdens IF",0,1,11450
+"Allsvenskan 2014",2014-10-26,29,"IFK Norrköping","Örebro SK",2,0,6756
+"Allsvenskan 2014",2014-10-27,29,"Helsingborgs IF","IFK Göteborg",0,3,8134
+"Allsvenskan 2014",2014-10-27,29,"Malmö FF","IF Brommapojkarna",2,0,13382
+"Allsvenskan 2014",2014-10-27,29,"Mjällby AIF","Kalmar FF",0,2,4318
+"Allsvenskan 2014",2014-11-01,30,"Djurgårdens IF","IFK Norrköping",1,1,10109
+"Allsvenskan 2014",2014-11-01,30,"Falkenbergs FF","Mjällby AIF",1,1,4423
+"Allsvenskan 2014",2014-11-01,30,"Gefle IF","Helsingborgs IF",2,1,4167
+"Allsvenskan 2014",2014-11-01,30,"IF Brommapojkarna","IF Elfsborg",0,1,813
+"Allsvenskan 2014",2014-11-01,30,"IFK Göteborg","Halmstads BK",5,1,11673
+"Allsvenskan 2014",2014-11-01,30,"Kalmar FF",AIK,1,1,6551
+"Allsvenskan 2014",2014-11-01,30,"Åtvidabergs FF","Malmö FF",2,1,4125
+"Allsvenskan 2014",2014-11-01,30,"Örebro SK","BK Häcken",5,2,4971
