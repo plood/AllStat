@@ -119,123 +119,123 @@ leaguename,matchdate,matchday,hometeam,awayteam,homescore,awayscore,attendance
 "Allsvenskan 2015",2015-07-12,15,"IFK Göteborg","IFK Norrköping",0,0,16728
 "Allsvenskan 2015",2015-07-13,15,"Hammarby IF","Falkenbergs FF",3,0,21337
 "Allsvenskan 2015",2015-07-13,15,"Helsingborgs IF","Djurgårdens IF",0,1,9234
-"Allsvenskan 2015",2015-07-18,16,"GIF Sundsvall","Halmstads BK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-18,16,"Kalmar FF","Falkenbergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-18,16,"Örebro SK","Malmö FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-19,16,"Gefle IF","IF Elfsborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-19,16,"Helsingborgs IF",AIK,NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-19,16,"IFK Norrköping","IFK Göteborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-20,16,"BK Häcken","Hammarby IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-20,16,"Djurgårdens IF","Åtvidabergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-25,17,"BK Häcken","Kalmar FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-25,17,"Malmö FF","GIF Sundsvall",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-25,17,"Åtvidabergs FF","Helsingborgs IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-26,17,AIK,"IF Elfsborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-26,17,"Falkenbergs FF","IFK Göteborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-27,17,"Halmstads BK","Gefle IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-27,17,"Hammarby IF","IFK Norrköping",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-27,17,"Örebro SK","Djurgårdens IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-07-31,18,"Helsingborgs IF","Kalmar FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-01,18,"Djurgårdens IF","BK Häcken",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-01,18,"Gefle IF","Falkenbergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-01,18,"Åtvidabergs FF","Malmö FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-02,18,"IF Elfsborg","Halmstads BK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-02,18,"IFK Göteborg","Örebro SK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-02,18,"IFK Norrköping",AIK,NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-03,18,"GIF Sundsvall","Hammarby IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-08,19,"BK Häcken","Gefle IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-08,19,"Falkenbergs FF","Helsingborgs IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-09,19,"Halmstads BK","Åtvidabergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-09,19,"Hammarby IF","IF Elfsborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-09,19,"Malmö FF","IFK Göteborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-09,19,"Örebro SK","IFK Norrköping",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-10,19,AIK,"Djurgårdens IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-10,19,"Kalmar FF","GIF Sundsvall",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-15,20,"GIF Sundsvall","Örebro SK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-15,20,"Malmö FF","Gefle IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-16,20,AIK,"Kalmar FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-16,20,"IF Elfsborg","Djurgårdens IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-16,20,"IFK Göteborg","BK Häcken",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-17,20,"Falkenbergs FF","Hammarby IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-17,20,"Helsingborgs IF","Halmstads BK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-17,20,"Åtvidabergs FF","IFK Norrköping",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-22,21,"BK Häcken","Malmö FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-23,21,"Gefle IF",AIK,NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-23,21,"Halmstads BK","Örebro SK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-23,21,"Kalmar FF","IF Elfsborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-23,21,"Åtvidabergs FF","IFK Göteborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-24,21,"Djurgårdens IF","Hammarby IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-24,21,"GIF Sundsvall","Falkenbergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-24,21,"IFK Norrköping","Helsingborgs IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-28,22,"Hammarby IF","Kalmar FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-29,22,"Djurgårdens IF","Halmstads BK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-29,22,"Falkenbergs FF","IFK Norrköping",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-29,22,"Örebro SK","BK Häcken",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-30,22,AIK,"Åtvidabergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-30,22,"Helsingborgs IF","Malmö FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-30,22,"IF Elfsborg","GIF Sundsvall",NULL,NULL,NULL
-"Allsvenskan 2015",2015-08-30,22,"IFK Göteborg","Gefle IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-11,23,"Kalmar FF","IFK Norrköping",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-12,23,"Falkenbergs FF",AIK,NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-13,23,"Hammarby IF","Örebro SK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-13,23,"Helsingborgs IF","IFK Göteborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-13,23,"Malmö FF","IF Elfsborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-14,23,"BK Häcken","Halmstads BK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-14,23,"Gefle IF","Djurgårdens IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-14,23,"GIF Sundsvall","Åtvidabergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-18,24,"Halmstads BK","Falkenbergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-19,24,AIK,"BK Häcken",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-20,24,"Djurgårdens IF","Malmö FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-20,24,"Gefle IF","Helsingborgs IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-20,24,"IFK Göteborg","Hammarby IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-20,24,"IFK Norrköping","GIF Sundsvall",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-20,24,"Åtvidabergs FF","Kalmar FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-21,24,"Örebro SK","IF Elfsborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-23,25,"GIF Sundsvall",AIK,NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-23,25,"Hammarby IF","Gefle IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-23,25,"IFK Norrköping","Djurgårdens IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-23,25,"Kalmar FF","Halmstads BK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-23,25,"Malmö FF","Falkenbergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-24,25,"BK Häcken","Åtvidabergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-24,25,"Helsingborgs IF","Örebro SK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-24,25,"IF Elfsborg","IFK Göteborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-27,26,"Falkenbergs FF","BK Häcken",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-27,26,"Gefle IF","IFK Norrköping",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-27,26,"Halmstads BK","Malmö FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-27,26,"Hammarby IF",AIK,NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-28,26,"Djurgårdens IF","Helsingborgs IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-28,26,"IF Elfsborg","Åtvidabergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-28,26,"IFK Göteborg","GIF Sundsvall",NULL,NULL,NULL
-"Allsvenskan 2015",2015-09-28,26,"Örebro SK","Kalmar FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-02,27,"Åtvidabergs FF","Hammarby IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-03,27,"GIF Sundsvall","Gefle IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-03,27,"Örebro SK","Falkenbergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-04,27,AIK,"Malmö FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-04,27,"Helsingborgs IF","IF Elfsborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-04,27,"IFK Göteborg","Halmstads BK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-04,27,"IFK Norrköping","BK Häcken",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-04,27,"Kalmar FF","Djurgårdens IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-18,28,"Falkenbergs FF","Åtvidabergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-18,28,"Halmstads BK",AIK,NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-18,28,"Hammarby IF","Helsingborgs IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-18,28,"Malmö FF","Kalmar FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-19,28,"BK Häcken","GIF Sundsvall",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-19,28,"Djurgårdens IF","IFK Göteborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-19,28,"Gefle IF","Örebro SK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-19,28,"IF Elfsborg","IFK Norrköping",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-25,29,AIK,"IFK Göteborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-25,29,"BK Häcken","IF Elfsborg",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-25,29,"Falkenbergs FF","Djurgårdens IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-25,29,"GIF Sundsvall","Helsingborgs IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-25,29,"Hammarby IF","Malmö FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-25,29,"IFK Norrköping","Halmstads BK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-25,29,"Kalmar FF","Gefle IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-25,29,"Åtvidabergs FF","Örebro SK",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-31,30,"Djurgårdens IF","GIF Sundsvall",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-31,30,"Gefle IF","Åtvidabergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-31,30,"Halmstads BK","Hammarby IF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-31,30,"Helsingborgs IF","BK Häcken",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-31,30,"IF Elfsborg","Falkenbergs FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-31,30,"IFK Göteborg","Kalmar FF",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-31,30,"Malmö FF","IFK Norrköping",NULL,NULL,NULL
-"Allsvenskan 2015",2015-10-31,30,"Örebro SK",AIK,NULL,NULL,NULL
+"Allsvenskan 2015",2015-07-18,16,"GIF Sundsvall","Halmstads BK",0,0,3787
+"Allsvenskan 2015",2015-07-18,16,"Kalmar FF","Falkenbergs FF",4,0,5083
+"Allsvenskan 2015",2015-07-18,16,"Örebro SK","Malmö FF",1,1,6753
+"Allsvenskan 2015",2015-07-19,16,"Helsingborgs IF",AIK,3,1,8437
+"Allsvenskan 2015",2015-07-19,16,"IFK Norrköping","IFK Göteborg",2,2,14369
+"Allsvenskan 2015",2015-07-20,16,"BK Häcken","Hammarby IF",3,3,6123
+"Allsvenskan 2015",2015-07-20,16,"Djurgårdens IF","Åtvidabergs FF",0,0,13065
+"Allsvenskan 2015",2015-07-25,17,"BK Häcken","Kalmar FF",3,0,2328
+"Allsvenskan 2015",2015-07-25,17,"Malmö FF","GIF Sundsvall",3,0,12862
+"Allsvenskan 2015",2015-07-25,17,"Åtvidabergs FF","Helsingborgs IF",1,2,2856
+"Allsvenskan 2015",2015-07-26,17,AIK,"IF Elfsborg",4,2,14122
+"Allsvenskan 2015",2015-07-26,17,"Falkenbergs FF","IFK Göteborg",1,0,5470
+"Allsvenskan 2015",2015-07-27,17,"Halmstads BK","Gefle IF",0,1,4744
+"Allsvenskan 2015",2015-07-27,17,"Hammarby IF","IFK Norrköping",0,1,27011
+"Allsvenskan 2015",2015-07-27,17,"Örebro SK","Djurgårdens IF",0,1,10770
+"Allsvenskan 2015",2015-07-31,18,"Helsingborgs IF","Kalmar FF",1,2,10174
+"Allsvenskan 2015",2015-08-01,18,"Djurgårdens IF","BK Häcken",2,1,13066
+"Allsvenskan 2015",2015-08-01,18,"Gefle IF","Falkenbergs FF",1,0,4008
+"Allsvenskan 2015",2015-08-01,18,"Åtvidabergs FF","Malmö FF",2,2,3568
+"Allsvenskan 2015",2015-08-02,18,"IF Elfsborg","Halmstads BK",2,0,6916
+"Allsvenskan 2015",2015-08-02,18,"IFK Göteborg","Örebro SK",6,0,11281
+"Allsvenskan 2015",2015-08-02,18,"IFK Norrköping",AIK,1,2,14711
+"Allsvenskan 2015",2015-08-03,18,"GIF Sundsvall","Hammarby IF",3,0,7034
+"Allsvenskan 2015",2015-08-08,19,"BK Häcken","Gefle IF",1,1,2524
+"Allsvenskan 2015",2015-08-08,19,"Falkenbergs FF","Helsingborgs IF",2,3,3482
+"Allsvenskan 2015",2015-08-09,19,"Halmstads BK","Åtvidabergs FF",0,0,4089
+"Allsvenskan 2015",2015-08-09,19,"Hammarby IF","IF Elfsborg",0,0,21165
+"Allsvenskan 2015",2015-08-09,19,"Malmö FF","IFK Göteborg",2,1,21127
+"Allsvenskan 2015",2015-08-09,19,"Örebro SK","IFK Norrköping",1,3,7405
+"Allsvenskan 2015",2015-08-10,19,AIK,"Djurgårdens IF",1,0,39387
+"Allsvenskan 2015",2015-08-10,19,"Kalmar FF","GIF Sundsvall",0,2,4895
+"Allsvenskan 2015",2015-08-12,16,"Gefle IF","IF Elfsborg",2,3,4446
+"Allsvenskan 2015",2015-08-15,20,"GIF Sundsvall","Örebro SK",1,0,4464
+"Allsvenskan 2015",2015-08-15,20,"Malmö FF","Gefle IF",2,0,15111
+"Allsvenskan 2015",2015-08-16,20,AIK,"Kalmar FF",2,1,15078
+"Allsvenskan 2015",2015-08-16,20,"IF Elfsborg","Djurgårdens IF",2,0,10396
+"Allsvenskan 2015",2015-08-16,20,"IFK Göteborg","BK Häcken",4,0,13635
+"Allsvenskan 2015",2015-08-17,20,"Falkenbergs FF","Hammarby IF",0,1,3907
+"Allsvenskan 2015",2015-08-17,20,"Helsingborgs IF","Halmstads BK",2,0,9458
+"Allsvenskan 2015",2015-08-17,20,"Åtvidabergs FF","IFK Norrköping",1,1,7112
+"Allsvenskan 2015",2015-08-22,21,"BK Häcken","Malmö FF",1,0,4172
+"Allsvenskan 2015",2015-08-23,21,"Gefle IF",AIK,1,2,6243
+"Allsvenskan 2015",2015-08-23,21,"Halmstads BK","Örebro SK",2,2,3514
+"Allsvenskan 2015",2015-08-23,21,"Kalmar FF","IF Elfsborg",0,3,5412
+"Allsvenskan 2015",2015-08-23,21,"Åtvidabergs FF","IFK Göteborg",0,1,4461
+"Allsvenskan 2015",2015-08-24,21,"Djurgårdens IF","Hammarby IF",2,2,27428
+"Allsvenskan 2015",2015-08-24,21,"GIF Sundsvall","Falkenbergs FF",0,1,4816
+"Allsvenskan 2015",2015-08-24,21,"IFK Norrköping","Helsingborgs IF",3,2,9841
+"Allsvenskan 2015",2015-08-28,22,"Hammarby IF","Kalmar FF",0,0,30869
+"Allsvenskan 2015",2015-08-29,22,"Djurgårdens IF","Halmstads BK",4,2,12440
+"Allsvenskan 2015",2015-08-29,22,"Falkenbergs FF","IFK Norrköping",0,1,3610
+"Allsvenskan 2015",2015-08-29,22,"Örebro SK","BK Häcken",2,0,4954
+"Allsvenskan 2015",2015-08-30,22,AIK,"Åtvidabergs FF",1,0,16749
+"Allsvenskan 2015",2015-08-30,22,"Helsingborgs IF","Malmö FF",0,3,12678
+"Allsvenskan 2015",2015-08-30,22,"IF Elfsborg","GIF Sundsvall",1,2,9586
+"Allsvenskan 2015",2015-08-30,22,"IFK Göteborg","Gefle IF",3,0,12071
+"Allsvenskan 2015",2015-09-11,23,"Kalmar FF","IFK Norrköping",1,2,5109
+"Allsvenskan 2015",2015-09-12,23,"Falkenbergs FF",AIK,2,4,4024
+"Allsvenskan 2015",2015-09-12,23,"Malmö FF","IF Elfsborg",1,1,18685
+"Allsvenskan 2015",2015-09-13,23,"Hammarby IF","Örebro SK",1,2,21862
+"Allsvenskan 2015",2015-09-13,23,"Helsingborgs IF","IFK Göteborg",1,2,9555
+"Allsvenskan 2015",2015-09-14,23,"BK Häcken","Halmstads BK",4,1,2827
+"Allsvenskan 2015",2015-09-14,23,"Gefle IF","Djurgårdens IF",2,1,5386
+"Allsvenskan 2015",2015-09-14,23,"GIF Sundsvall","Åtvidabergs FF",0,1,4414
+"Allsvenskan 2015",2015-09-18,24,"Halmstads BK","Falkenbergs FF",0,1,6641
+"Allsvenskan 2015",2015-09-19,24,AIK,"BK Häcken",2,1,19380
+"Allsvenskan 2015",2015-09-20,24,"Djurgårdens IF","Malmö FF",0,2,20019
+"Allsvenskan 2015",2015-09-20,24,"Gefle IF","Helsingborgs IF",2,1,4409
+"Allsvenskan 2015",2015-09-20,24,"IFK Göteborg","Hammarby IF",1,0,16617
+"Allsvenskan 2015",2015-09-20,24,"IFK Norrköping","GIF Sundsvall",5,1,9023
+"Allsvenskan 2015",2015-09-20,24,"Åtvidabergs FF","Kalmar FF",1,1,3608
+"Allsvenskan 2015",2015-09-21,24,"Örebro SK","IF Elfsborg",4,2,7192
+"Allsvenskan 2015",2015-09-23,25,"GIF Sundsvall",AIK,0,2,6409
+"Allsvenskan 2015",2015-09-23,25,"Hammarby IF","Gefle IF",3,0,18173
+"Allsvenskan 2015",2015-09-23,25,"IFK Norrköping","Djurgårdens IF",4,2,12322
+"Allsvenskan 2015",2015-09-23,25,"Kalmar FF","Halmstads BK",1,0,4280
+"Allsvenskan 2015",2015-09-23,25,"Malmö FF","Falkenbergs FF",4,3,13556
+"Allsvenskan 2015",2015-09-24,25,"BK Häcken","Åtvidabergs FF",3,0,1823
+"Allsvenskan 2015",2015-09-24,25,"Helsingborgs IF","Örebro SK",0,2,6439
+"Allsvenskan 2015",2015-09-24,25,"IF Elfsborg","IFK Göteborg",1,1,16177
+"Allsvenskan 2015",2015-09-26,26,"Halmstads BK","Malmö FF",0,0,4318
+"Allsvenskan 2015",2015-09-27,26,"Falkenbergs FF","BK Häcken",1,2,2737
+"Allsvenskan 2015",2015-09-27,26,"Gefle IF","IFK Norrköping",1,2,3470
+"Allsvenskan 2015",2015-09-27,26,"Hammarby IF",AIK,1,0,28945
+"Allsvenskan 2015",2015-09-28,26,"Djurgårdens IF","Helsingborgs IF",2,2,8772
+"Allsvenskan 2015",2015-09-28,26,"IF Elfsborg","Åtvidabergs FF",3,1,7403
+"Allsvenskan 2015",2015-09-28,26,"IFK Göteborg","GIF Sundsvall",3,2,12716
+"Allsvenskan 2015",2015-09-28,26,"Örebro SK","Kalmar FF",2,1,6259
+"Allsvenskan 2015",2015-10-02,27,"Åtvidabergs FF","Hammarby IF",0,3,5566
+"Allsvenskan 2015",2015-10-03,27,"GIF Sundsvall","Gefle IF",2,1,5127
+"Allsvenskan 2015",2015-10-03,27,"Örebro SK","Falkenbergs FF",2,1,5915
+"Allsvenskan 2015",2015-10-04,27,AIK,"Malmö FF",2,1,25075
+"Allsvenskan 2015",2015-10-04,27,"Helsingborgs IF","IF Elfsborg",2,1,6188
+"Allsvenskan 2015",2015-10-04,27,"IFK Göteborg","Halmstads BK",1,1,15664
+"Allsvenskan 2015",2015-10-04,27,"IFK Norrköping","BK Häcken",3,1,10625
+"Allsvenskan 2015",2015-10-04,27,"Kalmar FF","Djurgårdens IF",0,3,6744
+"Allsvenskan 2015",2015-10-17,28,"Malmö FF","Kalmar FF",3,0,14153
+"Allsvenskan 2015",2015-10-18,28,"Falkenbergs FF","Åtvidabergs FF",6,0,2615
+"Allsvenskan 2015",2015-10-18,28,"Halmstads BK",AIK,0,1,5962
+"Allsvenskan 2015",2015-10-18,28,"Hammarby IF","Helsingborgs IF",1,4,28797
+"Allsvenskan 2015",2015-10-19,28,"BK Häcken","GIF Sundsvall",3,1,2231
+"Allsvenskan 2015",2015-10-19,28,"Djurgårdens IF","IFK Göteborg",2,2,14018
+"Allsvenskan 2015",2015-10-19,28,"Gefle IF","Örebro SK",2,2,2601
+"Allsvenskan 2015",2015-10-19,28,"IF Elfsborg","IFK Norrköping",3,2,8810
+"Allsvenskan 2015",2015-10-24,29,"Falkenbergs FF","Djurgårdens IF",0,2,3373
+"Allsvenskan 2015",2015-10-25,29,"BK Häcken","IF Elfsborg",5,2,3818
+"Allsvenskan 2015",2015-10-25,29,"GIF Sundsvall","Helsingborgs IF",2,1,4098
+"Allsvenskan 2015",2015-10-25,29,"Hammarby IF","Malmö FF",0,1,30627
+"Allsvenskan 2015",2015-10-25,29,"IFK Norrköping","Halmstads BK",3,1,16125
+"Allsvenskan 2015",2015-10-26,29,AIK,"IFK Göteborg",1,2,43713
+"Allsvenskan 2015",2015-10-26,29,"Kalmar FF","Gefle IF",3,1,6683
+"Allsvenskan 2015",2015-10-26,29,"Åtvidabergs FF","Örebro SK",2,3,2389
+"Allsvenskan 2015",2015-10-31,30,"Djurgårdens IF","GIF Sundsvall",4,2,13442
+"Allsvenskan 2015",2015-10-31,30,"Gefle IF","Åtvidabergs FF",2,1,2536
+"Allsvenskan 2015",2015-10-31,30,"Halmstads BK","Hammarby IF",2,1,2878
+"Allsvenskan 2015",2015-10-31,30,"Helsingborgs IF","BK Häcken",1,2,7567
+"Allsvenskan 2015",2015-10-31,30,"IF Elfsborg","Falkenbergs FF",4,2,10321
+"Allsvenskan 2015",2015-10-31,30,"IFK Göteborg","Kalmar FF",2,2,17340
+"Allsvenskan 2015",2015-10-31,30,"Malmö FF","IFK Norrköping",0,2,20520
+"Allsvenskan 2015",2015-10-31,30,"Örebro SK",AIK,1,1,9293
