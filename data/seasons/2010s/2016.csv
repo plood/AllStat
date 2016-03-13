@@ -1,0 +1,241 @@
+leaguename,matchdate,matchday,hometeam,awayteam,homescore,awayscore,attendance
+"Allsvenskan 2016",2016-04-03,1,AIK,"GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-03,1,"BK Häcken","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-03,1,"Falkenbergs FF","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-03,1,"Gefle IF","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-03,1,"Hammarby IF","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-03,1,"Kalmar FF","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-03,1,"Malmö FF","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-03,1,"Örebro SK","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-06,2,"Djurgårdens IF","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-06,2,"GIF Sundsvall","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-06,2,"Helsingborgs IF","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-06,2,"IF Elfsborg","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-06,2,"IFK Göteborg","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-06,2,"IFK Norrköping","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-06,2,"Jönköpings Södra IF","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-06,2,"Östersunds FK",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-10,3,AIK,"IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-10,3,"BK Häcken","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-10,3,"Falkenbergs FF","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-10,3,"Gefle IF","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-10,3,"Hammarby IF","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-10,3,"Kalmar FF","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-10,3,"Malmö FF","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-10,3,"Örebro SK","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-17,4,"Djurgårdens IF","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-17,4,"GIF Sundsvall","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-17,4,"Helsingborgs IF","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-17,4,"IF Elfsborg","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-17,4,"IFK Göteborg","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-17,4,"IFK Norrköping",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-17,4,"Jönköpings Södra IF","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-17,4,"Östersunds FK","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-24,5,AIK,"IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-24,5,"BK Häcken","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-24,5,"Falkenbergs FF","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-24,5,"Gefle IF","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-24,5,"Hammarby IF","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-24,5,"Kalmar FF","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-24,5,"Malmö FF","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-24,5,"Örebro SK","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-27,6,"BK Häcken","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-27,6,"GIF Sundsvall","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-27,6,"Helsingborgs IF",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-27,6,"IF Elfsborg","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-27,6,"IFK Göteborg","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-27,6,"IFK Norrköping","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-27,6,"Jönköpings Södra IF","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-04-27,6,"Östersunds FK","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-01,7,AIK,"Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-01,7,"Djurgårdens IF","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-01,7,"Falkenbergs FF","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-01,7,"Gefle IF","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-01,7,"Hammarby IF","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-01,7,"IFK Norrköping","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-01,7,"Kalmar FF","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-01,7,"Malmö FF","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-08,8,"BK Häcken",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-08,8,"GIF Sundsvall","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-08,8,"Helsingborgs IF","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-08,8,"IF Elfsborg","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-08,8,"IFK Göteborg","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-08,8,"Jönköpings Södra IF","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-08,8,"Örebro SK","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-08,8,"Östersunds FK","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-15,9,AIK,"Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-15,9,"Falkenbergs FF","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-15,9,"IFK Norrköping","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-15,9,"Jönköpings Södra IF","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-15,9,"Kalmar FF","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-15,9,"Malmö FF","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-15,9,"Örebro SK","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-15,9,"Östersunds FK","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-18,10,"BK Häcken","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-18,10,"Djurgårdens IF","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-18,10,"Falkenbergs FF",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-18,10,"Gefle IF","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-18,10,"GIF Sundsvall","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-18,10,"Hammarby IF","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-18,10,"Helsingborgs IF","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-18,10,"IFK Göteborg","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-22,11,"Djurgårdens IF","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-22,11,"Gefle IF",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-22,11,"GIF Sundsvall","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-22,11,"IF Elfsborg","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-22,11,"IFK Göteborg","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-22,11,"Kalmar FF","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-22,11,"Malmö FF","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-22,11,"Örebro SK","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-29,12,AIK,"Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-29,12,"BK Häcken","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-29,12,"Falkenbergs FF","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-29,12,"Hammarby IF","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-29,12,"Helsingborgs IF","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-29,12,"IFK Norrköping","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-29,12,"Jönköpings Södra IF","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-05-29,12,"Östersunds FK","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-10,13,"BK Häcken","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-10,13,"Djurgårdens IF","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-10,13,"Gefle IF","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-10,13,"Helsingborgs IF","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-10,13,"IFK Göteborg","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-10,13,"Kalmar FF",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-10,13,"Malmö FF","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-10,13,"Östersunds FK","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-17,14,AIK,"Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-17,14,"Gefle IF","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-17,14,"GIF Sundsvall","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-17,14,"Hammarby IF","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-17,14,"IF Elfsborg","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-17,14,"IFK Norrköping","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-17,14,"Jönköpings Södra IF","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-17,14,"Örebro SK","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-24,15,"Djurgårdens IF","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-24,15,"Falkenbergs FF","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-24,15,"Hammarby IF",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-24,15,"Helsingborgs IF","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-24,15,"IF Elfsborg","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-24,15,"IFK Göteborg","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-24,15,"IFK Norrköping","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-24,15,"Malmö FF","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-31,16,AIK,"Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-31,16,"BK Häcken","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-31,16,"Gefle IF","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-31,16,"GIF Sundsvall","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-31,16,"Jönköpings Södra IF","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-31,16,"Kalmar FF","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-31,16,"Örebro SK","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-07-31,16,"Östersunds FK","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-07,17,"Djurgårdens IF","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-07,17,"Falkenbergs FF","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-07,17,"Hammarby IF","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-07,17,"Helsingborgs IF","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-07,17,"IF Elfsborg","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-07,17,"IFK Norrköping","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-07,17,"Malmö FF",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-07,17,"Östersunds FK","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-14,18,AIK,"Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-14,18,"BK Häcken","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-14,18,"Djurgårdens IF","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-14,18,"Gefle IF","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-14,18,"GIF Sundsvall","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-14,18,"IFK Göteborg","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-14,18,"Jönköpings Södra IF","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-14,18,"Kalmar FF","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-21,19,"Falkenbergs FF","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-21,19,"Hammarby IF","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-21,19,"Helsingborgs IF","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-21,19,"IF Elfsborg","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-21,19,"IFK Norrköping","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-21,19,"Malmö FF","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-21,19,"Örebro SK",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-21,19,"Östersunds FK","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-28,20,AIK,"Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-28,20,"BK Häcken","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-28,20,"Djurgårdens IF","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-28,20,"GIF Sundsvall","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-28,20,"IFK Göteborg","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-28,20,"Jönköpings Södra IF","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-28,20,"Kalmar FF","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-08-28,20,"Örebro SK","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-11,21,"Falkenbergs FF","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-11,21,"Gefle IF","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-11,21,"GIF Sundsvall",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-11,21,"Hammarby IF","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-11,21,"IF Elfsborg","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-11,21,"IFK Norrköping","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-11,21,"Malmö FF","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-11,21,"Östersunds FK","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-18,22,AIK,"Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-18,22,"BK Häcken","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-18,22,"Djurgårdens IF","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-18,22,"Helsingborgs IF","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-18,22,"IF Elfsborg","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-18,22,"Jönköpings Södra IF","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-18,22,"Kalmar FF","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-18,22,"Örebro SK","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-21,23,"Djurgårdens IF",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-21,23,"Gefle IF","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-21,23,"Hammarby IF","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-21,23,"Helsingborgs IF","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-21,23,"IFK Göteborg","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-21,23,"Kalmar FF","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-21,23,"Malmö FF","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-21,23,"Östersunds FK","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-25,24,"Falkenbergs FF","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-25,24,"GIF Sundsvall","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-25,24,"IF Elfsborg",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-25,24,"IFK Göteborg","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-25,24,"IFK Norrköping","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-25,24,"Jönköpings Södra IF","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-25,24,"Malmö FF","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-09-25,24,"Örebro SK","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-02,25,AIK,"IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-02,25,"BK Häcken","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-02,25,"Djurgårdens IF","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-02,25,"Gefle IF","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-02,25,"GIF Sundsvall","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-02,25,"Helsingborgs IF","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-02,25,"Kalmar FF","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-02,25,"Östersunds FK","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-16,26,AIK,"Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-16,26,"Falkenbergs FF","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-16,26,"Hammarby IF","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-16,26,"IF Elfsborg","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-16,26,"IFK Göteborg","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-16,26,"IFK Norrköping","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-16,26,"Jönköpings Södra IF","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-16,26,"Örebro SK","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-23,27,"BK Häcken","Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-23,27,"Djurgårdens IF","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-23,27,"Gefle IF","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-23,27,"Hammarby IF","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-23,27,"IFK Göteborg",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-23,27,"IFK Norrköping","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-23,27,"Malmö FF","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-23,27,"Örebro SK","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-26,28,AIK,"BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-26,28,"Falkenbergs FF","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-26,28,"GIF Sundsvall","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-26,28,"Helsingborgs IF","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-26,28,"IF Elfsborg","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-26,28,"Jönköpings Södra IF","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-26,28,"Kalmar FF","Gefle IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-26,28,"Östersunds FK","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-30,29,"Djurgårdens IF","BK Häcken",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-30,29,"Falkenbergs FF","Helsingborgs IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-30,29,"Gefle IF","Malmö FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-30,29,"Hammarby IF","IFK Norrköping",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-30,29,"IFK Göteborg","IF Elfsborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-30,29,"Jönköpings Södra IF",AIK,NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-30,29,"Kalmar FF","GIF Sundsvall",NULL,NULL,NULL
+"Allsvenskan 2016",2016-10-30,29,"Örebro SK","Östersunds FK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-11-06,30,AIK,"Kalmar FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-11-06,30,"BK Häcken","Falkenbergs FF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-11-06,30,"GIF Sundsvall","Djurgårdens IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-11-06,30,"Helsingborgs IF","Jönköpings Södra IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-11-06,30,"IF Elfsborg","Örebro SK",NULL,NULL,NULL
+"Allsvenskan 2016",2016-11-06,30,"IFK Norrköping","IFK Göteborg",NULL,NULL,NULL
+"Allsvenskan 2016",2016-11-06,30,"Malmö FF","Hammarby IF",NULL,NULL,NULL
+"Allsvenskan 2016",2016-11-06,30,"Östersunds FK","Gefle IF",NULL,NULL,NULL
